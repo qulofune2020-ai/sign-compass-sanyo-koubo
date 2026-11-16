@@ -742,3 +742,68 @@
     サイズ: 1907605
     形式: pdf
     ページ数: 16
+  - id: 大分県_屋外広告物_概要
+    url: https://www.pref.oita.jp/soshiki/17510/okugai.html
+    最終更新: Sun, 15 Nov 2026 20:08:39 GMT
+    状態: 取得済み
+    ファイル: 大分県_屋外広告物_概要.html
+    取得日: 2026-11-16
+    sha256: 502ac11f9c8c02cd69a3f60e8039c21a99cf77e2cac658d1c6120709d5bc9d81
+    サイズ: 47271
+    形式: html
+  - id: 大分県_屋外広告物_様式
+    url: https://www.pref.oita.jp/soshiki/17510/okugai-youshiki.html
+    最終更新: Sun, 15 Nov 2026 20:08:06 GMT
+    状態: 取得済み
+    ファイル: 大分県_屋外広告物_様式.html
+    取得日: 2026-11-16
+    sha256: 8beca843d57a2bcf9b37436e8659203fc5a017dd3715d7572228582dbcb86418
+    サイズ: 39849
+    形式: html
+  - id: 大分県_屋外広告物_手数料見直し
+    url: https://www.pref.oita.jp/soshiki/17510/okugai-tesuuryoukaisei.html
+    最終更新: Sun, 15 Nov 2026 20:08:31 GMT
+    状態: 取得済み
+    ファイル: 大分県_屋外広告物_手数料見直し.html
+    取得日: 2026-11-16
+    sha256: 1cae51a2908373f6371b08dae0d25d52c8f04fd4dee9de5a142fe07bb4cf95e7
+    サイズ: 27680
+    形式: html
+  - id: 大分県大分市_屋外広告物_について
+    url: https://www.city.oita.oita.jp/o170/machizukuri/toshi/1440743619476.html
+    最終更新: Sun, 16 Aug 2026 15:15:08 GMT
+    状態: 取得済み
+    ファイル: 大分県大分市_屋外広告物_について.html
+    取得日: 2026-11-16
+    sha256: 0861ff7e246176ad76e3667a09ad89e7fbad2ec5ee0eb93e3a242fead14f37a6
+    サイズ: 42515
+    形式: html
+  - id: 大分県大分市_屋外広告物_手数料
+    url: https://www.city.oita.oita.jp/o170/machizukuri/toshi/documents/ichiran.pdf
+    最終更新: Tue, 31 Mar 2026 15:23:14 GMT
+    状態: 取得済み
+    ファイル: 大分県大分市_屋外広告物_手数料.pdf
+    取得日: 2026-11-16
+    sha256: e00702abd6870a635fdb95be86dfa92da32edc5f224a8ec24cf0691fdc4cd369
+    サイズ: 59053
+    形式: pdf
+    ページ数: 1
+  - id: 大分県大分市_屋外広告物_規則改正
+    url: https://www.city.oita.oita.jp/o170/machizukuri/toshi/okugaijyoureikaisei.html
+    最終更新: Sun, 16 Aug 2026 15:15:08 GMT
+    状態: 取得済み
+    ファイル: 大分県大分市_屋外広告物_規則改正.html
+    取得日: 2026-11-16
+    sha256: 9c103b47b9a0d5c391375a8eed54fe55b2af8bd6ec709f24031b944d49e62213
+    サイズ: 21113
+    形式: html
+  - id: 大分県大分市_屋外広告物_手引き
+    url: https://www.city.oita.oita.jp/o170/machizukuri/toshi/documents/tebiki20260401.pdf
+    最終更新: Fri, 01 May 2026 03:15:06 GMT
+    状態: 取得済み
+    ファイル: 大分県大分市_屋外広告物_手引き.pdf
+    取得日: 2026-11-16
+    sha256: 0cbc8a7c93e24701a809cea7c0656ad37eefbd8df13afc6a91cc7975b62e6afe
+    サイズ: 5369960
+    形式: pdf
+    ページ数: 22

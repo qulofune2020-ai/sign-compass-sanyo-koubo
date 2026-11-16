@@ -104,3 +104,12 @@
   # ---- 福岡県宗像市 ----
   - {id: 福岡県宗像市_屋外広告物_許可申請, 自治体: 福岡県宗像市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.munakata.lg.jp/kiji0031957/index.html", メモ: "屋外広告物の許可申請"}
   - {id: 福岡県宗像市_屋外広告物_手引き, 自治体: 福岡県宗像市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.munakata.lg.jp/kiji0031994/3_1994_18_07koukoubutujyoureitebiki.pdf", メモ: "宗像市屋外広告物条例の手引き"}
+  # ---- 大分県（大分県屋外広告物条例） ----
+  - {id: 大分県_屋外広告物_概要, 自治体: 大分県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.oita.jp/soshiki/17510/okugai.html", メモ: "屋外広告物"}
+  - {id: 大分県_屋外広告物_様式, 自治体: 大分県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.oita.jp/soshiki/17510/okugai-youshiki.html", メモ: "屋外広告物各種申請様式"}
+  - {id: 大分県_屋外広告物_手数料見直し, 自治体: 大分県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.oita.jp/soshiki/17510/okugai-tesuuryoukaisei.html", メモ: "手数料の見直し（令和8年4月1日～）"}
+  # ---- 大分県大分市 ----
+  - {id: 大分県大分市_屋外広告物_について, 自治体: 大分県大分市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.oita.oita.jp/o170/machizukuri/toshi/1440743619476.html", メモ: "大分市の屋外広告物について"}
+  - {id: 大分県大分市_屋外広告物_手数料, 自治体: 大分県大分市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.oita.oita.jp/o170/machizukuri/toshi/documents/ichiran.pdf", メモ: "申請手数料（一覧）"}
+  - {id: 大分県大分市_屋外広告物_規則改正, 自治体: 大分県大分市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.oita.oita.jp/o170/machizukuri/toshi/okugaijyoureikaisei.html", メモ: "施行規則の一部改正（点検資格者）"}
+  - {id: 大分県大分市_屋外広告物_手引き, 自治体: 大分県大分市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.oita.oita.jp/o170/machizukuri/toshi/documents/tebiki20260401.pdf", メモ: "大分市屋外広告物の手引き（令和8年4月1日）"}
