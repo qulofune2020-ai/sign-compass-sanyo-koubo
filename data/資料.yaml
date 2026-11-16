@@ -142,3 +142,22 @@
   - {id: 千葉県流山市_広告物_手続き, 自治体: 千葉県流山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.nagareyama.chiba.jp/information/1007116/1007365/1019404/1021058.html", メモ: "流山市広告物条例の手続き・様式"}
   - {id: 千葉県流山市_広告物_規制, 自治体: 千葉県流山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.nagareyama.chiba.jp/information/1007116/1007365/1019404/1021851.html", メモ: "流山市広告物条例の規制について"}
   - {id: 千葉県流山市_広告物_質疑応答集, 自治体: 千葉県流山市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.nagareyama.chiba.jp/_res/projects/default_project/_page_/001/022/809/situgioutou20230607.pdf", メモ: "流山市広告物条例 質疑応答集（令和5年6月7日 第3次改訂）"}
+  # ---- 大阪府（大阪府屋外広告物条例） ----
+  - {id: 大阪府_屋外広告物_てびき, 自治体: 大阪府, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.osaka.lg.jp/documents/2457/r8okugaikoukokubutunotebiki.pdf", メモ: "屋外広告物のてびき（令和8年7月）"}
+  - {id: 大阪府_屋外広告物_安全点検, 自治体: 大阪府, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.osaka.lg.jp/o130170/kenshi_kikaku/okugaikoukoku/kaisei_tenken_2018.html", メモ: "屋外広告物の安全点検について"}
+  # ---- 大阪府堺市 ----
+  - {id: 大阪府堺市_屋外広告物_許可申請, 自治体: 大阪府堺市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.sakai.lg.jp/shisei/toshi/toshikeikan/okugaikoukokusinsei/kyokasinsei/index.html", メモ: "屋外広告物許可申請"}
+  - {id: 大阪府堺市_屋外広告物_更新手続き変更, 自治体: 大阪府堺市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.sakai.lg.jp/shisei/toshi/toshikeikan/okugaikoukokusinsei/kyokasinsei/kousin_henkou.html", メモ: "屋外広告物の更新手続きが変更になりました"}
+  - {id: 大阪府堺市_屋外広告物_進め方, 自治体: 大阪府堺市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.sakai.lg.jp/shisei/toshi/toshikeikan/okugaikoukokusinsei/kyokasinsei/okugai_shinsei_flow.html", メモ: "許可申請・届出の進め方"}
+  # ---- 大阪府東大阪市 ----
+  - {id: 大阪府東大阪市_屋外広告物_ページ, 自治体: 大阪府東大阪市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.higashiosaka.lg.jp/0000005149.html", メモ: "屋外広告物"}
+  - {id: 大阪府東大阪市_屋外広告物_てびき, 自治体: 大阪府東大阪市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.higashiosaka.lg.jp/cmsfiles/contents/0000005/5149/tebiki2.pdf", メモ: "屋外広告物のてびき（改訂版）"}
+  # ---- 大阪府枚方市 ----
+  - {id: 大阪府枚方市_屋外広告物_基準と手続き, 自治体: 大阪府枚方市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hirakata.osaka.jp/0000000296.html", メモ: "屋外広告物の基準と許可申請等の手続き"}
+  - {id: 大阪府枚方市_屋外広告物_安全点検, 自治体: 大阪府枚方市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hirakata.osaka.jp/0000046632.html", メモ: "安全点検について"}
+  - {id: 大阪府枚方市_屋外広告物_手数料表, 自治体: 大阪府枚方市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.hirakata.osaka.jp/cmsfiles/contents/0000000/296/80350.pdf", メモ: "枚方市屋外広告物条例 手数料表"}
+  # ---- 大阪府茨木市 ----
+  - {id: 大阪府茨木市_屋外広告物_制定, 自治体: 大阪府茨木市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.ibaraki.osaka.jp/kikou/toshiseibi/toshiseisaku/menu/okugaikoukokubutu/63910.html", メモ: "茨木市屋外広告物条例を制定しました"}
+  - {id: 大阪府茨木市_屋外広告物_条例, 自治体: 大阪府茨木市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.ibaraki.osaka.jp/office/hobun/reiki_int/reiki_honbun/k213RG00001058_1.html", メモ: "茨木市屋外広告物条例（例規集）"}
+  - {id: 大阪府茨木市_屋外広告物_施行規則, 自治体: 大阪府茨木市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.ibaraki.osaka.jp/office/hobun/reiki_int/reiki_honbun/k213RG00001059.html", メモ: "茨木市屋外広告物条例施行規則（例規集）"}
+  - {id: 大阪府堺市_屋外広告物_施行規則, 自治体: 大阪府堺市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.sakai.lg.jp/reiki/reiki_honbun/s000RG00000449.html", メモ: "堺市屋外広告物条例施行規則（例規集）"}

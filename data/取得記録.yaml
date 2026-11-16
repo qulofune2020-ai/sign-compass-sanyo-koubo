@@ -1010,3 +1010,128 @@
     サイズ: 1852078
     形式: pdf
     ページ数: 77
+  - id: 大阪府_屋外広告物_てびき
+    url: https://www.pref.osaka.lg.jp/documents/2457/r8okugaikoukokubutunotebiki.pdf
+    最終更新: Fri, 11 Sep 2026 01:16:15 GMT
+    状態: 取得済み
+    ファイル: 大阪府_屋外広告物_てびき.pdf
+    取得日: 2026-11-16
+    sha256: ca3641d9acf1a127013dcc06d5c24e3c1965755d4cbcd78948eb36ec4bc07954
+    サイズ: 2238693
+    形式: pdf
+    ページ数: 40
+  - id: 大阪府_屋外広告物_安全点検
+    url: https://www.pref.osaka.lg.jp/o130170/kenshi_kikaku/okugaikoukoku/kaisei_tenken_2018.html
+    最終更新: Tue, 31 Dec 2024 15:01:20 GMT
+    状態: 取得済み
+    ファイル: 大阪府_屋外広告物_安全点検.html
+    取得日: 2026-11-16
+    sha256: 8a5c73d273f78cb6b2c351095333a39243a2a63b4dc50738533dd600abc5a188
+    サイズ: 19724
+    形式: html
+  - id: 大阪府堺市_屋外広告物_許可申請
+    url: https://www.city.sakai.lg.jp/shisei/toshi/toshikeikan/okugaikoukokusinsei/kyokasinsei/index.html
+    状態: 取得済み
+    ファイル: 大阪府堺市_屋外広告物_許可申請.html
+    取得日: 2026-11-16
+    sha256: 572d15c59a5dcf8df90c4bba8199d395d2bbb4a29f04ddfa325e2d0be0f316bd
+    サイズ: 17994
+    形式: html
+  - id: 大阪府堺市_屋外広告物_更新手続き変更
+    url: https://www.city.sakai.lg.jp/shisei/toshi/toshikeikan/okugaikoukokusinsei/kyokasinsei/kousin_henkou.html
+    状態: 取得済み
+    ファイル: 大阪府堺市_屋外広告物_更新手続き変更.html
+    取得日: 2026-11-16
+    sha256: c91017c19c25869cd1c5d73dfeb1fca857a1e2cd54c9daa49b920182e3eab408
+    サイズ: 17067
+    形式: html
+  - id: 大阪府堺市_屋外広告物_進め方
+    url: https://www.city.sakai.lg.jp/shisei/toshi/toshikeikan/okugaikoukokusinsei/kyokasinsei/okugai_shinsei_flow.html
+    状態: 取得済み
+    ファイル: 大阪府堺市_屋外広告物_進め方.html
+    取得日: 2026-11-16
+    sha256: ae49c596f158511519ac9ac1ad4318c5f9af7fa32bd39c1d8df9eef5518938ee
+    サイズ: 21396
+    形式: html
+  - id: 大阪府東大阪市_屋外広告物_ページ
+    url: https://www.city.higashiosaka.lg.jp/0000005149.html
+    最終更新: Mon, 16 Nov 2026 15:19:08 GMT
+    状態: 取得済み
+    ファイル: 大阪府東大阪市_屋外広告物_ページ.html
+    取得日: 2026-11-16
+    sha256: 6d4c342ffc9289d73e663c38d2611564d83a7c728cee001b33127a78b81200b3
+    サイズ: 37234
+    形式: html
+  - id: 大阪府東大阪市_屋外広告物_てびき
+    url: https://www.city.higashiosaka.lg.jp/cmsfiles/contents/0000005/5149/tebiki2.pdf
+    最終更新: Tue, 10 Mar 2026 08:58:27 GMT
+    状態: 取得済み
+    ファイル: 大阪府東大阪市_屋外広告物_てびき.pdf
+    取得日: 2026-11-16
+    sha256: b95e3009fe1ff4a1b5b09bfcb95b642a8000f1df3549ce86aac256e7006332a4
+    サイズ: 1691574
+    形式: pdf
+    ページ数: 14
+  - id: 大阪府枚方市_屋外広告物_基準と手続き
+    url: https://www.city.hirakata.osaka.jp/0000000296.html
+    最終更新: Mon, 16 Nov 2026 15:17:46 GMT
+    状態: 取得済み
+    ファイル: 大阪府枚方市_屋外広告物_基準と手続き.html
+    取得日: 2026-11-16
+    sha256: 8706189e20353a35496ccd9f07d4e97f9fdba3ae9eb19d76939d2ea00df94947
+    サイズ: 64502
+    形式: html
+  - id: 大阪府枚方市_屋外広告物_安全点検
+    url: https://www.city.hirakata.osaka.jp/0000046632.html
+    最終更新: Mon, 16 Nov 2026 15:16:49 GMT
+    状態: 取得済み
+    ファイル: 大阪府枚方市_屋外広告物_安全点検.html
+    取得日: 2026-11-16
+    sha256: e679e6cf603622e48a6c17029b9a15e154409c85b0ea8b4b201dd007830772df
+    サイズ: 41048
+    形式: html
+  - id: 大阪府枚方市_屋外広告物_手数料表
+    url: https://www.city.hirakata.osaka.jp/cmsfiles/contents/0000000/296/80350.pdf
+    最終更新: Mon, 31 Mar 2025 23:56:55 GMT
+    状態: 取得済み
+    ファイル: 大阪府枚方市_屋外広告物_手数料表.pdf
+    取得日: 2026-11-16
+    sha256: d82ec18a4eb8a3813bcf8b438ac61ff85d2135c283768626a70f7915e3dcb95b
+    サイズ: 135945
+    形式: pdf
+    ページ数: 1
+  - id: 大阪府茨木市_屋外広告物_制定
+    url: https://www.city.ibaraki.osaka.jp/kikou/toshiseibi/toshiseisaku/menu/okugaikoukokubutu/63910.html
+    最終更新: Mon, 09 Nov 2026 20:51:06 GMT
+    状態: 取得済み
+    ファイル: 大阪府茨木市_屋外広告物_制定.html
+    取得日: 2026-11-16
+    sha256: e37f30cdfc5e0a5f93fc133c05c5104ad9a4e96103dfd497b9961a30d2ecf7ef
+    サイズ: 65326
+    形式: html
+  - id: 大阪府茨木市_屋外広告物_条例
+    url: https://www.city.ibaraki.osaka.jp/office/hobun/reiki_int/reiki_honbun/k213RG00001058_1.html
+    最終更新: Fri, 13 Dec 2024 06:15:10 GMT
+    状態: 取得済み
+    ファイル: 大阪府茨木市_屋外広告物_条例.html
+    取得日: 2026-11-16
+    sha256: 564f6195bdeabe45944b51731a4fe58782e48bc2962e7043c403aee0a8471365
+    サイズ: 128311
+    形式: html
+  - id: 大阪府茨木市_屋外広告物_施行規則
+    url: https://www.city.ibaraki.osaka.jp/office/hobun/reiki_int/reiki_honbun/k213RG00001059.html
+    最終更新: Wed, 11 Nov 2026 01:33:07 GMT
+    状態: 取得済み
+    ファイル: 大阪府茨木市_屋外広告物_施行規則.html
+    取得日: 2026-11-16
+    sha256: a554d259c71215fc863421a583279ca36fb5e8ccb0e040673323dc92260089e9
+    サイズ: 132461
+    形式: html
+  - id: 大阪府堺市_屋外広告物_施行規則
+    url: https://www.city.sakai.lg.jp/reiki/reiki_honbun/s000RG00000449.html
+    状態: 取得済み
+    ファイル: 大阪府堺市_屋外広告物_施行規則.html
+    取得日: 2026-11-16
+    sha256: e95ae1cec1629e76bf5e99191b0b8774ec4ba99373342d266fe2e318b4ef42ed
+    サイズ: 307098
+    形式: html
