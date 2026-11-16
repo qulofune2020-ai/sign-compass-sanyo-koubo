@@ -34,3 +34,15 @@
   - {id: 茨城県ひたちなか市_屋外広告物_規則, 自治体: 茨城県ひたちなか市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.hitachinaka.lg.jp/_res/projects/default_project/_page_/001/017/109/koukoku_kisoku.pdf", メモ: "ひたちなか市茨城県屋外広告物条例の施行に関する規則"}
   # ---- 東京都（東京都屋外広告物条例。八王子市・町田市は市の条例） ----
   - {id: 東京都_屋外広告物_しおり, 自治体: 東京都, 区分: 屋外広告物, 種別: しおり, 形式: pdf, 最初の版で読む: true, url: "https://www.toshiseibi.metro.tokyo.lg.jp/documents/d/toshiseibi/kou-siori2026-all_booklet", メモ: "屋外広告物のしおり（令和8年7月）"}
+  # ---- 静岡県（県条例：磐田市・焼津市など12市と町。富士市・静岡市・浜松市・三島市などは市の条例） ----
+  - {id: 静岡県_屋外広告物_ガイド申請後, 自治体: 静岡県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/029/825/06_postpeti.pdf", メモ: "屋外広告物ガイドブック 6.申請後は何をすればいいのか"}
+  - {id: 静岡県_屋外広告物_ガイド設置まで, 自治体: 静岡県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/029/825/05_preinsta.pdf", メモ: "屋外広告物ガイドブック 5.設置までに何をすればいいのか"}
+  - {id: 静岡県_屋外広告物_条例, 自治体: 静岡県, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/029/825/004_2_jorei2.pdf", メモ: "静岡県屋外広告物条例"}
+  - {id: 静岡県_屋外広告物_施行規則, 自治体: 静岡県, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/029/825/005_2_sekokisoku2.pdf", メモ: "静岡県屋外広告物条例施行規則"}
+  - {id: 静岡県_屋外広告物_手続見直し, 自治体: 静岡県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/040/165/0_oshirase.pdf", メモ: "手続の見直しについて（県条例の対象地域の一覧あり）"}
+  - {id: 静岡県_屋外広告物_手数料改定, 自治体: 静岡県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.shizuoka.jp/_res/projects/default_project/_page_/001/040/165/oshirase2.pdf", メモ: "屋外広告物・業に関する手数料改定のお知らせ（令和8年4月1日）"}
+  - {id: 静岡県_屋外広告物_窓口一覧, 自治体: 静岡県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.shizuoka.jp/machizukuri/keikan/okugaikokoku/1029829.html", メモ: "申請・相談の窓口一覧（土木事務所、市役所）"}
+  - {id: 静岡県磐田市_屋外広告物_ページ, 自治体: 静岡県磐田市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.iwata.shizuoka.jp/sangyou_business/kenchiku/1002164.html", メモ: "屋外広告物（磐田市）"}
+  - {id: 静岡県磐田市_屋外広告物_手数料, 自治体: 静岡県磐田市, 区分: 屋外広告物, 種別: 一覧, 最初の版で読む: true, url: "https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/002/164/kaiteigotesuuryou.pdf", メモ: "改定後手数料"}
+  - {id: 静岡県磐田市_屋外広告物_点検改正, 自治体: 静岡県磐田市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/002/164/tennkenn.pdf", メモ: "静岡県屋外広告物条例施行規則一部改正について"}
+  - {id: 静岡県焼津市_屋外広告物_ページ, 自治体: 静岡県焼津市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.yaizu.lg.jp/g06-001/keikankeikaku/okugai.html", メモ: "屋外広告物について（焼津市）"}
