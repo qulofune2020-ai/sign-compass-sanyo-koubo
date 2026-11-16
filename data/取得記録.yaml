@@ -1219,3 +1219,86 @@
     sha256: 540b2b311f9803b1237498ee3aacff929100ed37b9d6fd1bd48fe9cfc6418b17
     サイズ: 65571
     形式: html
+  - id: 群馬県_屋外広告物_手引
+    url: https://www.pref.gunma.jp/uploaded/attachment/694148.pdf
+    最終更新: Tue, 31 Mar 2026 15:02:48 GMT
+    状態: 取得済み
+    ファイル: 群馬県_屋外広告物_手引.pdf
+    取得日: 2026-11-16
+    sha256: 426892de5741549f2aa3d44add44f978ab6e3ca2ccb34beff8f87e799b7824cb
+    サイズ: 2636956
+    形式: pdf
+    ページ数: 31
+  - id: 群馬県前橋市_屋外広告物_許可申請
+    url: https://www.city.maebashi.gunma.jp/soshiki/toshikeikakubu/toshikeikaku/gyomu/3/1/2374.html
+    最終更新: Thu, 17 Sep 2026 17:49:17 GMT
+    状態: 取得済み
+    ファイル: 群馬県前橋市_屋外広告物_許可申請.html
+    取得日: 2026-11-16
+    sha256: 7efa2d7befcf1a9e7d430d7053167787be0b4dc30ab2cf90b7f3fe83cc0fdc7e
+    サイズ: 65258
+    形式: html
+  - id: 群馬県高崎市_屋外広告物_必要書類
+    url: https://www.city.takasaki.gunma.jp/page/2116.html
+    最終更新: Mon, 16 Nov 2026 23:00:43 GMT
+    状態: 取得済み
+    ファイル: 群馬県高崎市_屋外広告物_必要書類.html
+    取得日: 2026-11-16
+    sha256: 9b8aa6da4388c94391c41165c150eb2a265f5fed80545f3f5453d730bd9a6e81
+    サイズ: 28142
+    形式: html
+  - id: 群馬県高崎市_屋外広告物_条例
+    url: https://www.city.takasaki.gunma.jp/page/3264.html
+    最終更新: Mon, 16 Nov 2026 23:01:10 GMT
+    状態: 取得済み
+    ファイル: 群馬県高崎市_屋外広告物_条例.html
+    取得日: 2026-11-16
+    sha256: bc464a66983648ceddb106591aa8ea05bfe2b6617abee133e4a28919ec5f5394
+    サイズ: 22943
+    形式: html
+  - id: 群馬県伊勢崎市_屋外広告物_表示
+    url: https://www.city.isesaki.lg.jp/soshiki/tokeibu/toshi_keikaku/keikan/keikan/1745.html
+    最終更新: Fri, 13 Nov 2026 12:38:16 GMT
+    状態: 取得済み
+    ファイル: 群馬県伊勢崎市_屋外広告物_表示.html
+    取得日: 2026-11-16
+    sha256: fcd57a382acaaa02ea252e46004e6be48d43baa89fe96a5aab797a9439d43f5e
+    サイズ: 54670
+    形式: html
+  - id: 群馬県伊勢崎市_屋外広告物_施行規則
+    url: https://www.city.isesaki.lg.jp/section/d1w_reiki/H420902100006/H420902100006_j.html
+    最終更新: Thu, 13 Aug 2026 02:03:50 GMT
+    状態: 取得済み
+    ファイル: 群馬県伊勢崎市_屋外広告物_施行規則.html
+    取得日: 2026-11-16
+    sha256: 08bdd01b1fc480e75dc0906d6605ac689a690238a51be82a79b492fb42d35ab3
+    サイズ: 245864
+    形式: html
+  - id: 群馬県伊勢崎市_屋外広告物_安全確保
+    url: https://www.city.isesaki.lg.jp/soshiki/tokeibu/toshi_keikaku/keikan/keikan/1744.html
+    最終更新: Fri, 13 Nov 2026 12:38:15 GMT
+    状態: 取得済み
+    ファイル: 群馬県伊勢崎市_屋外広告物_安全確保.html
+    取得日: 2026-11-16
+    sha256: 815d2ee1e31c34239209419c334cc02e0e40a07014d3cd4de49e454821ed6040
+    サイズ: 47684
+    形式: html
+  - id: 群馬県太田市_屋外広告物_許可申請
+    url: https://www.city.ota.gunma.jp/page/3814.html
+    最終更新: Mon, 16 Nov 2026 23:00:16 GMT
+    状態: 取得済み
+    ファイル: 群馬県太田市_屋外広告物_許可申請.html
+    取得日: 2026-11-16
+    sha256: 2d95362eb6493e3929387a04b50548c7a53b5e0fafc972cdfda6cfeddf1a0f67
+    サイズ: 32514
+    形式: html
+  - id: 群馬県前橋市_屋外広告物_手引き
+    url: https://www.city.maebashi.gunma.jp/material/files/group/59/okugaitebiki20230301.pdf
+    最終更新: Fri, 03 Apr 2026 06:28:00 GMT
+    状態: 取得済み
+    ファイル: 群馬県前橋市_屋外広告物_手引き.pdf
+    取得日: 2026-11-16
+    sha256: 00f8a18a66fb3cbcbb739e88f1a5a33f9be84b07aaf07bcb16a8a0b23c912ae8
+    サイズ: 2345432
+    形式: pdf
+    ページ数: 36

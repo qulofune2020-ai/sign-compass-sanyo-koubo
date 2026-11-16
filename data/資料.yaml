@@ -173,3 +173,17 @@
   - {id: 栃木県那須塩原市_屋外広告物_申請手続き, 自治体: 栃木県那須塩原市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/toshikeikakuka/toshikeikaku_kaihatsu_kenchiku/1/19928.html", メモ: "屋外広告物申請手続き"}
   - {id: 栃木県那須塩原市_屋外広告物_よくある質問, 自治体: 栃木県那須塩原市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/toshikeikakuka/toshikeikaku_kaihatsu_kenchiku/1/19929.html", メモ: "屋外広告物についてよくある質問"}
   - {id: 栃木県那須塩原市_屋外広告物_様式, 自治体: 栃木県那須塩原市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/toshikeikakuka/toshikeikaku_kaihatsu_kenchiku/1/19927.html", メモ: "屋外広告物申請関係様式"}
+  # ---- 群馬県（群馬県屋外広告物条例） ----
+  - {id: 群馬県_屋外広告物_手引, 自治体: 群馬県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.gunma.jp/uploaded/attachment/694148.pdf", メモ: "屋外広告物の手引（令和8年4月）"}
+  # ---- 群馬県前橋市 ----
+  - {id: 群馬県前橋市_屋外広告物_許可申請, 自治体: 群馬県前橋市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.maebashi.gunma.jp/soshiki/toshikeikakubu/toshikeikaku/gyomu/3/1/2374.html", メモ: "屋外広告物の許可申請・届出について"}
+  # ---- 群馬県高崎市 ----
+  - {id: 群馬県高崎市_屋外広告物_必要書類, 自治体: 群馬県高崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.takasaki.gunma.jp/page/2116.html", メモ: "屋外広告物許可申請等に必要な書類"}
+  - {id: 群馬県高崎市_屋外広告物_条例, 自治体: 群馬県高崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.takasaki.gunma.jp/page/3264.html", メモ: "高崎市屋外広告物条例について"}
+  # ---- 群馬県伊勢崎市 ----
+  - {id: 群馬県伊勢崎市_屋外広告物_表示, 自治体: 群馬県伊勢崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.isesaki.lg.jp/soshiki/tokeibu/toshi_keikaku/keikan/keikan/1745.html", メモ: "屋外広告物の表示"}
+  - {id: 群馬県伊勢崎市_屋外広告物_施行規則, 自治体: 群馬県伊勢崎市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.isesaki.lg.jp/section/d1w_reiki/H420902100006/H420902100006_j.html", メモ: "伊勢崎市屋外広告物条例施行規則（例規集）"}
+  - {id: 群馬県伊勢崎市_屋外広告物_安全確保, 自治体: 群馬県伊勢崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.isesaki.lg.jp/soshiki/tokeibu/toshi_keikaku/keikan/keikan/1744.html", メモ: "屋外広告物の安全確保"}
+  # ---- 群馬県太田市 ----
+  - {id: 群馬県太田市_屋外広告物_許可申請, 自治体: 群馬県太田市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.ota.gunma.jp/page/3814.html", メモ: "屋外広告物の許可申請・各種届出"}
+  - {id: 群馬県前橋市_屋外広告物_手引き, 自治体: 群馬県前橋市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.maebashi.gunma.jp/material/files/group/59/okugaitebiki20230301.pdf", メモ: "前橋市屋外広告物の手引き（2023年3月）"}
