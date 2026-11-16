@@ -431,3 +431,31 @@
     sha256: bddc29edc758ef80b2006cac1b1a49bf894fd8617a2354a664182698b45f8a12
     サイズ: 14991
     形式: html
+  - id: 静岡県三島市_屋外広告物_許可申請手続き
+    url: https://www.city.mishima.shizuoka.jp/page/1688.html
+    最終更新: Sun, 15 Nov 2026 17:00:40 GMT
+    状態: 取得済み
+    ファイル: 静岡県三島市_屋外広告物_許可申請手続き.html
+    取得日: 2026-11-16
+    sha256: a5a70b6b6a334fb80f6b36707c11d89dfda535f68c1d36bac01d29c16d0a1584
+    サイズ: 46584
+    形式: html
+  - id: 静岡県三島市_屋外広告物_掲出のルール
+    url: https://www.city.mishima.shizuoka.jp/page/1736.html
+    最終更新: Sun, 15 Nov 2026 17:00:41 GMT
+    状態: 取得済み
+    ファイル: 静岡県三島市_屋外広告物_掲出のルール.html
+    取得日: 2026-11-16
+    sha256: acbda0d679626490dd25ccf927c7346fa945e0027809c570f8642f4f7c5347a9
+    サイズ: 55243
+    形式: html
+  - id: 静岡県三島市_屋外広告物_審査手数料
+    url: https://www.city.mishima.shizuoka.jp/uploaded/attachment/1819.pdf
+    最終更新: Wed, 04 Feb 2026 15:03:24 GMT
+    状態: 取得済み
+    ファイル: 静岡県三島市_屋外広告物_審査手数料.pdf
+    取得日: 2026-11-16
+    sha256: f2124a5030456a1bef248df8f53fa2c298e8436d7792b8dcf5c2af97810fee67
+    サイズ: 71674
+    形式: pdf
+    ページ数: 1

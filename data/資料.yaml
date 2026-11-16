@@ -59,3 +59,7 @@
   - {id: 静岡県浜松市_屋外広告物_管理者変更, 自治体: 静岡県浜松市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hamamatsu.shizuoka.jp/tochi/city/toshikai/koukoku/sinsei_c.html", メモ: "堅ろうな広告物等の管理者を変更するとき"}
   - {id: 静岡県浜松市_屋外広告物_手数料, 自治体: 静岡県浜松市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hamamatsu.shizuoka.jp/tochi/city/toshikai/koukoku/tesuryo.html", メモ: "屋外広告手数料"}
   - {id: 静岡県浜松市_屋外広告物_手数料算定変更, 自治体: 静岡県浜松市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hamamatsu.shizuoka.jp/tochi/okugaikokoku/2024tesuuryou.html", メモ: "令和7年1月から手数料の算定方法を変更"}
+  # ---- 静岡県三島市（三島市屋外広告物条例） ----
+  - {id: 静岡県三島市_屋外広告物_許可申請手続き, 自治体: 静岡県三島市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.mishima.shizuoka.jp/page/1688.html", メモ: "屋外広告物の許可申請手続き"}
+  - {id: 静岡県三島市_屋外広告物_掲出のルール, 自治体: 静岡県三島市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.mishima.shizuoka.jp/page/1736.html", メモ: "屋外広告物の掲出のルール（許可の期間）"}
+  - {id: 静岡県三島市_屋外広告物_審査手数料, 自治体: 静岡県三島市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.mishima.shizuoka.jp/uploaded/attachment/1819.pdf", メモ: "三島市屋外広告物許可申請審査手数料"}
