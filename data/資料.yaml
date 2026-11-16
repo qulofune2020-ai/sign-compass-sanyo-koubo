@@ -161,3 +161,15 @@
   - {id: 大阪府茨木市_屋外広告物_条例, 自治体: 大阪府茨木市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.ibaraki.osaka.jp/office/hobun/reiki_int/reiki_honbun/k213RG00001058_1.html", メモ: "茨木市屋外広告物条例（例規集）"}
   - {id: 大阪府茨木市_屋外広告物_施行規則, 自治体: 大阪府茨木市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.ibaraki.osaka.jp/office/hobun/reiki_int/reiki_honbun/k213RG00001059.html", メモ: "茨木市屋外広告物条例施行規則（例規集）"}
   - {id: 大阪府堺市_屋外広告物_施行規則, 自治体: 大阪府堺市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.sakai.lg.jp/reiki/reiki_honbun/s000RG00000449.html", メモ: "堺市屋外広告物条例施行規則（例規集）"}
+  # ---- 栃木県（栃木県屋外広告物条例） ----
+  - {id: 栃木県_屋外広告物_手引き, 自治体: 栃木県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.tochigi.lg.jp/h08/town/machidukuri/keikan/documents/okugaikoukokubutsu_tebikir8.pdf", メモ: "屋外広告物の手引き（令和8年版）"}
+  - {id: 栃木県_屋外広告物_申請窓口, 自治体: 栃木県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.tochigi.lg.jp/h08/town/machidukuri/keikan/documents/madoguchir8.pdf", メモ: "県内各市町の申請先・相談窓口（令和8年）"}
+  - {id: 栃木県_屋外広告物_安全管理, 自治体: 栃木県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.tochigi.lg.jp/h08/town/machidukuri/keikan/anzenkanri.html", メモ: "安全管理・点検"}
+  # ---- 栃木県宇都宮市 ----
+  - {id: 栃木県宇都宮市_屋外広告物_許可, 自治体: 栃木県宇都宮市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.utsunomiya.lg.jp/shisei/machizukuri/keikan/1005824.html", メモ: "屋外広告物の許可"}
+  - {id: 栃木県宇都宮市_屋外広告物_申請書一覧, 自治体: 栃木県宇都宮市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.utsunomiya.lg.jp/shisei/service/shinseisho/kenchikushido/1010881.html", メモ: "各種申請書・届出書一覧（建築指導課）"}
+  - {id: 栃木県宇都宮市_屋外広告物_事務要領, 自治体: 栃木県宇都宮市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.utsunomiya.lg.jp/_res/projects/default_project/_page_/001/005/824/jimuyouryou230826.pdf", メモ: "宇都宮市屋外広告物条例の施行に関する事務要領"}
+  # ---- 栃木県那須塩原市 ----
+  - {id: 栃木県那須塩原市_屋外広告物_申請手続き, 自治体: 栃木県那須塩原市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/toshikeikakuka/toshikeikaku_kaihatsu_kenchiku/1/19928.html", メモ: "屋外広告物申請手続き"}
+  - {id: 栃木県那須塩原市_屋外広告物_よくある質問, 自治体: 栃木県那須塩原市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/toshikeikakuka/toshikeikaku_kaihatsu_kenchiku/1/19929.html", メモ: "屋外広告物についてよくある質問"}
+  - {id: 栃木県那須塩原市_屋外広告物_様式, 自治体: 栃木県那須塩原市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/toshikeikakuka/toshikeikaku_kaihatsu_kenchiku/1/19927.html", メモ: "屋外広告物申請関係様式"}

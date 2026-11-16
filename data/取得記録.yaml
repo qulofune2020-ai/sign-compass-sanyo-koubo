@@ -1135,3 +1135,87 @@
     sha256: e95ae1cec1629e76bf5e99191b0b8774ec4ba99373342d266fe2e318b4ef42ed
     サイズ: 307098
     形式: html
+  - id: 栃木県_屋外広告物_手引き
+    url: https://www.pref.tochigi.lg.jp/h08/town/machidukuri/keikan/documents/okugaikoukokubutsu_tebikir8.pdf
+    最終更新: Mon, 05 Oct 2026 08:35:23 GMT
+    状態: 取得済み
+    ファイル: 栃木県_屋外広告物_手引き.pdf
+    取得日: 2026-11-16
+    sha256: 8e7c0e926a8f8d8965ece2582db2ad05e5e6a0d2fe5c487fb4e0b10df66fbf3d
+    サイズ: 1096213
+    形式: pdf
+    ページ数: 29
+  - id: 栃木県_屋外広告物_申請窓口
+    url: https://www.pref.tochigi.lg.jp/h08/town/machidukuri/keikan/documents/madoguchir8.pdf
+    最終更新: Mon, 05 Oct 2026 08:35:23 GMT
+    状態: 取得済み
+    ファイル: 栃木県_屋外広告物_申請窓口.pdf
+    取得日: 2026-11-16
+    sha256: 2757d10a5f9990fd28d4e13f934a64f88efc4a0bdae8049c9e4208f55b0ba4b8
+    サイズ: 71906
+    形式: pdf
+    ページ数: 1
+  - id: 栃木県_屋外広告物_安全管理
+    url: https://www.pref.tochigi.lg.jp/h08/town/machidukuri/keikan/anzenkanri.html
+    最終更新: Wed, 28 Oct 2026 00:35:21 GMT
+    状態: 取得済み
+    ファイル: 栃木県_屋外広告物_安全管理.html
+    取得日: 2026-11-16
+    sha256: 78e712b1635846c206902522278044899bd6aaf609d00d5db6ae046f6f5fee1b
+    サイズ: 17910
+    形式: html
+  - id: 栃木県宇都宮市_屋外広告物_許可
+    url: https://www.city.utsunomiya.lg.jp/shisei/machizukuri/keikan/1005824.html
+    最終更新: Mon, 16 Nov 2026 15:12:33 GMT
+    状態: 取得済み
+    ファイル: 栃木県宇都宮市_屋外広告物_許可.html
+    取得日: 2026-11-16
+    sha256: c1da8ec365613a6a24a57b3d8edf35a83361493aee99c06a32eb094171dc5e34
+    サイズ: 56017
+    形式: html
+  - id: 栃木県宇都宮市_屋外広告物_申請書一覧
+    url: https://www.city.utsunomiya.lg.jp/shisei/service/shinseisho/kenchikushido/1010881.html
+    最終更新: Mon, 16 Nov 2026 15:14:36 GMT
+    状態: 取得済み
+    ファイル: 栃木県宇都宮市_屋外広告物_申請書一覧.html
+    取得日: 2026-11-16
+    sha256: 18a4f08b73a1f2f3de143fa673879b1f38c4be0b9916437be4b950158e16cbb4
+    サイズ: 50113
+    形式: html
+  - id: 栃木県宇都宮市_屋外広告物_事務要領
+    url: https://www.city.utsunomiya.lg.jp/_res/projects/default_project/_page_/001/005/824/jimuyouryou230826.pdf
+    最終更新: Mon, 26 Feb 2024 04:34:44 GMT
+    状態: 取得済み
+    ファイル: 栃木県宇都宮市_屋外広告物_事務要領.pdf
+    取得日: 2026-11-16
+    sha256: 8fa868e5d6bae36e6b9b2e79585d10dbf893f308d8851d678bcd6400a62729f6
+    サイズ: 373274
+    形式: pdf
+    ページ数: 13
+  - id: 栃木県那須塩原市_屋外広告物_申請手続き
+    url: https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/toshikeikakuka/toshikeikaku_kaihatsu_kenchiku/1/19928.html
+    最終更新: Fri, 09 Oct 2026 04:43:52 GMT
+    状態: 取得済み
+    ファイル: 栃木県那須塩原市_屋外広告物_申請手続き.html
+    取得日: 2026-11-16
+    sha256: 1b4f75b54d9b0dca5a25639820b673cd225d27eb8b344fbbdac5bd97da32b0f6
+    サイズ: 60408
+    形式: html
+  - id: 栃木県那須塩原市_屋外広告物_よくある質問
+    url: https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/toshikeikakuka/toshikeikaku_kaihatsu_kenchiku/1/19929.html
+    最終更新: Wed, 14 Oct 2026 00:58:34 GMT
+    状態: 取得済み
+    ファイル: 栃木県那須塩原市_屋外広告物_よくある質問.html
+    取得日: 2026-11-16
+    sha256: 282f0ffb57d0a6d2d797c57b4e0b9957e8c56dd655bf27980ec75cfd4e89ee70
+    サイズ: 64192
+    形式: html
+  - id: 栃木県那須塩原市_屋外広告物_様式
+    url: https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/toshikeikakuka/toshikeikaku_kaihatsu_kenchiku/1/19927.html
+    最終更新: Fri, 09 Oct 2026 04:43:51 GMT
+    状態: 取得済み
+    ファイル: 栃木県那須塩原市_屋外広告物_様式.html
+    取得日: 2026-11-16
+    sha256: 540b2b311f9803b1237498ee3aacff929100ed37b9d6fd1bd48fe9cfc6418b17
+    サイズ: 65571
+    形式: html
