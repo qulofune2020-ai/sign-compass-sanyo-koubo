@@ -27,3 +27,8 @@
   - {id: 高知県高知市_屋外広告物_ページ, 自治体: 高知県高知市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kochi.kochi.jp/soshiki/52/koukokusinsei1.html", メモ: "高知市屋外広告物条例について（許可申請、広告業登録等）"}
   - {id: 高知県高知市_屋外広告物_手引き, 自治体: 高知県高知市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kochi.kochi.jp/uploaded/attachment/155833.pdf", メモ: "高知市屋外広告物の手引き（R701訂正）"}
   - {id: 高知県高知市_屋外広告物_手続き, 自治体: 高知県高知市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kochi.kochi.jp/uploaded/attachment/176150.pdf", メモ: "広告物許可申請の手続き・記載例"}
+  # ---- 茨城県ひたちなか市（茨城県屋外広告物条例。申請先は市） ----
+  - {id: 茨城県ひたちなか市_屋外広告物_ページ, 自治体: 茨城県ひたちなか市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hitachinaka.lg.jp/machizukuri/toshikeikaku/1004966/1008556/1017109.html", メモ: "屋外広告物(茨城県屋外広告物条例)"}
+  - {id: 茨城県ひたちなか市_屋外広告物_てびき, 自治体: 茨城県ひたちなか市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.hitachinaka.lg.jp/_res/projects/default_project/_page_/001/017/109/tebiki_r0801.pdf", メモ: "屋外広告物のてびき"}
+  - {id: 茨城県ひたちなか市_屋外広告物_点検ルール, 自治体: 茨城県ひたちなか市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.hitachinaka.lg.jp/_res/projects/default_project/_page_/001/017/109/kanbantenken.pdf", メモ: "看板の点検ルールが変わります"}
+  - {id: 茨城県ひたちなか市_屋外広告物_規則, 自治体: 茨城県ひたちなか市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.hitachinaka.lg.jp/_res/projects/default_project/_page_/001/017/109/koukoku_kisoku.pdf", メモ: "ひたちなか市茨城県屋外広告物条例の施行に関する規則"}

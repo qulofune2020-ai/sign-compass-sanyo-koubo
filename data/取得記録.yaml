@@ -189,3 +189,42 @@
     サイズ: 288813
     形式: pdf
     ページ数: 4
+  - id: 茨城県ひたちなか市_屋外広告物_ページ
+    url: https://www.city.hitachinaka.lg.jp/machizukuri/toshikeikaku/1004966/1008556/1017109.html
+    最終更新: Mon, 16 Nov 2026 11:05:13 GMT
+    状態: 取得済み
+    ファイル: 茨城県ひたちなか市_屋外広告物_ページ.html
+    取得日: 2026-11-16
+    sha256: 1d50fdf2e42cf25636b36dfdaa9aad01bf9cd0040329d901373099751ff69eeb
+    サイズ: 57916
+    形式: html
+  - id: 茨城県ひたちなか市_屋外広告物_てびき
+    url: https://www.city.hitachinaka.lg.jp/_res/projects/default_project/_page_/001/017/109/tebiki_r0801.pdf
+    最終更新: Tue, 23 Jun 2026 04:55:53 GMT
+    状態: 取得済み
+    ファイル: 茨城県ひたちなか市_屋外広告物_てびき.pdf
+    取得日: 2026-11-16
+    sha256: b59fb8cda38e62afc73e237e9d82911f13fc4b84b28eb61332016d427b63d58b
+    サイズ: 5271519
+    形式: pdf
+    ページ数: 24
+  - id: 茨城県ひたちなか市_屋外広告物_点検ルール
+    url: https://www.city.hitachinaka.lg.jp/_res/projects/default_project/_page_/001/017/109/kanbantenken.pdf
+    最終更新: Tue, 23 Jun 2026 04:55:53 GMT
+    状態: 取得済み
+    ファイル: 茨城県ひたちなか市_屋外広告物_点検ルール.pdf
+    取得日: 2026-11-16
+    sha256: 2f4b02163c654af7ffdb82889c4a67abb11cba00e9d49e5693a077eb392addde
+    サイズ: 1716281
+    形式: pdf
+    ページ数: 2
+  - id: 茨城県ひたちなか市_屋外広告物_規則
+    url: https://www.city.hitachinaka.lg.jp/_res/projects/default_project/_page_/001/017/109/koukoku_kisoku.pdf
+    最終更新: Tue, 23 Jun 2026 04:55:53 GMT
+    状態: 取得済み
+    ファイル: 茨城県ひたちなか市_屋外広告物_規則.pdf
+    取得日: 2026-11-16
+    sha256: bf066a99a1c8e2409faae2c4fa1c646bb64230ac3fd85c32f330ce014b582df6
+    サイズ: 1220281
+    形式: pdf
+    ページ数: 21
