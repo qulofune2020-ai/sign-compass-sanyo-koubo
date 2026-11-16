@@ -459,3 +459,42 @@
     サイズ: 71674
     形式: pdf
     ページ数: 1
+  - id: 兵庫県_屋外広告物_しおり
+    url: https://web.pref.hyogo.lg.jp/ks20/documents/shiori202512.pdf
+    最終更新: Tue, 13 Jan 2026 05:00:21 GMT
+    状態: 取得済み
+    ファイル: 兵庫県_屋外広告物_しおり.pdf
+    取得日: 2026-11-16
+    sha256: 6fc86a1a80b7df5145834cc5ced85c1febcc34be8f7d3a6a2d3c3dc8c2a1b808
+    サイズ: 1867577
+    形式: pdf
+    ページ数: 23
+  - id: 兵庫県_屋外広告物_許可申請手続き
+    url: https://web.pref.hyogo.lg.jp/ks20/wd23_000000029.html
+    最終更新: Tue, 27 Oct 2026 16:44:41 GMT
+    状態: 取得済み
+    ファイル: 兵庫県_屋外広告物_許可申請手続き.html
+    取得日: 2026-11-16
+    sha256: dbef60db6eae2501fa0a062f1b078648387c77de75c3d23a9d791c72cbeda55d
+    サイズ: 21931
+    形式: html
+  - id: 兵庫県_屋外広告物_QA
+    url: https://web.pref.hyogo.lg.jp/ks20/documents/qa2501.pdf
+    最終更新: Thu, 11 Dec 2025 15:00:52 GMT
+    状態: 取得済み
+    ファイル: 兵庫県_屋外広告物_QA.pdf
+    取得日: 2026-11-16
+    sha256: f261bb2f4c6bd8931698e59ce93b4a153928d86b2587668a8bae7a128c0a1e9f
+    サイズ: 906318
+    形式: pdf
+    ページ数: 32
+  - id: 兵庫県_屋外広告物_市町窓口
+    url: https://web.pref.hyogo.lg.jp/ks20/documents/r3meibo.pdf
+    最終更新: Thu, 01 Jul 2021 10:01:23 GMT
+    状態: 取得済み
+    ファイル: 兵庫県_屋外広告物_市町窓口.pdf
+    取得日: 2026-11-16
+    sha256: 66da3a13e4af00a7ccd8dea6d3ff35645f8ec508f1857cc50b1829ae8a8291b2
+    サイズ: 51254
+    形式: pdf
+    ページ数: 1

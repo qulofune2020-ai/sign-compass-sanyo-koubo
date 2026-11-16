@@ -63,3 +63,8 @@
   - {id: 静岡県三島市_屋外広告物_許可申請手続き, 自治体: 静岡県三島市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.mishima.shizuoka.jp/page/1688.html", メモ: "屋外広告物の許可申請手続き"}
   - {id: 静岡県三島市_屋外広告物_掲出のルール, 自治体: 静岡県三島市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.mishima.shizuoka.jp/page/1736.html", メモ: "屋外広告物の掲出のルール（許可の期間）"}
   - {id: 静岡県三島市_屋外広告物_審査手数料, 自治体: 静岡県三島市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.mishima.shizuoka.jp/uploaded/attachment/1819.pdf", メモ: "三島市屋外広告物許可申請審査手数料"}
+  # ---- 兵庫県（兵庫県屋外広告物条例） ----
+  - {id: 兵庫県_屋外広告物_しおり, 自治体: 兵庫県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://web.pref.hyogo.lg.jp/ks20/documents/shiori202512.pdf", メモ: "兵庫県屋外広告物条例しおり（令和7年12月）"}
+  - {id: 兵庫県_屋外広告物_許可申請手続き, 自治体: 兵庫県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://web.pref.hyogo.lg.jp/ks20/wd23_000000029.html", メモ: "許可申請手続き"}
+  - {id: 兵庫県_屋外広告物_QA, 自治体: 兵庫県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://web.pref.hyogo.lg.jp/ks20/documents/qa2501.pdf", メモ: "屋外広告物条例Q&A"}
+  - {id: 兵庫県_屋外広告物_市町窓口, 自治体: 兵庫県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://web.pref.hyogo.lg.jp/ks20/documents/r3meibo.pdf", メモ: "各市町の窓口"}
