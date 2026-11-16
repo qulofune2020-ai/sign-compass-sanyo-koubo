@@ -359,3 +359,21 @@
     sha256: ee5e9a2efb49d4fc2d30a3cdef1f5e5c043e430c1271fb00032cd1483d10d66e
     サイズ: 37648
     形式: html
+  - id: 静岡県静岡市_屋外広告物_設置更新変更
+    url: https://www.city.shizuoka.lg.jp/s4751/s008095.html
+    最終更新: Fri, 30 Oct 2026 12:43:59 GMT
+    状態: 取得済み
+    ファイル: 静岡県静岡市_屋外広告物_設置更新変更.html
+    取得日: 2026-11-16
+    sha256: 3c19b7f68aa38e43555e333c5df59ca7d186b49ade1f9cfebd6f0143b5e86ead
+    サイズ: 22182
+    形式: html
+  - id: 静岡県静岡市_屋外広告物_許可期間手数料
+    url: https://www.city.shizuoka.lg.jp/s4751/s008097.html
+    最終更新: Fri, 30 Oct 2026 12:43:59 GMT
+    状態: 取得済み
+    ファイル: 静岡県静岡市_屋外広告物_許可期間手数料.html
+    取得日: 2026-11-16
+    sha256: ce02c65e673532b04e4bb0fbdfb72774b16e796b106d094c1230c142ec5331b1
+    サイズ: 18102
+    形式: html
