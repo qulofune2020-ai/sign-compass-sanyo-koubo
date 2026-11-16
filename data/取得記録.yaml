@@ -341,3 +341,21 @@
     状態: 取れない
     理由: HTTP 404
     試した日: 2026-11-16
+  - id: 静岡県富士市_屋外広告物_更新ページ
+    url: https://www.city.fuji.shizuoka.jp/1040070000/p004074.html
+    最終更新: Sat, 14 Nov 2026 06:06:38 GMT
+    状態: 取得済み
+    ファイル: 静岡県富士市_屋外広告物_更新ページ.html
+    取得日: 2026-11-16
+    sha256: bb48d191ff6f564a7eca1f632cc68d91a0fd037ec36970ab1e1c4b732d3b882a
+    サイズ: 35098
+    形式: html
+  - id: 静岡県富士市_屋外広告物_規制内容
+    url: https://www.city.fuji.shizuoka.jp/1040070000/p004070.html
+    最終更新: Sat, 14 Nov 2026 06:06:38 GMT
+    状態: 取得済み
+    ファイル: 静岡県富士市_屋外広告物_規制内容.html
+    取得日: 2026-11-16
+    sha256: ee5e9a2efb49d4fc2d30a3cdef1f5e5c043e430c1271fb00032cd1483d10d66e
+    サイズ: 37648
+    形式: html

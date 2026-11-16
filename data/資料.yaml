@@ -46,3 +46,6 @@
   - {id: 静岡県磐田市_屋外広告物_手数料, 自治体: 静岡県磐田市, 区分: 屋外広告物, 種別: 一覧, 最初の版で読む: true, url: "https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/002/164/kaiteigotesuuryou.pdf", メモ: "改定後手数料"}
   - {id: 静岡県磐田市_屋外広告物_点検改正, 自治体: 静岡県磐田市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.iwata.shizuoka.jp/_res/projects/default_project/_page_/001/002/164/tennkenn.pdf", メモ: "静岡県屋外広告物条例施行規則一部改正について"}
   - {id: 静岡県焼津市_屋外広告物_ページ, 自治体: 静岡県焼津市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.yaizu.lg.jp/g06-001/keikankeikaku/okugai.html", メモ: "屋外広告物について（焼津市）"}
+  # ---- 静岡県富士市（富士市屋外広告物条例） ----
+  - {id: 静岡県富士市_屋外広告物_更新ページ, 自治体: 静岡県富士市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.fuji.shizuoka.jp/1040070000/p004074.html", メモ: "屋外広告物許可・更新申請について"}
+  - {id: 静岡県富士市_屋外広告物_規制内容, 自治体: 静岡県富士市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.fuji.shizuoka.jp/1040070000/p004070.html", メモ: "富士市屋外広告物条例の規制内容"}
