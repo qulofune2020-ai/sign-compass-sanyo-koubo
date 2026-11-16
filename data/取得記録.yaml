@@ -1,2 +1,106 @@
 # npm run 取得 が書く。手で直さない
-取得: []
+取得:
+  - id: 広島県_屋外広告物_手引き
+    url: https://www.pref.hiroshima.lg.jp/uploaded/attachment/565159.pdf
+    最終更新: Fri, 16 Feb 2024 01:10:09 GMT
+    状態: 取得済み
+    ファイル: 広島県_屋外広告物_手引き.pdf
+    取得日: 2026-11-16
+    sha256: 8097efcadf196c5a70b5987da26e8c2fb9929a8c048bfd11cb4b4ddbf6a3cb00
+    サイズ: 2227271
+    形式: pdf
+    ページ数: 70
+  - id: 広島県_屋外広告物_申請ページ
+    url: https://www.pref.hiroshima.lg.jp/site/outdoor-sign/okugai-sinsei.html
+    最終更新: Sun, 15 Nov 2026 15:59:01 GMT
+    状態: 取得済み
+    ファイル: 広島県_屋外広告物_申請ページ.html
+    取得日: 2026-11-16
+    sha256: e51d95b3f0ec7dd7ceb0913e393e9657a9ad2fad5b40535e445870915534d566
+    サイズ: 36430
+    形式: html
+  - id: 広島県_屋外広告物_点検参考
+    url: https://www.pref.hiroshima.lg.jp/uploaded/attachment/564771.pdf
+    最終更新: Thu, 15 Feb 2024 06:00:14 GMT
+    状態: 取得済み
+    ファイル: 広島県_屋外広告物_点検参考.pdf
+    取得日: 2026-11-16
+    sha256: 1f26a345525f78e5e14ee7618b2ccab599933f6732aae581397af0f866038e91
+    サイズ: 154251
+    形式: pdf
+    ページ数: 1
+  - id: 広島県福山市_屋外広告物_申請ページ
+    url: https://www.city.fukuyama.hiroshima.jp/soshiki/dobokukanri/246576.html
+    最終更新: Mon, 16 Nov 2026 10:13:00 GMT
+    状態: 取得済み
+    ファイル: 広島県福山市_屋外広告物_申請ページ.html
+    取得日: 2026-11-16
+    sha256: 48520d937a612f87154391df00c5468c99b08cfa19dbf0f0e96cabf7d5d40de1
+    サイズ: 29335
+    形式: html
+  - id: 広島県福山市_屋外広告物_手引き
+    url: https://www.city.fukuyama.hiroshima.jp/uploaded/life/395075_2426914_misc.pdf
+    最終更新: Mon, 16 Nov 2026 10:14:58 GMT
+    状態: 取得済み
+    ファイル: 広島県福山市_屋外広告物_手引き.pdf
+    取得日: 2026-11-16
+    sha256: c3794c381a37b519db7abbd4327214696add1ff8ce8706eb6ab23c009e742608
+    サイズ: 5299792
+    形式: pdf
+    ページ数: 93
+  - id: 広島県福山市_屋外広告物_安全対策
+    url: https://www.city.fukuyama.hiroshima.jp/uploaded/life/395075_2426904_misc.pdf
+    最終更新: Mon, 16 Nov 2026 10:14:58 GMT
+    状態: 取得済み
+    ファイル: 広島県福山市_屋外広告物_安全対策.pdf
+    取得日: 2026-11-16
+    sha256: 3d398eb13d5d71d26ad95486f72e5d886cfd5167a77c00e9994db53708e8a7b7
+    サイズ: 215847
+    形式: pdf
+    ページ数: 2
+  - id: 広島県福山市_屋外広告物_変更許可見直し
+    url: https://www.city.fukuyama.hiroshima.jp/uploaded/life/395075_2429231_misc.pdf
+    最終更新: Mon, 16 Nov 2026 10:14:58 GMT
+    状態: 取得済み
+    ファイル: 広島県福山市_屋外広告物_変更許可見直し.pdf
+    取得日: 2026-11-16
+    sha256: 4640310348935ce2607c1ec9e25154503330eaca59fbb80fa9d5bddae4edb035
+    サイズ: 177220
+    形式: pdf
+    ページ数: 2
+  - id: 広島県広島市_屋外広告物_手引き2-1
+    url: https://www.city.hiroshima.lg.jp/business/toshikeikaku/1014906/1026836/1026837/1017841.html
+    最終更新: Mon, 16 Nov 2026 10:14:08 GMT
+    状態: 取得済み
+    ファイル: 広島県広島市_屋外広告物_手引き2-1.html
+    取得日: 2026-11-16
+    sha256: 4f89ffd0b0e77dbf1069a93517256faff69e2b076348ea5761d935e8fa9c6923
+    サイズ: 82499
+    形式: html
+  - id: 広島県広島市_屋外広告物_手引き2-2
+    url: https://www.city.hiroshima.lg.jp/business/toshikeikaku/1014906/1026836/1026837/1017842.html
+    最終更新: Mon, 16 Nov 2026 10:14:08 GMT
+    状態: 取得済み
+    ファイル: 広島県広島市_屋外広告物_手引き2-2.html
+    取得日: 2026-11-16
+    sha256: d6dfa90b6c45048ce4084c7bf4b257a810eb0d54359a5363215bfd89d6e8a177
+    サイズ: 61023
+    形式: html
+  - id: 広島県広島市_屋外広告物_手引き2-3
+    url: https://www.city.hiroshima.lg.jp/business/toshikeikaku/1014906/1026836/1026837/1017843.html
+    最終更新: Mon, 16 Nov 2026 10:14:08 GMT
+    状態: 取得済み
+    ファイル: 広島県広島市_屋外広告物_手引き2-3.html
+    取得日: 2026-11-16
+    sha256: ccd92a02cfe01c724ae07f5accdf160687a9a96a9a11ae2466956e9ae0fd30b0
+    サイズ: 88151
+    形式: html
+  - id: 広島県広島市_屋外広告物_手引き3
+    url: https://www.city.hiroshima.lg.jp/business/toshikeikaku/1014906/1026836/1026837/1017844.html
+    最終更新: Mon, 16 Nov 2026 10:14:08 GMT
+    状態: 取得済み
+    ファイル: 広島県広島市_屋外広告物_手引き3.html
+    取得日: 2026-11-16
+    sha256: fc232bd063529aadef85741a2ba17cf503a5c7e474fb3f7a042aa3c56d939777
+    サイズ: 57423
+    形式: html

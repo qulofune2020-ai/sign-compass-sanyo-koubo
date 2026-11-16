@@ -60,7 +60,7 @@ export default function Genba() {
 
   const 電話 = useMemo(() => {
     if (!結果 || !m) return "";
-    const 行 = [`【${m.名前}】屋外広告物の窓口：${窓口.length ? 窓口.map((w: any) => `${w.課} ${w.電話}`).join("／") : "未確認"}`];
+    const 行 = [`【${m.名前}】屋外広告物の窓口：${窓口.length ? 窓口.map((w: any) => `${w.課} ${w.電話}`.trim()).join("／") : "未確認"}`];
     行.push("");
     for (const r of 並べた.filter((r: any) => r.判定 !== "問題なさそう")) {
       for (const q of r.電話) 行.push(`□ ${r.観点.表示名}：${q}`);
@@ -93,7 +93,7 @@ export default function Genba() {
             </div>
             <dl className="madoguchi">
               <dt>更新の窓口</dt>
-              <dd>{窓口.length ? 窓口.map((w: any, i: number) => (<div key={i}>{w.課}　<a href={`tel:${w.電話.replace(/[^\d]/g, "")}`}>{w.電話}</a></div>)) : "未確認"}</dd>
+              <dd>{窓口.length ? 窓口.map((w: any, i: number) => (<div key={i}>{w.課}　{w.電話 && <a href={`tel:${w.電話.replace(/[^\d]/g, "")}`}>{w.電話}</a>}</div>)) : "未確認"}</dd>
             </dl>
           </div>
         )}

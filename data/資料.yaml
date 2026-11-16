@@ -2,4 +2,16 @@
 # 種別：条例・規則・告示・しおり・ガイドライン・FAQ・一覧・手引き・ページ
 # id は「都道府県または市区町村の名前_屋外広告物_種別」（例：広島県福山市_屋外広告物_条例）
 
-資料: []
+資料:
+  # ---- 広島県（県条例・福山市・広島市） ----
+  - {id: 広島県_屋外広告物_手引き, 自治体: 広島県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.hiroshima.lg.jp/uploaded/attachment/565159.pdf", メモ: "広島県屋外広告物の手引き（令和6年4月1日適用）"}
+  - {id: 広島県_屋外広告物_申請ページ, 自治体: 広島県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.hiroshima.lg.jp/site/outdoor-sign/okugai-sinsei.html", メモ: "屋外広告物の許可申請（市町の窓口一覧）"}
+  - {id: 広島県_屋外広告物_点検参考, 自治体: 広島県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.hiroshima.lg.jp/uploaded/attachment/564771.pdf", メモ: "安全点検及び点検結果報告について（参考）"}
+  - {id: 広島県福山市_屋外広告物_申請ページ, 自治体: 広島県福山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.fukuyama.hiroshima.jp/soshiki/dobokukanri/246576.html", メモ: "屋外広告物の申請について（様式・窓口）"}
+  - {id: 広島県福山市_屋外広告物_手引き, 自治体: 広島県福山市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.fukuyama.hiroshima.jp/uploaded/life/395075_2426914_misc.pdf", メモ: "福山市屋外広告物の手引き（2022年度改訂版）"}
+  - {id: 広島県福山市_屋外広告物_安全対策, 自治体: 広島県福山市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.fukuyama.hiroshima.jp/uploaded/life/395075_2426904_misc.pdf", メモ: "屋外広告物の安全対策の強化について【概要】"}
+  - {id: 広島県福山市_屋外広告物_変更許可見直し, 自治体: 広島県福山市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.fukuyama.hiroshima.jp/uploaded/life/395075_2429231_misc.pdf", メモ: "屋外広告物変更許可における事務の見直しについて（2026年4月1日から）"}
+  - {id: 広島県広島市_屋外広告物_手引き2-1, 自治体: 広島県広島市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hiroshima.lg.jp/business/toshikeikaku/1014906/1026836/1026837/1017841.html", メモ: "屋外広告物の手引き 第2章 許可について（その1）"}
+  - {id: 広島県広島市_屋外広告物_手引き2-2, 自治体: 広島県広島市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hiroshima.lg.jp/business/toshikeikaku/1014906/1026836/1026837/1017842.html", メモ: "屋外広告物の手引き 第2章 許可について（その2）"}
+  - {id: 広島県広島市_屋外広告物_手引き2-3, 自治体: 広島県広島市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hiroshima.lg.jp/business/toshikeikaku/1014906/1026836/1026837/1017843.html", メモ: "屋外広告物の手引き 第2章 許可について（その3）"}
+  - {id: 広島県広島市_屋外広告物_手引き3, 自治体: 広島県広島市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hiroshima.lg.jp/business/toshikeikaku/1014906/1026836/1026837/1017844.html", メモ: "屋外広告物の手引き 第3章 表示・設置する者の義務"}
