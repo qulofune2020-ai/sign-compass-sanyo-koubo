@@ -377,3 +377,57 @@
     sha256: ce02c65e673532b04e4bb0fbdfb72774b16e796b106d094c1230c142ec5331b1
     サイズ: 18102
     形式: html
+  - id: 静岡県浜松市_屋外広告物_更新
+    url: https://www.city.hamamatsu.shizuoka.jp/tochi/city/toshikai/koukoku/sinsei_a2.html
+    最終更新: Fri, 12 Jun 2026 09:00:12 GMT
+    状態: 取得済み
+    ファイル: 静岡県浜松市_屋外広告物_更新.html
+    取得日: 2026-11-16
+    sha256: 182e88e181f622dbcf65f149c7345b49aaa5eac32269f88ce1e06f7d98071838
+    サイズ: 16051
+    形式: html
+  - id: 静岡県浜松市_屋外広告物_変更改造
+    url: https://www.city.hamamatsu.shizuoka.jp/tochi/city/toshikai/koukoku/sinsei_a3.html
+    最終更新: Thu, 16 Jul 2026 06:00:32 GMT
+    状態: 取得済み
+    ファイル: 静岡県浜松市_屋外広告物_変更改造.html
+    取得日: 2026-11-16
+    sha256: 08aee00ffa9fff551de6c8fb29183387d5bbc5cb6f2b2480f6964c573d6ed738
+    サイズ: 15546
+    形式: html
+  - id: 静岡県浜松市_屋外広告物_設置者変更
+    url: https://www.city.hamamatsu.shizuoka.jp/tochi/city/toshikai/koukoku/sinsei_b.html
+    最終更新: Mon, 01 Jun 2026 11:52:36 GMT
+    状態: 取得済み
+    ファイル: 静岡県浜松市_屋外広告物_設置者変更.html
+    取得日: 2026-11-16
+    sha256: 22114f6d8f9a54610b7ec41244dc6b6b12968569d25af961199fef910ddb7be2
+    サイズ: 14728
+    形式: html
+  - id: 静岡県浜松市_屋外広告物_管理者変更
+    url: https://www.city.hamamatsu.shizuoka.jp/tochi/city/toshikai/koukoku/sinsei_c.html
+    最終更新: Mon, 01 Jun 2026 11:52:35 GMT
+    状態: 取得済み
+    ファイル: 静岡県浜松市_屋外広告物_管理者変更.html
+    取得日: 2026-11-16
+    sha256: b6f325b59594e557220cc1c83ec9c3c185f59d2a7ade46a08656a72dfcf858d8
+    サイズ: 14701
+    形式: html
+  - id: 静岡県浜松市_屋外広告物_手数料
+    url: https://www.city.hamamatsu.shizuoka.jp/tochi/city/toshikai/koukoku/tesuryo.html
+    最終更新: Thu, 12 Nov 2026 15:00:43 GMT
+    状態: 取得済み
+    ファイル: 静岡県浜松市_屋外広告物_手数料.html
+    取得日: 2026-11-16
+    sha256: f510a60a97486432685545a451c77ea4570a0b8b38f051b6bb6a0a58ce89d223
+    サイズ: 15937
+    形式: html
+  - id: 静岡県浜松市_屋外広告物_手数料算定変更
+    url: https://www.city.hamamatsu.shizuoka.jp/tochi/okugaikokoku/2024tesuuryou.html
+    最終更新: Thu, 24 Sep 2026 06:00:15 GMT
+    状態: 取得済み
+    ファイル: 静岡県浜松市_屋外広告物_手数料算定変更.html
+    取得日: 2026-11-16
+    sha256: bddc29edc758ef80b2006cac1b1a49bf894fd8617a2354a664182698b45f8a12
+    サイズ: 14991
+    形式: html

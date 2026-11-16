@@ -52,3 +52,10 @@
   # ---- 静岡県静岡市（静岡市屋外広告物条例） ----
   - {id: 静岡県静岡市_屋外広告物_設置更新変更, 自治体: 静岡県静岡市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.shizuoka.lg.jp/s4751/s008095.html", メモ: "広告物の設置（新規・更新・変更）の手続き"}
   - {id: 静岡県静岡市_屋外広告物_許可期間手数料, 自治体: 静岡県静岡市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.shizuoka.lg.jp/s4751/s008097.html", メモ: "許可期間・許可申請手数料"}
+  # ---- 静岡県浜松市（浜松市屋外広告物条例） ----
+  - {id: 静岡県浜松市_屋外広告物_更新, 自治体: 静岡県浜松市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hamamatsu.shizuoka.jp/tochi/city/toshikai/koukoku/sinsei_a2.html", メモ: "屋外広告物の設置（掲示）等をするとき（更新）"}
+  - {id: 静岡県浜松市_屋外広告物_変更改造, 自治体: 静岡県浜松市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hamamatsu.shizuoka.jp/tochi/city/toshikai/koukoku/sinsei_a3.html", メモ: "変更・改造"}
+  - {id: 静岡県浜松市_屋外広告物_設置者変更, 自治体: 静岡県浜松市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hamamatsu.shizuoka.jp/tochi/city/toshikai/koukoku/sinsei_b.html", メモ: "設置者（申請者）を変更するとき"}
+  - {id: 静岡県浜松市_屋外広告物_管理者変更, 自治体: 静岡県浜松市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hamamatsu.shizuoka.jp/tochi/city/toshikai/koukoku/sinsei_c.html", メモ: "堅ろうな広告物等の管理者を変更するとき"}
+  - {id: 静岡県浜松市_屋外広告物_手数料, 自治体: 静岡県浜松市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hamamatsu.shizuoka.jp/tochi/city/toshikai/koukoku/tesuryo.html", メモ: "屋外広告手数料"}
+  - {id: 静岡県浜松市_屋外広告物_手数料算定変更, 自治体: 静岡県浜松市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hamamatsu.shizuoka.jp/tochi/okugaikokoku/2024tesuuryou.html", メモ: "令和7年1月から手数料の算定方法を変更"}
