@@ -35,7 +35,7 @@ export default function Hikaku() {
               {rs.length === 0 && <p className="muted">記録なし（要確認）</p>}
               {rs.map((r) => {
                 const s = D.資料[r.文書];
-                const url = s?.url?.endsWith(".pdf") ? `${s.url}#page=${r.ページ}` : s?.url;
+                const url = (s?.形式 === "pdf" || /\.pdf$/i.test(s?.url ?? "")) ? `${s.url}#page=${r.ページ}` : s?.url;
                 return (
                   <div key={r.id} className={r.状態 === "記載なし" ? "rec nashi" : "rec"}>
                     {r.地域区分 && <span className="tag">{r.地域区分}</span>}

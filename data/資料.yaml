@@ -32,3 +32,5 @@
   - {id: 茨城県ひたちなか市_屋外広告物_てびき, 自治体: 茨城県ひたちなか市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.hitachinaka.lg.jp/_res/projects/default_project/_page_/001/017/109/tebiki_r0801.pdf", メモ: "屋外広告物のてびき"}
   - {id: 茨城県ひたちなか市_屋外広告物_点検ルール, 自治体: 茨城県ひたちなか市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.hitachinaka.lg.jp/_res/projects/default_project/_page_/001/017/109/kanbantenken.pdf", メモ: "看板の点検ルールが変わります"}
   - {id: 茨城県ひたちなか市_屋外広告物_規則, 自治体: 茨城県ひたちなか市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.hitachinaka.lg.jp/_res/projects/default_project/_page_/001/017/109/koukoku_kisoku.pdf", メモ: "ひたちなか市茨城県屋外広告物条例の施行に関する規則"}
+  # ---- 東京都（東京都屋外広告物条例。八王子市・町田市は市の条例） ----
+  - {id: 東京都_屋外広告物_しおり, 自治体: 東京都, 区分: 屋外広告物, 種別: しおり, 形式: pdf, 最初の版で読む: true, url: "https://www.toshiseibi.metro.tokyo.lg.jp/documents/d/toshiseibi/kou-siori2026-all_booklet", メモ: "屋外広告物のしおり（令和8年7月）"}

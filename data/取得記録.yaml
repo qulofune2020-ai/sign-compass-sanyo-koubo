@@ -228,3 +228,13 @@
     サイズ: 1220281
     形式: pdf
     ページ数: 21
+  - id: 東京都_屋外広告物_しおり
+    url: https://www.toshiseibi.metro.tokyo.lg.jp/documents/d/toshiseibi/kou-siori2026-all_booklet
+    最終更新: Thu, 30 Jul 2026 08:58:27 GMT
+    状態: 取得済み
+    ファイル: 東京都_屋外広告物_しおり.pdf
+    取得日: 2026-11-16
+    sha256: d2d296ae1ed1eebeda4fcf57b3ca17c02c70fee5565ff2e7d84247cca5f56595
+    サイズ: 25790595
+    形式: pdf
+    ページ数: 101

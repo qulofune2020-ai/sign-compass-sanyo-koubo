@@ -51,7 +51,8 @@ for (const r of 一覧) {
     if (old) 結果.push(old);
     continue;
   }
-  const 期待 = /\.pdf($|\?)/i.test(r.url) ? "pdf" : "html";
+  // URL に拡張子が無い PDF（東京都の documents/d/... など）は、資料.yaml に 形式: pdf と書く
+  const 期待 = r.形式 === "pdf" || /\.pdf($|\?)/i.test(r.url) ? "pdf" : "html";
   const 名前 = `${r.id}.${期待}`;
   const 先 = path.join(置き場, 名前);
   const 記録 = { id: r.id, url: r.url };
