@@ -807,3 +807,150 @@
     サイズ: 5369960
     形式: pdf
     ページ数: 22
+  - id: 神奈川県_屋外広告物_受付窓口
+    url: https://www.pref.kanagawa.jp/docs/x2n/cnt/f692/p8014.html
+    最終更新: Mon, 02 Feb 2026 01:45:03 GMT
+    状態: 取得済み
+    ファイル: 神奈川県_屋外広告物_受付窓口.html
+    取得日: 2026-11-16
+    sha256: d379fd411fc2c1a1f4387385127cfc0ae5e8d833f8d647c9ecf5e7e5d100cb8d
+    サイズ: 17287
+    形式: html
+  - id: 神奈川県_屋外広告物_ハンドブック
+    url: https://www.pref.kanagawa.jp/documents/23040/r8handbook.pdf
+    最終更新: Wed, 09 Sep 2026 08:14:54 GMT
+    状態: 取得済み
+    ファイル: 神奈川県_屋外広告物_ハンドブック.pdf
+    取得日: 2026-11-16
+    sha256: 6ba1541c886892dbb75241f4d3dea4c2bec9fd363b39cbff4aa5a40f188dee1a
+    サイズ: 3982379
+    形式: pdf
+    ページ数: 128
+  - id: 神奈川県_屋外広告物_QA
+    url: https://www.pref.kanagawa.jp/docs/x2n/cnt/f692/p971749.html
+    最終更新: Wed, 19 Aug 2026 01:15:00 GMT
+    状態: 取得済み
+    ファイル: 神奈川県_屋外広告物_QA.html
+    取得日: 2026-11-16
+    sha256: 9ee527f2715bd933f329aa1a818153ab2a8e23b3ed78e9d66916604d9657f9f9
+    サイズ: 27994
+    形式: html
+  - id: 神奈川県横浜市_屋外広告物_QA
+    url: https://www.city.yokohama.lg.jp/business/bunyabetsu/toshiseibi/koukokubutsu/okugai-qa.html
+    最終更新: Mon, 19 Oct 2026 08:16:09 GMT
+    状態: 取得済み
+    ファイル: 神奈川県横浜市_屋外広告物_QA.html
+    取得日: 2026-11-16
+    sha256: 791e4018d3f318432d13fa413fa48b84b868b889c417932756cead58e45b5d40
+    サイズ: 68487
+    形式: html
+  - id: 神奈川県横浜市_屋外広告物_てびき
+    url: https://www.city.yokohama.lg.jp/business/bunyabetsu/toshiseibi/koukokubutsu/okugaitetsuzuki/okugaitebiki.files/tebiki_butsu_20260401.pdf
+    最終更新: Fri, 03 Apr 2026 04:53:24 GMT
+    状態: 取得済み
+    ファイル: 神奈川県横浜市_屋外広告物_てびき.pdf
+    取得日: 2026-11-16
+    sha256: faa23142328b79ab73f7bed0cababaa85c775e0ce14186a036b4905dc56c4dea
+    サイズ: 2703585
+    形式: pdf
+    ページ数: 27
+  - id: 神奈川県横浜市_屋外広告物_点検
+    url: https://www.city.yokohama.lg.jp/business/bunyabetsu/toshiseibi/koukokubutsu/okugaitetsuzuki/ijikanri_tenken.html
+    最終更新: Mon, 09 Nov 2026 03:01:19 GMT
+    状態: 取得済み
+    ファイル: 神奈川県横浜市_屋外広告物_点検.html
+    取得日: 2026-11-16
+    sha256: 9d12918de1da5cb270ef972094f713ea4b683f6c266c016a86014de57771120d
+    サイズ: 52058
+    形式: html
+  - id: 神奈川県川崎市_屋外広告物_許可申請
+    url: https://www.city.kawasaki.jp/530/page/0000017974.html
+    最終更新: Mon, 16 Nov 2026 15:38:28 GMT
+    状態: 取得済み
+    ファイル: 神奈川県川崎市_屋外広告物_許可申請.html
+    取得日: 2026-11-16
+    sha256: 819632eb919a5988d806a93215fef9847f88dd755dd7d96828793b88ca50daed
+    サイズ: 61002
+    形式: html
+  - id: 神奈川県川崎市_屋外広告物_条例改正
+    url: https://www.city.kawasaki.jp/530/page/0000186333.html
+    最終更新: Mon, 16 Nov 2026 15:39:05 GMT
+    状態: 取得済み
+    ファイル: 神奈川県川崎市_屋外広告物_条例改正.html
+    取得日: 2026-11-16
+    sha256: f894e1bde72f93092e8fe8fa3e431411deb9bece503a320a154128562861ef03
+    サイズ: 50380
+    形式: html
+  - id: 神奈川県川崎市_屋外広告物_安全点検
+    url: https://www.city.kawasaki.jp/530/page/0000116998.html
+    最終更新: Mon, 16 Nov 2026 15:38:47 GMT
+    状態: 取得済み
+    ファイル: 神奈川県川崎市_屋外広告物_安全点検.html
+    取得日: 2026-11-16
+    sha256: 36043b31ac7c2613f61ef3e59d22d1d18feca5804d66fd6d46fcc8996d773142
+    サイズ: 53357
+    形式: html
+  - id: 神奈川県川崎市_屋外広告物_手数料表
+    url: https://www.city.kawasaki.jp/530/page/0000018001.html
+    最終更新: Mon, 16 Nov 2026 15:38:28 GMT
+    状態: 取得済み
+    ファイル: 神奈川県川崎市_屋外広告物_手数料表.html
+    取得日: 2026-11-16
+    sha256: 08e35f6dd9895680a9d62fa58f3bfbe86ff518def94b7bb68741976e2105e04e
+    サイズ: 51421
+    形式: html
+  - id: 神奈川県相模原市_屋外広告物_手続き
+    url: https://www.city.sagamihara.kanagawa.jp/shisei/1026823/machitsukuri/kaihatsu/koukoku/1014670/1014681.html
+    最終更新: Mon, 16 Nov 2026 15:13:39 GMT
+    状態: 取得済み
+    ファイル: 神奈川県相模原市_屋外広告物_手続き.html
+    取得日: 2026-11-16
+    sha256: e8cf56c2842f2d086c40ac4621ff86038bc14176e0211043b34d134f9d9c77cb
+    サイズ: 59530
+    形式: html
+  - id: 神奈川県相模原市_屋外広告物_手続き一覧
+    url: https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/011/831/2023/01.pdf
+    最終更新: Thu, 23 Mar 2023 16:30:46 GMT
+    状態: 取得済み
+    ファイル: 神奈川県相模原市_屋外広告物_手続き一覧.pdf
+    取得日: 2026-11-16
+    sha256: f581c4137caaf8f14f122f2cff79244df4d825485b4f9861716750a1938590a7
+    サイズ: 65165
+    形式: pdf
+    ページ数: 7
+  - id: 神奈川県相模原市_屋外広告物_しおり
+    url: https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/014/658/2023_siori.pdf
+    最終更新: Thu, 23 Mar 2023 16:30:49 GMT
+    状態: 取得済み
+    ファイル: 神奈川県相模原市_屋外広告物_しおり.pdf
+    取得日: 2026-11-16
+    sha256: 5f6062f5b02ed142754aaab8c5534395ca6b82d727a153a7a81d40430595f6fe
+    サイズ: 1589694
+    形式: pdf
+    ページ数: 9
+  - id: 神奈川県平塚市_屋外広告物_条例
+    url: https://www.city.hiratsuka.kanagawa.jp/machizukuri/page-c_02929.html
+    状態: 取得済み
+    ファイル: 神奈川県平塚市_屋外広告物_条例.html
+    取得日: 2026-11-16
+    sha256: d7bcc3341c014114ad405ce3a869c57835d1ec435fbd8da3aed3395c9f7958c3
+    サイズ: 33394
+    形式: html
+  - id: 神奈川県平塚市_屋外広告物_許可申請
+    url: https://www.city.hiratsuka.kanagawa.jp/machizukuri/page-c_02930.html
+    状態: 取得済み
+    ファイル: 神奈川県平塚市_屋外広告物_許可申請.html
+    取得日: 2026-11-16
+    sha256: 5f9ad3bcb4faee4c264447955290c7931dfae929e25008d5569c2edbf9301164
+    サイズ: 33342
+    形式: html
+  - id: 神奈川県平塚市_屋外広告物_手引き
+    url: https://www.city.hiratsuka.kanagawa.jp/common/200106077.pdf
+    最終更新: Thu, 02 Apr 2026 20:35:41 GMT
+    状態: 取得済み
+    ファイル: 神奈川県平塚市_屋外広告物_手引き.pdf
+    取得日: 2026-11-16
+    sha256: f166f36b287a39db322e5acf984668f7ca495c5084ba212f985b4c9f2ce6c578
+    サイズ: 5009562
+    形式: pdf
+    ページ数: 20

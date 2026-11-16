@@ -113,3 +113,24 @@
   - {id: 大分県大分市_屋外広告物_手数料, 自治体: 大分県大分市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.oita.oita.jp/o170/machizukuri/toshi/documents/ichiran.pdf", メモ: "申請手数料（一覧）"}
   - {id: 大分県大分市_屋外広告物_規則改正, 自治体: 大分県大分市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.oita.oita.jp/o170/machizukuri/toshi/okugaijyoureikaisei.html", メモ: "施行規則の一部改正（点検資格者）"}
   - {id: 大分県大分市_屋外広告物_手引き, 自治体: 大分県大分市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.oita.oita.jp/o170/machizukuri/toshi/documents/tebiki20260401.pdf", メモ: "大分市屋外広告物の手引き（令和8年4月1日）"}
+  # ---- 神奈川県（神奈川県屋外広告物条例） ----
+  - {id: 神奈川県_屋外広告物_受付窓口, 自治体: 神奈川県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.kanagawa.jp/docs/x2n/cnt/f692/p8014.html", メモ: "屋外広告物の許可申請・相談等の受付窓口"}
+  - {id: 神奈川県_屋外広告物_ハンドブック, 自治体: 神奈川県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.kanagawa.jp/documents/23040/r8handbook.pdf", メモ: "神奈川県屋外広告物条例ハンドブック（令和8年9月1日）"}
+  - {id: 神奈川県_屋外広告物_QA, 自治体: 神奈川県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.kanagawa.jp/docs/x2n/cnt/f692/p971749.html", メモ: "神奈川県屋外広告物条例Q&A"}
+  # ---- 神奈川県横浜市 ----
+  - {id: 神奈川県横浜市_屋外広告物_QA, 自治体: 神奈川県横浜市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.yokohama.lg.jp/business/bunyabetsu/toshiseibi/koukokubutsu/okugai-qa.html", メモ: "屋外広告物に関するよくあるご質問"}
+  - {id: 神奈川県横浜市_屋外広告物_てびき, 自治体: 神奈川県横浜市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.yokohama.lg.jp/business/bunyabetsu/toshiseibi/koukokubutsu/okugaitetsuzuki/okugaitebiki.files/tebiki_butsu_20260401.pdf", メモ: "屋外広告物のてびき（2026年4月1日）"}
+  - {id: 神奈川県横浜市_屋外広告物_点検, 自治体: 神奈川県横浜市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.yokohama.lg.jp/business/bunyabetsu/toshiseibi/koukokubutsu/okugaitetsuzuki/ijikanri_tenken.html", メモ: "有資格者による維持管理・点検"}
+  # ---- 神奈川県川崎市 ----
+  - {id: 神奈川県川崎市_屋外広告物_許可申請, 自治体: 神奈川県川崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kawasaki.jp/530/page/0000017974.html", メモ: "屋外広告物の許可申請手続について"}
+  - {id: 神奈川県川崎市_屋外広告物_条例改正, 自治体: 神奈川県川崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kawasaki.jp/530/page/0000186333.html", メモ: "屋外広告物条例を一部改正しました"}
+  - {id: 神奈川県川崎市_屋外広告物_安全点検, 自治体: 神奈川県川崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kawasaki.jp/530/page/0000116998.html", メモ: "屋外広告物の安全点検について"}
+  - {id: 神奈川県川崎市_屋外広告物_手数料表, 自治体: 神奈川県川崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kawasaki.jp/530/page/0000018001.html", メモ: "許可期間・許可手数料表"}
+  # ---- 神奈川県相模原市 ----
+  - {id: 神奈川県相模原市_屋外広告物_手続き, 自治体: 神奈川県相模原市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.sagamihara.kanagawa.jp/shisei/1026823/machitsukuri/kaihatsu/koukoku/1014670/1014681.html", メモ: "許可申請手続きについて"}
+  - {id: 神奈川県相模原市_屋外広告物_手続き一覧, 自治体: 神奈川県相模原市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/011/831/2023/01.pdf", メモ: "手続きの一覧（平成31年4月1日現在）"}
+  - {id: 神奈川県相模原市_屋外広告物_しおり, 自治体: 神奈川県相模原市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.sagamihara.kanagawa.jp/_res/projects/default_project/_page_/001/014/658/2023_siori.pdf", メモ: "屋外広告物のしおり 2023"}
+  # ---- 神奈川県平塚市 ----
+  - {id: 神奈川県平塚市_屋外広告物_条例, 自治体: 神奈川県平塚市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hiratsuka.kanagawa.jp/machizukuri/page-c_02929.html", メモ: "平塚市屋外広告物条例"}
+  - {id: 神奈川県平塚市_屋外広告物_許可申請, 自治体: 神奈川県平塚市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hiratsuka.kanagawa.jp/machizukuri/page-c_02930.html", メモ: "屋外広告物の許可申請（様式）"}
+  - {id: 神奈川県平塚市_屋外広告物_手引き, 自治体: 神奈川県平塚市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.hiratsuka.kanagawa.jp/common/200106077.pdf", メモ: "屋外広告物設置の手引き"}
