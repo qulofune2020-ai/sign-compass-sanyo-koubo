@@ -78,3 +78,12 @@
   - {id: 兵庫県尼崎市_屋外広告物_設置するとき, 自治体: 兵庫県尼崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.amagasaki.hyogo.jp/kurashi/tosi_seibi/kentiku/1005033/076okugai_a/076okugai_kyoka.html", メモ: "屋外広告物を設置するとき"}
   - {id: 兵庫県尼崎市_屋外広告物_管理者点検者, 自治体: 兵庫県尼崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.amagasaki.hyogo.jp/kurashi/tosi_seibi/kentiku/1005033/076okugai_a/1005081.html", メモ: "管理者、点検者、安全管理について"}
   - {id: 兵庫県尼崎市_屋外広告物_施行規則, 自治体: 兵庫県尼崎市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.amagasaki.hyogo.jp/_res/projects/default_project/_page_/001/005/075/R6okugaikisoku.pdf", メモ: "尼崎市屋外広告物条例施行規則"}
+  # ---- 新潟県（新潟県屋外広告物条例） ----
+  - {id: 新潟県_屋外広告物_許可について, 自治体: 新潟県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.niigata.lg.jp/sec/toshiseisaku/1197389755906.html", メモ: "屋外広告物の表示・設置許可について"}
+  - {id: 新潟県_屋外広告物_概要, 自治体: 新潟県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.niigata.lg.jp/sec/toshiseisaku/1197216942701.html", メモ: "屋外広告物について"}
+  # ---- 新潟県新潟市 ----
+  - {id: 新潟県新潟市_屋外広告物_許可, 自治体: 新潟県新潟市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.niigata.lg.jp/shisei/tokei/toshikeikaku/keikannituite/okugai/okugai_kyoka.html", メモ: "屋外広告物の表示・設置許可について"}
+  - {id: 新潟県新潟市_屋外広告物_その前に, 自治体: 新潟県新潟市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.niigata.lg.jp/shisei/tokei/toshikeikaku/keikannituite/okugai/okugai_kyoka.files/R31001_sonomaeni.pdf", メモ: "屋外広告物を出す前に（R3.10）"}
+  - {id: 新潟県新潟市_屋外広告物_事例集, 自治体: 新潟県新潟市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.niigata.lg.jp/shisei/tokei/toshikeikaku/keikannituite/okugai/okugai_reiki.files/jireisyu.pdf", メモ: "区分及び申請手続きに関する取り扱い事例集（R5.2）"}
+  - {id: 新潟県_屋外広告物_しおり, 自治体: 新潟県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.niigata.lg.jp/uploaded/attachment/416442.pdf", メモ: "屋外広告物のしおり（令和6年）"}
+  - {id: 新潟県_屋外広告物_申請窓口, 自治体: 新潟県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.niigata.lg.jp/uploaded/attachment/507147.pdf", メモ: "屋外広告物許可申請窓口（令和8年4月1日）"}
