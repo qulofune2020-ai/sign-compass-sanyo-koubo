@@ -87,3 +87,8 @@
   - {id: 新潟県新潟市_屋外広告物_事例集, 自治体: 新潟県新潟市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.niigata.lg.jp/shisei/tokei/toshikeikaku/keikannituite/okugai/okugai_reiki.files/jireisyu.pdf", メモ: "区分及び申請手続きに関する取り扱い事例集（R5.2）"}
   - {id: 新潟県_屋外広告物_しおり, 自治体: 新潟県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.niigata.lg.jp/uploaded/attachment/416442.pdf", メモ: "屋外広告物のしおり（令和6年）"}
   - {id: 新潟県_屋外広告物_申請窓口, 自治体: 新潟県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.niigata.lg.jp/uploaded/attachment/507147.pdf", メモ: "屋外広告物許可申請窓口（令和8年4月1日）"}
+  # ---- 新潟県新発田市（新発田市屋外広告物条例） ----
+  - {id: 新潟県新発田市_屋外広告物_許可申請, 自治体: 新潟県新発田市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.shibata.lg.jp/machidukuri/machidukuri/koukokubutsu/1030545.html", メモ: "屋外広告物許可申請について"}
+  - {id: 新潟県新発田市_屋外広告物_設置するとき, 自治体: 新潟県新発田市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.shibata.lg.jp/machidukuri/machidukuri/koukokubutsu/1001288.html", メモ: "屋外広告物を設置するときは"}
+  - {id: 新潟県新発田市_屋外広告物_管理者, 自治体: 新潟県新発田市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.shibata.lg.jp/machidukuri/machidukuri/koukokubutsu/1001290.html", メモ: "表示・設置するときの管理者"}
+  - {id: 新潟県新発田市_屋外広告物_設置について, 自治体: 新潟県新発田市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.shibata.lg.jp/_res/projects/default_project/_page_/001/030/545/9.pdf", メモ: "新発田市における屋外広告物の設置について"}
