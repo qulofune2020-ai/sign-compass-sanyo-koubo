@@ -104,3 +104,88 @@
     sha256: fc232bd063529aadef85741a2ba17cf503a5c7e474fb3f7a042aa3c56d939777
     サイズ: 57423
     形式: html
+  - id: 愛媛県松山市_屋外広告物_手引き
+    url: https://www.city.matsuyama.ehime.jp/shisei/machizukuri/toshikeikaku/koukoku/kkzentai/koukokutebiki.files/R7-tebiki.pdf
+    最終更新: Fri, 06 Feb 2026 07:59:04 GMT
+    状態: 取得済み
+    ファイル: 愛媛県松山市_屋外広告物_手引き.pdf
+    取得日: 2026-11-16
+    sha256: 73c6826832b7c4ae1e845fdf9e0d95af622e93f673cb9385a50a095ab2b6cf05
+    サイズ: 7905530
+    形式: pdf
+    ページ数: 48
+  - id: 岡山県倉敷市_屋外広告物_新規ページ
+    url: https://www.city.kurashiki.okayama.jp/cityinfo/city-plan/1006441/1006452/1006453/1006454.html
+    最終更新: Mon, 16 Nov 2026 08:09:21 GMT
+    状態: 取得済み
+    ファイル: 岡山県倉敷市_屋外広告物_新規ページ.html
+    取得日: 2026-11-16
+    sha256: 05430f67162a9f8b45333375b82ea4ae0101e73665a03fca2ab1b56281222d55
+    サイズ: 28853
+    形式: html
+  - id: 岡山県倉敷市_屋外広告物_更新ページ
+    url: https://www.city.kurashiki.okayama.jp/cityinfo/city-plan/1006441/1006452/1006453/1006455.html
+    最終更新: Mon, 16 Nov 2026 08:09:21 GMT
+    状態: 取得済み
+    ファイル: 岡山県倉敷市_屋外広告物_更新ページ.html
+    取得日: 2026-11-16
+    sha256: a1aed608aa14c2ebf7329c8c9b3f88ac3c149a1b51c58aaf37497ba3c5f80342
+    サイズ: 26807
+    形式: html
+  - id: 岡山県倉敷市_屋外広告物_変更ページ
+    url: https://www.city.kurashiki.okayama.jp/cityinfo/city-plan/1006441/1006452/1006453/1006456.html
+    最終更新: Mon, 16 Nov 2026 08:09:21 GMT
+    状態: 取得済み
+    ファイル: 岡山県倉敷市_屋外広告物_変更ページ.html
+    取得日: 2026-11-16
+    sha256: 45c7bbd5e6dc3aa327d5424532b4beff2f3b0f8fb680d49dfdec6cc10bd2d4aa
+    サイズ: 26762
+    形式: html
+  - id: 岡山県倉敷市_屋外広告物_安全管理ページ
+    url: https://www.city.kurashiki.okayama.jp/cityinfo/city-plan/1006441/1006452/1006460.html
+    最終更新: Mon, 16 Nov 2026 08:09:21 GMT
+    状態: 取得済み
+    ファイル: 岡山県倉敷市_屋外広告物_安全管理ページ.html
+    取得日: 2026-11-16
+    sha256: 068cd4f9e8815070a34a4196f4862747b1acff956020c9176ed1fe9d3f92c52a
+    サイズ: 29610
+    形式: html
+  - id: 岡山県倉敷市_屋外広告物_有資格者点検
+    url: https://www.city.kurashiki.okayama.jp/_res/projects/default_project/_page_/001/006/460/yuushikakusyatenken.pdf
+    最終更新: Thu, 05 Sep 2024 01:13:20 GMT
+    状態: 取得済み
+    ファイル: 岡山県倉敷市_屋外広告物_有資格者点検.pdf
+    取得日: 2026-11-16
+    sha256: 9efe0ddee90a6754e1ddac4c2a1040d8b57db9b3ec147426dcbd6354f601bf1b
+    サイズ: 1282347
+    形式: pdf
+    ページ数: 2
+  - id: 高知県高知市_屋外広告物_ページ
+    url: https://www.city.kochi.kochi.jp/soshiki/52/koukokusinsei1.html
+    最終更新: Sun, 15 Nov 2026 17:03:46 GMT
+    状態: 取得済み
+    ファイル: 高知県高知市_屋外広告物_ページ.html
+    取得日: 2026-11-16
+    sha256: 93972deb76e9aa0adac97791d0676fdc73f813584540e0dbcf1b2bdada577b30
+    サイズ: 41788
+    形式: html
+  - id: 高知県高知市_屋外広告物_手引き
+    url: https://www.city.kochi.kochi.jp/uploaded/attachment/155833.pdf
+    最終更新: Fri, 05 Jun 2026 07:15:24 GMT
+    状態: 取得済み
+    ファイル: 高知県高知市_屋外広告物_手引き.pdf
+    取得日: 2026-11-16
+    sha256: 143910c64e0b15f5035cdb00774dbe035abe4c08223c3b677cbd9a178d50ddf6
+    サイズ: 3793232
+    形式: pdf
+    ページ数: 149
+  - id: 高知県高知市_屋外広告物_手続き
+    url: https://www.city.kochi.kochi.jp/uploaded/attachment/176150.pdf
+    最終更新: Fri, 05 Jun 2026 07:15:24 GMT
+    状態: 取得済み
+    ファイル: 高知県高知市_屋外広告物_手続き.pdf
+    取得日: 2026-11-16
+    sha256: fa78865dd9bae82ad45480d9a3f557614ba9a74d92807e883b57bcdba63cb73d
+    サイズ: 288813
+    形式: pdf
+    ページ数: 4

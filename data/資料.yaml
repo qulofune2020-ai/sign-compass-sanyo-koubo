@@ -15,3 +15,15 @@
   - {id: 広島県広島市_屋外広告物_手引き2-2, 自治体: 広島県広島市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hiroshima.lg.jp/business/toshikeikaku/1014906/1026836/1026837/1017842.html", メモ: "屋外広告物の手引き 第2章 許可について（その2）"}
   - {id: 広島県広島市_屋外広告物_手引き2-3, 自治体: 広島県広島市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hiroshima.lg.jp/business/toshikeikaku/1014906/1026836/1026837/1017843.html", メモ: "屋外広告物の手引き 第2章 許可について（その3）"}
   - {id: 広島県広島市_屋外広告物_手引き3, 自治体: 広島県広島市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hiroshima.lg.jp/business/toshikeikaku/1014906/1026836/1026837/1017844.html", メモ: "屋外広告物の手引き 第3章 表示・設置する者の義務"}
+  # ---- 愛媛県松山市 ----
+  - {id: 愛媛県松山市_屋外広告物_手引き, 自治体: 愛媛県松山市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.matsuyama.ehime.jp/shisei/machizukuri/toshikeikaku/koukoku/kkzentai/koukokutebiki.files/R7-tebiki.pdf", メモ: "屋外広告物の手引き（令和7年版）"}
+  # ---- 岡山県倉敷市 ----
+  - {id: 岡山県倉敷市_屋外広告物_新規ページ, 自治体: 岡山県倉敷市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kurashiki.okayama.jp/cityinfo/city-plan/1006441/1006452/1006453/1006454.html", メモ: "新規で許可申請をする場合"}
+  - {id: 岡山県倉敷市_屋外広告物_更新ページ, 自治体: 岡山県倉敷市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kurashiki.okayama.jp/cityinfo/city-plan/1006441/1006452/1006453/1006455.html", メモ: "更新の許可申請をする場合"}
+  - {id: 岡山県倉敷市_屋外広告物_変更ページ, 自治体: 岡山県倉敷市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kurashiki.okayama.jp/cityinfo/city-plan/1006441/1006452/1006453/1006456.html", メモ: "変更の許可申請をする場合"}
+  - {id: 岡山県倉敷市_屋外広告物_安全管理ページ, 自治体: 岡山県倉敷市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kurashiki.okayama.jp/cityinfo/city-plan/1006441/1006452/1006460.html", メモ: "屋外広告物の安全管理・有資格者制度"}
+  - {id: 岡山県倉敷市_屋外広告物_有資格者点検, 自治体: 岡山県倉敷市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kurashiki.okayama.jp/_res/projects/default_project/_page_/001/006/460/yuushikakusyatenken.pdf", メモ: "屋外広告物の有資格者点検等の概要"}
+  # ---- 高知県高知市 ----
+  - {id: 高知県高知市_屋外広告物_ページ, 自治体: 高知県高知市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kochi.kochi.jp/soshiki/52/koukokusinsei1.html", メモ: "高知市屋外広告物条例について（許可申請、広告業登録等）"}
+  - {id: 高知県高知市_屋外広告物_手引き, 自治体: 高知県高知市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kochi.kochi.jp/uploaded/attachment/155833.pdf", メモ: "高知市屋外広告物の手引き（R701訂正）"}
+  - {id: 高知県高知市_屋外広告物_手続き, 自治体: 高知県高知市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kochi.kochi.jp/uploaded/attachment/176150.pdf", メモ: "広告物許可申請の手続き・記載例"}
