@@ -92,3 +92,15 @@
   - {id: 新潟県新発田市_屋外広告物_設置するとき, 自治体: 新潟県新発田市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.shibata.lg.jp/machidukuri/machidukuri/koukokubutsu/1001288.html", メモ: "屋外広告物を設置するときは"}
   - {id: 新潟県新発田市_屋外広告物_管理者, 自治体: 新潟県新発田市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.shibata.lg.jp/machidukuri/machidukuri/koukokubutsu/1001290.html", メモ: "表示・設置するときの管理者"}
   - {id: 新潟県新発田市_屋外広告物_設置について, 自治体: 新潟県新発田市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.shibata.lg.jp/_res/projects/default_project/_page_/001/030/545/9.pdf", メモ: "新発田市における屋外広告物の設置について"}
+  # ---- 福岡県（福岡県屋外広告物条例） ----
+  - {id: 福岡県_屋外広告物_許可申請, 自治体: 福岡県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.fukuoka.lg.jp/contents/outdoor-ads03.html", メモ: "屋外広告物の許可申請について"}
+  - {id: 福岡県_屋外広告物_概要, 自治体: 福岡県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.fukuoka.lg.jp/uploaded/life/739812_62246323_misc.pdf", メモ: "屋外広告物の定義と規制の概要"}
+  # ---- 福岡県久留米市 ----
+  - {id: 福岡県久留米市_屋外広告物_手引き, 自治体: 福岡県久留米市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kurume.fukuoka.jp/1500soshiki/9097toshikei/3020shinsei/files/okugaitebiki_R710.pdf", メモ: "久留米市屋外広告物の手引き 令和7年10月版"}
+  - {id: 福岡県久留米市_屋外広告物_QA, 自治体: 福岡県久留米市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kurume.fukuoka.jp/1500soshiki/9097toshikei/3020shinsei/files/okugaiQA.pdf", メモ: "久留米市屋外広告物許可申請Q&A 令和7年10月"}
+  # ---- 福岡県北九州市 ----
+  - {id: 福岡県北九州市_屋外広告物_について, 自治体: 福岡県北九州市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kitakyushu.lg.jp/contents/924_00767.html", メモ: "屋外広告物について"}
+  - {id: 福岡県北九州市_屋外広告物_手びき, 自治体: 福岡県北九州市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kitakyushu.lg.jp/files/001084038.pdf", メモ: "屋外広告物の手びき"}
+  # ---- 福岡県宗像市 ----
+  - {id: 福岡県宗像市_屋外広告物_許可申請, 自治体: 福岡県宗像市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.munakata.lg.jp/kiji0031957/index.html", メモ: "屋外広告物の許可申請"}
+  - {id: 福岡県宗像市_屋外広告物_手引き, 自治体: 福岡県宗像市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.munakata.lg.jp/kiji0031994/3_1994_18_07koukoubutujyoureitebiki.pdf", メモ: "宗像市屋外広告物条例の手引き"}

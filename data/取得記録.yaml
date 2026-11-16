@@ -666,3 +666,79 @@
     サイズ: 211641
     形式: pdf
     ページ数: 2
+  - id: 福岡県_屋外広告物_許可申請
+    url: https://www.pref.fukuoka.lg.jp/contents/outdoor-ads03.html
+    最終更新: Sun, 15 Nov 2026 17:26:11 GMT
+    状態: 取得済み
+    ファイル: 福岡県_屋外広告物_許可申請.html
+    取得日: 2026-11-16
+    sha256: 30e720be27a5a25b73509128ecf0895f265a42bda03596e349dde8f2b5a6c119
+    サイズ: 72317
+    形式: html
+  - id: 福岡県_屋外広告物_概要
+    url: https://www.pref.fukuoka.lg.jp/uploaded/life/739812_62246323_misc.pdf
+    最終更新: Sun, 15 Nov 2026 17:28:18 GMT
+    状態: 取得済み
+    ファイル: 福岡県_屋外広告物_概要.pdf
+    取得日: 2026-11-16
+    sha256: eb3ef3b48545f73ae383aba2260bd0fbcc41af969f17e005ee190742dd949c22
+    サイズ: 2399235
+    形式: pdf
+    ページ数: 19
+  - id: 福岡県久留米市_屋外広告物_手引き
+    url: https://www.city.kurume.fukuoka.jp/1500soshiki/9097toshikei/3020shinsei/files/okugaitebiki_R710.pdf
+    最終更新: Tue, 30 Sep 2025 23:53:39 GMT
+    状態: 取得済み
+    ファイル: 福岡県久留米市_屋外広告物_手引き.pdf
+    取得日: 2026-11-16
+    sha256: 7520ba6db5392f04c3be7afd173e879c6d10bd9bcf7b9c243e6bf0bc96f28b4c
+    サイズ: 2321587
+    形式: pdf
+    ページ数: 24
+  - id: 福岡県久留米市_屋外広告物_QA
+    url: https://www.city.kurume.fukuoka.jp/1500soshiki/9097toshikei/3020shinsei/files/okugaiQA.pdf
+    最終更新: Wed, 24 Sep 2025 10:48:28 GMT
+    状態: 取得済み
+    ファイル: 福岡県久留米市_屋外広告物_QA.pdf
+    取得日: 2026-11-16
+    sha256: 135b35773d0f0cb7cb70e0160350c7170c84a441c1747a1581f51c89e7a701ad
+    サイズ: 1420834
+    形式: pdf
+    ページ数: 23
+  - id: 福岡県北九州市_屋外広告物_について
+    url: https://www.city.kitakyushu.lg.jp/contents/924_00767.html
+    状態: 取得済み
+    ファイル: 福岡県北九州市_屋外広告物_について.html
+    取得日: 2026-11-16
+    sha256: 7cd8bb350240e7f1401d7b492b5a7fc81dee3207b63dce16ad0929157bac4148
+    サイズ: 35883
+    形式: html
+  - id: 福岡県北九州市_屋外広告物_手びき
+    url: https://www.city.kitakyushu.lg.jp/files/001084038.pdf
+    最終更新: Thu, 12 Nov 2026 04:32:47 GMT
+    状態: 取得済み
+    ファイル: 福岡県北九州市_屋外広告物_手びき.pdf
+    取得日: 2026-11-16
+    sha256: 6367f5f3f7fb31bfd7e60bdb4f042528d766f2985397216c4fa1803285b1b10c
+    サイズ: 494824
+    形式: pdf
+    ページ数: 16
+  - id: 福岡県宗像市_屋外広告物_許可申請
+    url: https://www.city.munakata.lg.jp/kiji0031957/index.html
+    最終更新: Thu, 12 Nov 2026 15:24:58 GMT
+    状態: 取得済み
+    ファイル: 福岡県宗像市_屋外広告物_許可申請.html
+    取得日: 2026-11-16
+    sha256: 10fc10abff96a8cd2f9186b49051e5f902e68cc8e1295a1320495c0c88d2e571
+    サイズ: 206982
+    形式: html
+  - id: 福岡県宗像市_屋外広告物_手引き
+    url: https://www.city.munakata.lg.jp/kiji0031994/3_1994_18_07koukoubutujyoureitebiki.pdf
+    最終更新: Thu, 31 May 2018 12:20:44 GMT
+    状態: 取得済み
+    ファイル: 福岡県宗像市_屋外広告物_手引き.pdf
+    取得日: 2026-11-16
+    sha256: 28e2ed3722d0293c934e5b4dac2cdb5849d732afe650197c030e9eeb623c4c76
+    サイズ: 1907605
+    形式: pdf
+    ページ数: 16
