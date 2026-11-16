@@ -134,3 +134,11 @@
   - {id: 神奈川県平塚市_屋外広告物_条例, 自治体: 神奈川県平塚市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hiratsuka.kanagawa.jp/machizukuri/page-c_02929.html", メモ: "平塚市屋外広告物条例"}
   - {id: 神奈川県平塚市_屋外広告物_許可申請, 自治体: 神奈川県平塚市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hiratsuka.kanagawa.jp/machizukuri/page-c_02930.html", メモ: "屋外広告物の許可申請（様式）"}
   - {id: 神奈川県平塚市_屋外広告物_手引き, 自治体: 神奈川県平塚市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.hiratsuka.kanagawa.jp/common/200106077.pdf", メモ: "屋外広告物設置の手引き"}
+  # ---- 千葉県（千葉県屋外広告物条例） ----
+  - {id: 千葉県_屋外広告物_申請窓口, 自治体: 千葉県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.chiba.lg.jp/kouen/kisei/kyokashinsei.html", メモ: "屋外広告物の許可申請窓口"}
+  - {id: 千葉県_屋外広告物_しおり, 自治体: 千葉県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.chiba.lg.jp/kouen/kisei/documents/r710shiori.pdf", メモ: "屋外広告物のしおり（令和7年10月）"}
+  - {id: 千葉県_屋外広告物_更新申請書, 自治体: 千葉県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.chiba.lg.jp/kouen/tetsuzuki/300/18130-008.html", メモ: "表示（設置）許可更新申請書（第四号様式）"}
+  # ---- 千葉県流山市（流山市広告物条例） ----
+  - {id: 千葉県流山市_広告物_手続き, 自治体: 千葉県流山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.nagareyama.chiba.jp/information/1007116/1007365/1019404/1021058.html", メモ: "流山市広告物条例の手続き・様式"}
+  - {id: 千葉県流山市_広告物_規制, 自治体: 千葉県流山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.nagareyama.chiba.jp/information/1007116/1007365/1019404/1021851.html", メモ: "流山市広告物条例の規制について"}
+  - {id: 千葉県流山市_広告物_質疑応答集, 自治体: 千葉県流山市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.nagareyama.chiba.jp/_res/projects/default_project/_page_/001/022/809/situgioutou20230607.pdf", メモ: "流山市広告物条例 質疑応答集（令和5年6月7日 第3次改訂）"}
