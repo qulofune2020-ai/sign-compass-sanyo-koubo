@@ -68,3 +68,13 @@
   - {id: 兵庫県_屋外広告物_許可申請手続き, 自治体: 兵庫県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://web.pref.hyogo.lg.jp/ks20/wd23_000000029.html", メモ: "許可申請手続き"}
   - {id: 兵庫県_屋外広告物_QA, 自治体: 兵庫県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://web.pref.hyogo.lg.jp/ks20/documents/qa2501.pdf", メモ: "屋外広告物条例Q&A"}
   - {id: 兵庫県_屋外広告物_市町窓口, 自治体: 兵庫県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://web.pref.hyogo.lg.jp/ks20/documents/r3meibo.pdf", メモ: "各市町の窓口"}
+  # ---- 兵庫県神戸市 ----
+  - {id: 兵庫県神戸市_屋外広告物_しおり, 自治体: 兵庫県神戸市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kobe.lg.jp/documents/10160/okugaishiori20260401.pdf", メモ: "屋外広告物条例のしおり 2026年4月"}
+  # ---- 兵庫県姫路市 ----
+  - {id: 兵庫県姫路市_屋外広告物_更新手続, 自治体: 兵庫県姫路市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.himeji.lg.jp/sangyo/0000027706.html", メモ: "屋外広告物許可期間の更新手続"}
+  - {id: 兵庫県姫路市_屋外広告物_点検義務化, 自治体: 兵庫県姫路市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.himeji.lg.jp/sangyo/0000025481.html", メモ: "有資格者による点検義務化"}
+  - {id: 兵庫県姫路市_屋外広告物_手数料FAQ, 自治体: 兵庫県姫路市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.himeji.lg.jp/faq/faq_detail.php?frmId=543", メモ: "許可手数料や許可期間（FAQ）"}
+  # ---- 兵庫県尼崎市 ----
+  - {id: 兵庫県尼崎市_屋外広告物_設置するとき, 自治体: 兵庫県尼崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.amagasaki.hyogo.jp/kurashi/tosi_seibi/kentiku/1005033/076okugai_a/076okugai_kyoka.html", メモ: "屋外広告物を設置するとき"}
+  - {id: 兵庫県尼崎市_屋外広告物_管理者点検者, 自治体: 兵庫県尼崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.amagasaki.hyogo.jp/kurashi/tosi_seibi/kentiku/1005033/076okugai_a/1005081.html", メモ: "管理者、点検者、安全管理について"}
+  - {id: 兵庫県尼崎市_屋外広告物_施行規則, 自治体: 兵庫県尼崎市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.amagasaki.hyogo.jp/_res/projects/default_project/_page_/001/005/075/R6okugaikisoku.pdf", メモ: "尼崎市屋外広告物条例施行規則"}

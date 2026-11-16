@@ -498,3 +498,67 @@
     サイズ: 51254
     形式: pdf
     ページ数: 1
+  - id: 兵庫県神戸市_屋外広告物_しおり
+    url: https://www.city.kobe.lg.jp/documents/10160/okugaishiori20260401.pdf
+    最終更新: Wed, 13 May 2026 07:30:06 GMT
+    状態: 取得済み
+    ファイル: 兵庫県神戸市_屋外広告物_しおり.pdf
+    取得日: 2026-11-16
+    sha256: fb762f0ea56c4e3c35e6318a74eac3f46897a764e64f344c8aaa168b5bf97a83
+    サイズ: 1417436
+    形式: pdf
+    ページ数: 20
+  - id: 兵庫県姫路市_屋外広告物_更新手続
+    url: https://www.city.himeji.lg.jp/sangyo/0000027706.html
+    最終更新: Sun, 15 Nov 2026 15:06:51 GMT
+    状態: 取得済み
+    ファイル: 兵庫県姫路市_屋外広告物_更新手続.html
+    取得日: 2026-11-16
+    sha256: bea6e925ad6ac53fb63f27cc6f9b244ae3c4d44957d5c11e43b61f6462467a78
+    サイズ: 72912
+    形式: html
+  - id: 兵庫県姫路市_屋外広告物_点検義務化
+    url: https://www.city.himeji.lg.jp/sangyo/0000025481.html
+    最終更新: Sun, 15 Nov 2026 15:06:56 GMT
+    状態: 取得済み
+    ファイル: 兵庫県姫路市_屋外広告物_点検義務化.html
+    取得日: 2026-11-16
+    sha256: 927840800f0f310f87be16c9b0af25357bfad1d0c475acf9c67ffd3cf0660d4d
+    サイズ: 77136
+    形式: html
+  - id: 兵庫県姫路市_屋外広告物_手数料FAQ
+    url: https://www.city.himeji.lg.jp/faq/faq_detail.php?frmId=543
+    状態: 取得済み
+    ファイル: 兵庫県姫路市_屋外広告物_手数料FAQ.html
+    取得日: 2026-11-16
+    sha256: 9d5daa401c4e23b0fe2f08118652a9cd46f241163c8de56e1cade9aea67285c9
+    サイズ: 74184
+    形式: html
+  - id: 兵庫県尼崎市_屋外広告物_設置するとき
+    url: https://www.city.amagasaki.hyogo.jp/kurashi/tosi_seibi/kentiku/1005033/076okugai_a/076okugai_kyoka.html
+    最終更新: Mon, 16 Nov 2026 09:08:28 GMT
+    状態: 取得済み
+    ファイル: 兵庫県尼崎市_屋外広告物_設置するとき.html
+    取得日: 2026-11-16
+    sha256: 5e5fa4495039d07db8fd995744ca15511a8de03c71873996eea1503a6a7cd880
+    サイズ: 43264
+    形式: html
+  - id: 兵庫県尼崎市_屋外広告物_管理者点検者
+    url: https://www.city.amagasaki.hyogo.jp/kurashi/tosi_seibi/kentiku/1005033/076okugai_a/1005081.html
+    最終更新: Mon, 16 Nov 2026 09:08:28 GMT
+    状態: 取得済み
+    ファイル: 兵庫県尼崎市_屋外広告物_管理者点検者.html
+    取得日: 2026-11-16
+    sha256: 13d366e9fc56cff5595ee76971489db9730efe63ebab8eff18cd787f0be13158
+    サイズ: 43443
+    形式: html
+  - id: 兵庫県尼崎市_屋外広告物_施行規則
+    url: https://www.city.amagasaki.hyogo.jp/_res/projects/default_project/_page_/001/005/075/R6okugaikisoku.pdf
+    最終更新: Thu, 10 Oct 2024 04:33:58 GMT
+    状態: 取得済み
+    ファイル: 兵庫県尼崎市_屋外広告物_施行規則.pdf
+    取得日: 2026-11-16
+    sha256: c82fe258874a6506e1bb0dd374e150e207febd6b8120ea00c19f38270476f040
+    サイズ: 705628
+    形式: pdf
+    ページ数: 29
