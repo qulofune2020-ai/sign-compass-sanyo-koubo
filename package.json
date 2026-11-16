@@ -1,0 +1,33 @@
+{
+  "name": "kanban-yomidokoro-saitama",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "取得": "node scripts/shutoku.mjs",
+    "照合": "node scripts/shogo.mjs",
+    "市町村": "python3 -I scripts/shichoson.py",
+    "文字にする": "python3 -I scripts/to_text.py 資料/*.pdf 資料/*.html",
+    "報告": "node scripts/houkoku.mjs",
+    "比較": "node scripts/hikaku.mjs",
+    "OCR": "python3 -I scripts/ocr.py",
+    "判定": "node scripts/hantei.mjs",
+    "dev": "node scripts/hantei.mjs >/dev/null && next dev",
+    "build": "node scripts/hantei.mjs >/dev/null && next build",
+    "確認": "node scripts/kakunin.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "yaml": "2.9.1"
+  },
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "22.20.5",
+    "@types/react": "19.3.0",
+    "typescript": "5.9.3"
+  }
+}

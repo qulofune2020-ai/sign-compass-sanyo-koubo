@@ -1,0 +1,10 @@
+# 条例・手引きの本体と文字起こし（リポジトリに置かない）
+/資料/*
+!/資料/.gitkeep
+node_modules/
+.next/
+out/
+.DS_Store
+/lib/data.json
+next-env.d.ts
+*.tsbuildinfo

@@ -1,0 +1,115 @@
+:root {
+  --bg: #f7f6f2;
+  --card: #ffffff;
+  --ink: #1d1f22;
+  --muted: #646a70;
+  --line: #dcdad3;
+  --accent: #1f4e79;
+  --chu: #b3261e;
+  --chu-bg: #fdecea;
+  --yo: #8a5a00;
+  --yo-bg: #fff4d6;
+  --ok: #1e6b3a;
+  --ok-bg: #e5f4ea;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Hiragino Sans", "Noto Sans JP", "Yu Gothic", system-ui, sans-serif;
+  font-size: 16px;
+  line-height: 1.65;
+}
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+.top { background: var(--accent); color: #fff; }
+.top .wrap { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-top: 10px; padding-bottom: 10px; flex-wrap: wrap; }
+.brand { color: #fff; text-decoration: none; font-weight: 700; font-size: 18px; }
+.brand span { font-weight: 400; font-size: 14px; }
+.top nav { display: flex; gap: 14px; }
+.top nav a { color: #fff; font-size: 14px; }
+main { padding-top: 16px; padding-bottom: 24px; }
+h1 { font-size: 22px; margin: 8px 0; }
+.muted { color: var(--muted); }
+.small { font-size: 13px; }
+
+.step { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px; margin-bottom: 14px; }
+.step h2 { font-size: 18px; margin: 0 0 10px; display: flex; align-items: center; gap: 8px; }
+.step h2 .n { background: var(--accent); color: #fff; width: 26px; height: 26px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; font-size: 14px; }
+select, input[type="number"] { font-size: 16px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: #fff; width: 100%; max-width: 420px; }
+
+.zentei { margin-top: 12px; }
+.row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.row2 > div { background: #f1f4f8; border-radius: 8px; padding: 8px 10px; }
+.row2 .k { display: block; font-size: 12px; color: var(--muted); }
+.warn { display: block; color: var(--yo); font-size: 13px; }
+.madoguchi { margin: 10px 0 0; font-size: 14px; }
+.madoguchi dt { color: var(--muted); font-size: 12px; margin-top: 6px; }
+.madoguchi dd { margin: 0; }
+
+.choice { border: 0; padding: 0; margin: 0 0 12px; }
+.choice legend { font-weight: 600; font-size: 14px; margin-bottom: 4px; padding: 0; }
+.choice legend small { font-weight: 400; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chip { font-size: 14px; padding: 6px 12px; border-radius: 999px; border: 1px solid var(--line); background: #fff; color: var(--ink); cursor: pointer; }
+.chip.on { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+.badge { display: inline-block; font-size: 12px; font-weight: 700; padding: 2px 8px; border-radius: 6px; white-space: nowrap; }
+.b-chu { background: var(--chu-bg); color: var(--chu); }
+.b-yo { background: var(--yo-bg); color: var(--yo); }
+.b-ok { background: var(--ok-bg); color: var(--ok); }
+.summary { font-size: 15px; }
+
+.kanten { list-style: none; padding: 0; margin: 0; }
+.kanten > li { border: 1px solid var(--line); border-left-width: 5px; border-radius: 8px; padding: 10px 12px; margin-bottom: 10px; }
+.kanten > li.k-注意 { border-left-color: var(--chu); }
+.kanten > li.k-要確認 { border-left-color: #d9a400; }
+.kanten > li.k-問題なさそう { border-left-color: var(--ok); }
+.kanten .head { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.kanten .no { color: var(--muted); font-size: 13px; }
+.riyu { margin: 6px 0; }
+details summary { cursor: pointer; font-size: 14px; color: var(--accent); }
+.shutten { padding-left: 18px; font-size: 14px; }
+.shutten li { margin: 6px 0; }
+q { quotes: "「" "」"; }
+.src { display: flex; flex-wrap: wrap; gap: 4px 10px; font-size: 13px; }
+.src span { color: var(--muted); }
+.ocr { color: var(--yo) !important; }
+.denwa { background: #f1f4f8; border-radius: 6px; padding: 6px 10px; font-size: 14px; margin-top: 6px; }
+.aruaru { font-size: 13px; color: #4a3b00; background: #fffaf0; border-radius: 6px; padding: 6px 10px; margin-top: 6px; }
+
+.copybox { border: 1px dashed var(--accent); border-radius: 8px; padding: 10px 12px; margin-top: 14px; }
+.copyhead { display: flex; justify-content: space-between; align-items: center; gap: 8px; }
+.copyhead button { font-size: 14px; padding: 6px 12px; border-radius: 8px; border: 0; background: var(--accent); color: #fff; cursor: pointer; }
+.copybox pre { white-space: pre-wrap; word-break: break-word; font-family: inherit; font-size: 13px; margin: 8px 0 0; }
+
+.cta { margin-top: 14px; background: #10324f; color: #fff; border-radius: 10px; padding: 14px 16px; }
+.cta b { font-size: 17px; }
+.cta p { margin: 6px 0 0; font-size: 14px; opacity: 0.9; }
+
+.hikaku select { margin: 6px 0 4px; }
+.cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; margin-top: 10px; }
+.col { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+.col h2 { font-size: 17px; margin: 0 0 8px; }
+.col h2 small { display: block; font-size: 12px; font-weight: 400; color: var(--muted); }
+.rec { border-top: 1px solid var(--line); padding: 8px 0; font-size: 14px; }
+.rec p { margin: 0 0 4px; }
+.rec.nashi p { color: var(--muted); }
+.tag { display: inline-block; font-size: 11px; background: #eef1f4; border-radius: 4px; padding: 0 6px; margin-right: 4px; }
+
+.foot { border-top: 1px solid var(--line); padding-top: 12px; padding-bottom: 28px; font-size: 13px; }
+.foot p { margin: 4px 0; }
+
+@media (max-width: 720px) {
+  .row2 { grid-template-columns: 1fr; }
+  .cols { grid-template-columns: 1fr; }
+  body { font-size: 15px; }
+}
+.col.mishuroku { background: #f3f3f0; }
+.col.mishuroku p { margin: 4px 0; font-size: 14px; }
+.office { margin-top: 10px; padding-top: 10px; border-top: 1px solid rgba(255,255,255,0.25); font-size: 13px; line-height: 1.7; }
+.office .oname { font-size: 15px; font-weight: 700; }
+.office .links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 8px; }
+.office .links a { color: #10324f; background: #fff; border-radius: 8px; padding: 6px 12px; font-weight: 700; font-size: 14px; text-decoration: none; }
