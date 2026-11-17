@@ -200,3 +200,11 @@
   # ---- 岐阜県美濃加茂市・羽島市（県条例） ----
   - {id: 岐阜県美濃加茂市_屋外広告物_ページ, 自治体: 岐阜県美濃加茂市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.minokamo.lg.jp/soshiki/18/20303.html", メモ: "屋外広告物を掲出する際の手続き"}
   - {id: 岐阜県羽島市_屋外広告物_ページ, 自治体: 岐阜県羽島市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hashima.lg.jp/2255.html", メモ: "屋外広告物"}
+  # ---- 香川県（香川県屋外広告物条例） ----
+  - {id: 香川県_屋外広告物_手引, 自治体: 香川県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.kagawa.lg.jp/documents/13220/tebiki0804.pdf", メモ: "屋外広告物の手引（令和8年4月）"}
+  - {id: 香川県_屋外広告物_問い合わせ先, 自治体: 香川県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.kagawa.lg.jp/toshikei/okugai/okugai_toiawase.html", メモ: "お問い合わせ先"}
+  - {id: 香川県_屋外広告物_設置について, 自治体: 香川県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.kagawa.lg.jp/toshikei/okugai/okugai_1.html", メモ: "屋外広告物の設置について"}
+  # ---- 香川県高松市（高松市屋外広告物条例） ----
+  - {id: 香川県高松市_屋外広告物_条例ページ, 自治体: 香川県高松市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.takamatsu.kagawa.jp/jigyosha/toshikeikaku/okugai/koukoku/jorei.html", メモ: "屋外広告物条例について"}
+  - {id: 香川県高松市_屋外広告物_手引き, 自治体: 香川県高松市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.takamatsu.kagawa.jp/jigyosha/toshikeikaku/okugai/koukoku/jorei.files/240401_tebiki_okugai.pdf", メモ: "高松市屋外広告物の手引き（令和元年7月改訂版）"}
+  - {id: 香川県高松市_屋外広告物_施行規則, 自治体: 香川県高松市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.takamatsu.kagawa.jp/jigyosha/toshikeikaku/okugai/koukoku/jorei.files/newkisoku.pdf", メモ: "高松市屋外広告物条例施行規則"}

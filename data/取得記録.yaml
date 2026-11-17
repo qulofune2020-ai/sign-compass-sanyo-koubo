@@ -1385,3 +1385,60 @@
     sha256: 96af98b901478650e9d2646ce69cd2b3eb09868fea7c33f2c4f1f5640fb90eea
     サイズ: 90157
     形式: html
+  - id: 香川県_屋外広告物_手引
+    url: https://www.pref.kagawa.lg.jp/documents/13220/tebiki0804.pdf
+    最終更新: Tue, 31 Mar 2026 23:01:57 GMT
+    状態: 取得済み
+    ファイル: 香川県_屋外広告物_手引.pdf
+    取得日: 2026-11-17
+    sha256: 6211b3dcc0f5d9adb6b1075e78a6a5e01741484c0f430237d6dd4823046c4dcd
+    サイズ: 2187535
+    形式: pdf
+    ページ数: 28
+  - id: 香川県_屋外広告物_問い合わせ先
+    url: https://www.pref.kagawa.lg.jp/toshikei/okugai/okugai_toiawase.html
+    最終更新: Mon, 16 Nov 2026 03:00:31 GMT
+    状態: 取得済み
+    ファイル: 香川県_屋外広告物_問い合わせ先.html
+    取得日: 2026-11-17
+    sha256: 672308f0dc06f18e80c4094cee5f33a24ef258c5f48c98acd745065192a321dc
+    サイズ: 14990
+    形式: html
+  - id: 香川県_屋外広告物_設置について
+    url: https://www.pref.kagawa.lg.jp/toshikei/okugai/okugai_1.html
+    最終更新: Mon, 16 Nov 2026 03:00:31 GMT
+    状態: 取得済み
+    ファイル: 香川県_屋外広告物_設置について.html
+    取得日: 2026-11-17
+    sha256: 8d6b3c23651324dca1185a37265f5f8d4dc5d9af7633999eaa5b6736dae6bc84
+    サイズ: 17758
+    形式: html
+  - id: 香川県高松市_屋外広告物_条例ページ
+    url: https://www.city.takamatsu.kagawa.jp/jigyosha/toshikeikaku/okugai/koukoku/jorei.html
+    最終更新: Mon, 16 Nov 2026 15:00:26 GMT
+    状態: 取得済み
+    ファイル: 香川県高松市_屋外広告物_条例ページ.html
+    取得日: 2026-11-17
+    sha256: 91498f521ea172962b50877253c2f3a8e26d70a88663d2f07d12e518e194e6cc
+    サイズ: 30499
+    形式: html
+  - id: 香川県高松市_屋外広告物_手引き
+    url: https://www.city.takamatsu.kagawa.jp/jigyosha/toshikeikaku/okugai/koukoku/jorei.files/240401_tebiki_okugai.pdf
+    最終更新: Thu, 28 Mar 2024 02:44:52 GMT
+    状態: 取得済み
+    ファイル: 香川県高松市_屋外広告物_手引き.pdf
+    取得日: 2026-11-17
+    sha256: 9366b8fec975bbc9f91de7af1f0083119b4e6c6d13c3afcd3cff216a6403b5fe
+    サイズ: 9076112
+    形式: pdf
+    ページ数: 127
+  - id: 香川県高松市_屋外広告物_施行規則
+    url: https://www.city.takamatsu.kagawa.jp/jigyosha/toshikeikaku/okugai/koukoku/jorei.files/newkisoku.pdf
+    最終更新: Wed, 03 Jul 2019 06:51:59 GMT
+    状態: 取得済み
+    ファイル: 香川県高松市_屋外広告物_施行規則.pdf
+    取得日: 2026-11-17
+    sha256: e274bdddcbde6081d81319c70b35fb8e4675a3210de43db16079261749f3f205
+    サイズ: 703062
+    形式: pdf
+    ページ数: 26
