@@ -2162,3 +2162,30 @@
     sha256: 69cdf21431675a22eb7bd56e168ad03c9bfaa81ceda3389f681db30f4901f91b
     サイズ: 33514
     形式: html
+  - id: 山口県_屋外広告物_許可手続
+    url: https://www.pref.yamaguchi.lg.jp/soshiki/130/23664.html
+    最終更新: Tue, 17 Nov 2026 23:16:40 GMT
+    状態: 取得済み
+    ファイル: 山口県_屋外広告物_許可手続.html
+    取得日: 2026-11-17
+    sha256: 462fecffbef82136a01845486bb2b633541173fb55d0c07df3c86d8cade2b8c1
+    サイズ: 43312
+    形式: html
+  - id: 山口県下関市_屋外広告物_許可申請
+    url: https://www.city.shimonoseki.lg.jp/soshiki/73/2653.html
+    最終更新: Tue, 17 Nov 2026 23:00:48 GMT
+    状態: 取得済み
+    ファイル: 山口県下関市_屋外広告物_許可申請.html
+    取得日: 2026-11-17
+    sha256: d035594bc75358907ddd032f496c3c8b4b1ce8a3cf6a0cde09e3b5998abf1764
+    サイズ: 32095
+    形式: html
+  - id: 山口県下関市_屋外広告物_条例ページ
+    url: https://www.city.shimonoseki.lg.jp/soshiki/73/2652.html
+    最終更新: Tue, 17 Nov 2026 23:00:48 GMT
+    状態: 取得済み
+    ファイル: 山口県下関市_屋外広告物_条例ページ.html
+    取得日: 2026-11-17
+    sha256: fac4b594023a9fa8d38a6c25ea8342469d57d2c45357322778bc4d0854d5f658
+    サイズ: 32285
+    形式: html
