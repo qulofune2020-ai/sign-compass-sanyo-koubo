@@ -2116,3 +2116,49 @@
     sha256: 04e9ecaa8f883e3c8fa347d951c2fdd8e0d046c0a2077d0801e14b7baee490ed
     サイズ: 78279
     形式: html
+  - id: 和歌山県_屋外広告物_施行規則
+    url: https://www.pref.wakayama.lg.jp/prefg/010100/reiki/reiki_honbun/k501RG00000997.html
+    最終更新: Tue, 30 Jun 2026 08:18:00 GMT
+    状態: 取得済み
+    ファイル: 和歌山県_屋外広告物_施行規則.html
+    取得日: 2026-11-17
+    sha256: 2bf9db5d439cf74107fa644bcabd2b4605ecac7abb0ebe77990ed1d6c9ea9344
+    サイズ: 293833
+    形式: html
+  - id: 和歌山県_屋外広告物_QA
+    url: https://www.pref.wakayama.lg.jp/prefg/080900/okugaikoukokubutsujyourei/about_okugaikoukokubutsu_d/fil/okugaikoukokubutuQA.pdf
+    最終更新: Wed, 05 Aug 2026 01:29:24 GMT
+    状態: 取得済み
+    ファイル: 和歌山県_屋外広告物_QA.pdf
+    取得日: 2026-11-17
+    sha256: 01d51377cfa0c513912eab2afe68c656be552eeb637af1e426885ab787b4289d
+    サイズ: 2045448
+    形式: pdf
+    ページ数: 45
+  - id: 和歌山県_屋外広告物_様式
+    url: https://www.pref.wakayama.lg.jp/prefg/080900/okugaikoukokugyoutouroku/shinseisyoruiyousiki/shinseisyoushiki.html
+    最終更新: Thu, 28 May 2026 07:52:36 GMT
+    状態: 取得済み
+    ファイル: 和歌山県_屋外広告物_様式.html
+    取得日: 2026-11-17
+    sha256: 0fa95cc2c48728159a3b92957d28376c006fd11a837d5a52d4c392485214a0d7
+    サイズ: 23460
+    形式: html
+  - id: 和歌山県和歌山市_屋外広告物_更新
+    url: https://www.city.wakayama.wakayama.jp/kurashi/douro_kouen_machi/1001122/1028958/1028980/1029006.html
+    最終更新: Tue, 17 Nov 2026 22:41:33 GMT
+    状態: 取得済み
+    ファイル: 和歌山県和歌山市_屋外広告物_更新.html
+    取得日: 2026-11-17
+    sha256: 8983abacc608af85e92afd0e81bfa79a368bc0e316e72b2dc0b02bddf37ed7de
+    サイズ: 34591
+    形式: html
+  - id: 和歌山県和歌山市_屋外広告物_許可期間手数料
+    url: https://www.city.wakayama.wakayama.jp/kurashi/douro_kouen_machi/1001122/1028958/1028980/1029050.html
+    最終更新: Tue, 17 Nov 2026 22:41:33 GMT
+    状態: 取得済み
+    ファイル: 和歌山県和歌山市_屋外広告物_許可期間手数料.html
+    取得日: 2026-11-17
+    sha256: 69cdf21431675a22eb7bd56e168ad03c9bfaa81ceda3389f681db30f4901f91b
+    サイズ: 33514
+    形式: html

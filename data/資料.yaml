@@ -306,3 +306,10 @@
   # ---- 奈良県橿原市 ----
   - {id: 奈良県橿原市_屋外広告物_手引き, 自治体: 奈良県橿原市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kashihara.nara.jp/material/files/group/25/tebiki2.pdf", メモ: "屋外広告物の手引き"}
   - {id: 奈良県橿原市_屋外広告物_定期点検, 自治体: 奈良県橿原市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kashihara.nara.jp/soshiki/1016/gyomu/1/2_1/1/17162.html", メモ: "屋外広告物の定期点検による安全性確保の推進について"}
+  # ---- 和歌山県（和歌山県屋外広告物条例） ----
+  - {id: 和歌山県_屋外広告物_施行規則, 自治体: 和歌山県, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.pref.wakayama.lg.jp/prefg/010100/reiki/reiki_honbun/k501RG00000997.html", メモ: "和歌山県屋外広告物条例施行規則（例規集）"}
+  - {id: 和歌山県_屋外広告物_QA, 自治体: 和歌山県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.wakayama.lg.jp/prefg/080900/okugaikoukokubutsujyourei/about_okugaikoukokubutsu_d/fil/okugaikoukokubutuQA.pdf", メモ: "和歌山県屋外広告物Q&A"}
+  - {id: 和歌山県_屋外広告物_様式, 自治体: 和歌山県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.wakayama.lg.jp/prefg/080900/okugaikoukokugyoutouroku/shinseisyoruiyousiki/shinseisyoushiki.html", メモ: "屋外広告物許可申請書等の様式について"}
+  # ---- 和歌山県和歌山市 ----
+  - {id: 和歌山県和歌山市_屋外広告物_更新, 自治体: 和歌山県和歌山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.wakayama.wakayama.jp/kurashi/douro_kouen_machi/1001122/1028958/1028980/1029006.html", メモ: "【屋外広告物】更新の手続き"}
+  - {id: 和歌山県和歌山市_屋外広告物_許可期間手数料, 自治体: 和歌山県和歌山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.wakayama.wakayama.jp/kurashi/douro_kouen_machi/1001122/1028958/1028980/1029050.html", メモ: "許可期間と手数料"}
