@@ -1529,3 +1529,86 @@
     sha256: d4ebcd090e0a0103076d11332b0456e6690a46f22f992d54feb1d574925d74ee
     サイズ: 34741
     形式: html
+  - id: 京都府_屋外広告物_ページ
+    url: https://www.pref.kyoto.jp/toshi/okugaikoukokubutu.html
+    最終更新: Tue, 03 Feb 2026 03:58:31 GMT
+    状態: 取得済み
+    ファイル: 京都府_屋外広告物_ページ.html
+    取得日: 2026-11-17
+    sha256: 99aa4b19a5346bee2b08af61d85e95e5c3bbdabd51d2b4e7b12386c50c5b107d
+    サイズ: 21159
+    形式: html
+  - id: 京都府_屋外広告物_市町村担当一覧
+    url: https://www.pref.kyoto.jp/toshi/tantouitiran.html
+    最終更新: Tue, 03 Feb 2026 03:58:30 GMT
+    状態: 取得済み
+    ファイル: 京都府_屋外広告物_市町村担当一覧.html
+    取得日: 2026-11-17
+    sha256: 762cf5afc7d5e9ef93776a3176cb49bd3ce61fd242d4bbd63a73b88719d9877c
+    サイズ: 19813
+    形式: html
+  - id: 京都府_屋外広告物_条例
+    url: https://www.pref.kyoto.jp/reiki/reiki_honbun/a300RG00000726.html
+    最終更新: Tue, 15 Sep 2026 00:41:58 GMT
+    状態: 取得済み
+    ファイル: 京都府_屋外広告物_条例.html
+    取得日: 2026-11-17
+    sha256: b70fbf1b68716f40e817d3c318a3f90a9e5bc1e34d210561c12205f98ae8a594
+    サイズ: 192608
+    形式: html
+  - id: 京都府京都市_屋外広告物_申請の流れ
+    url: https://www.city.kyoto.lg.jp/tokei/page/0000102522.html
+    最終更新: Mon, 16 Nov 2026 15:18:00 GMT
+    状態: 取得済み
+    ファイル: 京都府京都市_屋外広告物_申請の流れ.html
+    取得日: 2026-11-17
+    sha256: d8171a9c5d9ea79ed6d9a5197287c72eec94d58e8f3832b99825d51a38943441
+    サイズ: 25024
+    形式: html
+  - id: 京都府京都市_屋外広告物_条例
+    url: https://www.city.kyoto.lg.jp/tokei/cmsfiles/contents/0000056/56450/kyoto_okugaikoukoku_jyorei20250327.pdf
+    最終更新: Mon, 06 Apr 2026 02:00:02 GMT
+    状態: 取得済み
+    ファイル: 京都府京都市_屋外広告物_条例.pdf
+    取得日: 2026-11-17
+    sha256: 6f767c44d0b0f33731f54643d017a97ecde33c5b18ab3e97fc5d190548610ebd
+    サイズ: 598803
+    形式: pdf
+    ページ数: 28
+  - id: 京都府京都市_屋外広告物_手数料
+    url: https://www.city.kyoto.lg.jp/tokei/cmsfiles/contents/0000102/102522/tesuuryou.pdf
+    最終更新: Fri, 02 Oct 2026 09:00:01 GMT
+    状態: 取得済み
+    ファイル: 京都府京都市_屋外広告物_手数料.pdf
+    取得日: 2026-11-17
+    sha256: 851547b98446b51f115bc28dc73ade119246de01327a5e2db7f5bae7f2f72635
+    サイズ: 115357
+    形式: pdf
+    ページ数: 1
+  - id: 京都府宇治市_屋外広告物_設置される方へ
+    url: https://www.city.uji.kyoto.jp/soshiki/88/6139.html
+    最終更新: Tue, 17 Nov 2026 00:03:33 GMT
+    状態: 取得済み
+    ファイル: 京都府宇治市_屋外広告物_設置される方へ.html
+    取得日: 2026-11-17
+    sha256: dcc8c98445cb58fac435fea09914b896ddc050a0f6e6e3302f8e2c01cc3853f0
+    サイズ: 24814
+    形式: html
+  - id: 京都府宇治市_屋外広告物_手数料
+    url: https://www.city.uji.kyoto.jp/soshiki/88/4947.html
+    最終更新: Tue, 17 Nov 2026 00:02:48 GMT
+    状態: 取得済み
+    ファイル: 京都府宇治市_屋外広告物_手数料.html
+    取得日: 2026-11-17
+    sha256: d6e3459d2a7204f61c772ee5460f420c6c36c815af9a0090227bdabca31adbc1
+    サイズ: 21315
+    形式: html
+  - id: 京都府宇治市_屋外広告物_条例
+    url: https://reiki-web.city.uji.kyoto.jp/reiki/reiki_honbun/k106RG00000947.html
+    最終更新: Thu, 13 Aug 2026 00:26:28 GMT
+    状態: 取得済み
+    ファイル: 京都府宇治市_屋外広告物_条例.html
+    取得日: 2026-11-17
+    sha256: 3e2b51e65835cc2523f89fa78a1b3c1fe6f8b992e4bc60cb35696bc1004a46ce
+    サイズ: 129363
+    形式: html

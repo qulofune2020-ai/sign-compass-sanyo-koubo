@@ -219,3 +219,15 @@
   - {id: 埼玉県さいたま市_屋外広告物_施行規則, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.saitama.lg.jp/001/010/004/p030742_d/fil/sekoukisoku.pdf", メモ: "さいたま市屋外広告物条例施行規則"}
   - {id: 埼玉県さいたま市_屋外広告物_申請案内, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.saitama.lg.jp/005/003/005/p018265.html", メモ: "屋外広告物の許可申請をする方へ"}
   - {id: 埼玉県さいたま市_屋外広告物_処分一覧, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.saitama.lg.jp/006/008/004/004/011/p047545.html", メモ: "申請に対する処分一覧（南部都市計画指導課）"}
+  # ---- 京都府（京都府屋外広告物条例） ----
+  - {id: 京都府_屋外広告物_ページ, 自治体: 京都府, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.kyoto.jp/toshi/okugaikoukokubutu.html", メモ: "屋外広告物について"}
+  - {id: 京都府_屋外広告物_市町村担当一覧, 自治体: 京都府, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.kyoto.jp/toshi/tantouitiran.html", メモ: "屋外広告物 市町村担当一覧"}
+  - {id: 京都府_屋外広告物_条例, 自治体: 京都府, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.pref.kyoto.jp/reiki/reiki_honbun/a300RG00000726.html", メモ: "京都府屋外広告物条例（例規集）"}
+  # ---- 京都府京都市 ----
+  - {id: 京都府京都市_屋外広告物_申請の流れ, 自治体: 京都府京都市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kyoto.lg.jp/tokei/page/0000102522.html", メモ: "許可申請の流れ"}
+  - {id: 京都府京都市_屋外広告物_条例, 自治体: 京都府京都市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.kyoto.lg.jp/tokei/cmsfiles/contents/0000056/56450/kyoto_okugaikoukoku_jyorei20250327.pdf", メモ: "京都市屋外広告物等に関する条例（2025年3月版）"}
+  - {id: 京都府京都市_屋外広告物_手数料, 自治体: 京都府京都市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kyoto.lg.jp/tokei/cmsfiles/contents/0000102/102522/tesuuryou.pdf", メモ: "手数料表"}
+  # ---- 京都府宇治市 ----
+  - {id: 京都府宇治市_屋外広告物_設置される方へ, 自治体: 京都府宇治市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.uji.kyoto.jp/soshiki/88/6139.html", メモ: "屋外広告物を設置される方へ"}
+  - {id: 京都府宇治市_屋外広告物_手数料, 自治体: 京都府宇治市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.uji.kyoto.jp/soshiki/88/4947.html", メモ: "屋外広告物許可申請手数料"}
+  - {id: 京都府宇治市_屋外広告物_条例, 自治体: 京都府宇治市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://reiki-web.city.uji.kyoto.jp/reiki/reiki_honbun/k106RG00000947.html", メモ: "宇治市屋外広告物条例（例規集）"}
