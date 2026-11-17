@@ -1612,3 +1612,59 @@
     sha256: 3e2b51e65835cc2523f89fa78a1b3c1fe6f8b992e4bc60cb35696bc1004a46ce
     サイズ: 129363
     形式: html
+  - id: 愛媛県_屋外広告物_許可申請手続き
+    url: https://www.pref.ehime.jp/page/5764.html
+    最終更新: Mon, 16 Nov 2026 16:03:55 GMT
+    状態: 取得済み
+    ファイル: 愛媛県_屋外広告物_許可申請手続き.html
+    取得日: 2026-11-17
+    sha256: 9cbc3dbd433c8530e31001729e3379d68d370b5ea73894e1ac9175624fb2d59e
+    サイズ: 27302
+    形式: html
+  - id: 愛媛県_屋外広告物_義務と罰則
+    url: https://www.pref.ehime.jp/page/5755.html
+    最終更新: Mon, 16 Nov 2026 16:04:43 GMT
+    状態: 取得済み
+    ファイル: 愛媛県_屋外広告物_義務と罰則.html
+    取得日: 2026-11-17
+    sha256: 7e2d5b2b89eac754f5c27c0ef1206be9319b73838b6f38c48e91dff94d48b1ae
+    サイズ: 28887
+    形式: html
+  - id: 愛媛県_屋外広告物_許可の基準
+    url: https://www.pref.ehime.jp/page/5762.html
+    最終更新: Mon, 16 Nov 2026 16:05:17 GMT
+    状態: 取得済み
+    ファイル: 愛媛県_屋外広告物_許可の基準.html
+    取得日: 2026-11-17
+    sha256: 491ed17051ae23c7cf5148b18ce7d28de75ed1442f5d9e171830d76d143931d0
+    サイズ: 35881
+    形式: html
+  - id: 愛媛県_屋外広告物_市町担当窓口
+    url: https://www.pref.ehime.jp/uploaded/attachment/177023.pdf
+    最終更新: Mon, 06 Apr 2026 05:31:57 GMT
+    状態: 取得済み
+    ファイル: 愛媛県_屋外広告物_市町担当窓口.pdf
+    取得日: 2026-11-17
+    sha256: 5d70954c751635917cbbc43c4ddf224603a692da7c9f0a8e59c2f561a247ffd2
+    サイズ: 147537
+    形式: pdf
+    ページ数: 1
+  - id: 愛媛県_屋外広告物_条例改正
+    url: https://www.pref.ehime.jp/h40800/2643/koukoku/kaisei.html
+    行き着いたURL: https://www.pref.ehime.jp/page/5757.html
+    最終更新: Mon, 16 Nov 2026 16:02:14 GMT
+    状態: 取得済み
+    ファイル: 愛媛県_屋外広告物_条例改正.html
+    取得日: 2026-11-17
+    sha256: 301785bf9a78e004585c0565189dcb70212b50f4f228aaca3af15aa31079a5b3
+    サイズ: 34478
+    形式: html
+  - id: 愛媛県大洲市_屋外広告物_許可申請
+    url: https://www.city.ozu.ehime.jp/soshiki/toshiseibi/0007.html
+    最終更新: Tue, 17 Nov 2026 01:00:04 GMT
+    状態: 取得済み
+    ファイル: 愛媛県大洲市_屋外広告物_許可申請.html
+    取得日: 2026-11-17
+    sha256: 071cb3dc93481cfc3e2405a50f69da8f49c5574b5036b141a9fb90d47a9d0c80
+    サイズ: 33913
+    形式: html

@@ -231,3 +231,11 @@
   - {id: 京都府宇治市_屋外広告物_設置される方へ, 自治体: 京都府宇治市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.uji.kyoto.jp/soshiki/88/6139.html", メモ: "屋外広告物を設置される方へ"}
   - {id: 京都府宇治市_屋外広告物_手数料, 自治体: 京都府宇治市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.uji.kyoto.jp/soshiki/88/4947.html", メモ: "屋外広告物許可申請手数料"}
   - {id: 京都府宇治市_屋外広告物_条例, 自治体: 京都府宇治市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://reiki-web.city.uji.kyoto.jp/reiki/reiki_honbun/k106RG00000947.html", メモ: "宇治市屋外広告物条例（例規集）"}
+  # ---- 愛媛県（愛媛県屋外広告物条例） ----
+  - {id: 愛媛県_屋外広告物_許可申請手続き, 自治体: 愛媛県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.ehime.jp/page/5764.html", メモ: "屋外広告物の許可申請手続き"}
+  - {id: 愛媛県_屋外広告物_義務と罰則, 自治体: 愛媛県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.ehime.jp/page/5755.html", メモ: "義務と罰則"}
+  - {id: 愛媛県_屋外広告物_許可の基準, 自治体: 愛媛県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.ehime.jp/page/5762.html", メモ: "許可の基準"}
+  - {id: 愛媛県_屋外広告物_市町担当窓口, 自治体: 愛媛県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.ehime.jp/uploaded/attachment/177023.pdf", メモ: "屋外広告物に関する市町担当窓口（PDF）"}
+  - {id: 愛媛県_屋外広告物_条例改正, 自治体: 愛媛県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.ehime.jp/h40800/2643/koukoku/kaisei.html", メモ: "条例及び施行規則の改正（平成28年10月1日施行・安全点検）"}
+  # ---- 愛媛県大洲市 ----
+  - {id: 愛媛県大洲市_屋外広告物_許可申請, 自治体: 愛媛県大洲市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.ozu.ehime.jp/soshiki/toshiseibi/0007.html", メモ: "屋外広告物の許可申請手続きについて"}
