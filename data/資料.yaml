@@ -299,3 +299,10 @@
   - {id: 北海道_屋外広告物_権限移譲, 自治体: 北海道, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.hokkaido.lg.jp/kn/tki/mdr/koukoku/okugaikoukokukengenn.html", メモ: "屋外広告物許可等権限の移譲"}
   - {id: 北海道_屋外広告物_あらまし, 自治体: 北海道, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.hokkaido.lg.jp/fs/1/1/7/4/0/5/6/3/_/%E5%8C%97%E6%B5%B7%E9%81%93%E5%B1%8B%E5%A4%96%E5%BA%83%E5%91%8A%E7%89%A9%E6%9D%A1%E4%BE%8B%E3%81%AE%E3%81%82%E3%82%89%E3%81%BE%E3%81%97(2025.6%E6%94%B9%E8%A8%82).pdf", メモ: "北海道屋外広告物条例のあらまし（2025.6改訂）"}
   - {id: 北海道_屋外広告物_問い合わせ先, 自治体: 北海道, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.hokkaido.lg.jp/kn/tki/mdr/koukoku/toiawase.html", メモ: "問い合わせ先、申請先一覧"}
+  # ---- 奈良県（奈良県屋外広告物条例） ----
+  - {id: 奈良県_屋外広告物_規制, 自治体: 奈良県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.nara.jp/67941.htm", メモ: "屋外広告物条例における規制について"}
+  - {id: 奈良県_屋外広告物_市町村担当課, 自治体: 奈良県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.nara.jp/52322.htm", メモ: "市町村屋外広告物担当課"}
+  - {id: 奈良県_屋外広告物_定期点検, 自治体: 奈良県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.nara.jp/56276.htm", メモ: "屋外広告物の定期点検による安全性確保の推進について"}
+  # ---- 奈良県橿原市 ----
+  - {id: 奈良県橿原市_屋外広告物_手引き, 自治体: 奈良県橿原市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kashihara.nara.jp/material/files/group/25/tebiki2.pdf", メモ: "屋外広告物の手引き"}
+  - {id: 奈良県橿原市_屋外広告物_定期点検, 自治体: 奈良県橿原市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kashihara.nara.jp/soshiki/1016/gyomu/1/2_1/1/17162.html", メモ: "屋外広告物の定期点検による安全性確保の推進について"}

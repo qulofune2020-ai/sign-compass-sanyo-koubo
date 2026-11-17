@@ -2067,3 +2067,52 @@
     sha256: f5c0c621ef748a96cb0338271bcf56fbd75942ae1c3b76d5401c0f414e56f3e4
     サイズ: 44683
     形式: html
+  - id: 奈良県_屋外広告物_規制
+    url: https://www.pref.nara.jp/67941.htm
+    行き着いたURL: https://www.pref.nara.lg.jp/n094/67941.html
+    最終更新: Tue, 02 Jun 2026 10:34:16 GMT
+    状態: 取得済み
+    ファイル: 奈良県_屋外広告物_規制.html
+    取得日: 2026-11-17
+    sha256: 5c839fbbae34e28a2ea850c46cfb96fb037a034c6a1989b41a2f5e7517ec6c6f
+    サイズ: 31937
+    形式: html
+  - id: 奈良県_屋外広告物_市町村担当課
+    url: https://www.pref.nara.jp/52322.htm
+    行き着いたURL: https://www.pref.nara.lg.jp/n094/52322.html
+    最終更新: Tue, 02 Jun 2026 10:35:40 GMT
+    状態: 取得済み
+    ファイル: 奈良県_屋外広告物_市町村担当課.html
+    取得日: 2026-11-17
+    sha256: b89302c82bad3cd197de5cf02feda34e25fba181ecc922bcc1e24edd711ea95d
+    サイズ: 20336
+    形式: html
+  - id: 奈良県_屋外広告物_定期点検
+    url: https://www.pref.nara.jp/56276.htm
+    行き着いたURL: https://www.pref.nara.lg.jp/n094/56276.html
+    最終更新: Wed, 21 Oct 2026 23:45:04 GMT
+    状態: 取得済み
+    ファイル: 奈良県_屋外広告物_定期点検.html
+    取得日: 2026-11-17
+    sha256: 4c45629572180fb2c7cbf3bfa50f98be37ec52c1b79d608450e4cb08a4112797
+    サイズ: 22871
+    形式: html
+  - id: 奈良県橿原市_屋外広告物_手引き
+    url: https://www.city.kashihara.nara.jp/material/files/group/25/tebiki2.pdf
+    最終更新: Tue, 31 Mar 2026 09:20:02 GMT
+    状態: 取得済み
+    ファイル: 奈良県橿原市_屋外広告物_手引き.pdf
+    取得日: 2026-11-17
+    sha256: da4e9fe42256507e741eea3beb03143e574583b9fe3b1c4ab8a87e85f94dfe8b
+    サイズ: 2167295
+    形式: pdf
+    ページ数: 12
+  - id: 奈良県橿原市_屋外広告物_定期点検
+    url: https://www.city.kashihara.nara.jp/soshiki/1016/gyomu/1/2_1/1/17162.html
+    最終更新: Mon, 16 Nov 2026 05:27:09 GMT
+    状態: 取得済み
+    ファイル: 奈良県橿原市_屋外広告物_定期点検.html
+    取得日: 2026-11-17
+    sha256: 04e9ecaa8f883e3c8fa347d951c2fdd8e0d046c0a2077d0801e14b7baee490ed
+    サイズ: 78279
+    形式: html
