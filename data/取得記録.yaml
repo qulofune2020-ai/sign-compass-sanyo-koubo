@@ -2030,3 +2030,40 @@
     sha256: f2fb9eb00d47f15e328ff4b4c5520907b6e2f1a63bda5b0867d5595b098c783c
     サイズ: 40163
     形式: html
+  - id: 北海道_屋外広告物_許可申請
+    url: https://www.pref.hokkaido.lg.jp/kn/tki/mdr/koukoku/kyoka.html
+    最終更新: Tue, 17 Nov 2026 03:35:21 GMT
+    状態: 取得済み
+    ファイル: 北海道_屋外広告物_許可申請.html
+    取得日: 2026-11-17
+    sha256: 730a9e1fbed3bc516b1dcef311e27c8bd0be3f84748fa7940ca663b302669fdb
+    サイズ: 31696
+    形式: html
+  - id: 北海道_屋外広告物_権限移譲
+    url: https://www.pref.hokkaido.lg.jp/kn/tki/mdr/koukoku/okugaikoukokukengenn.html
+    最終更新: Tue, 17 Nov 2026 03:34:50 GMT
+    状態: 取得済み
+    ファイル: 北海道_屋外広告物_権限移譲.html
+    取得日: 2026-11-17
+    sha256: 1e92b569eef0ad2ebafb861d44188f3f6f21f3d0413c036798b05c96e5cce6f5
+    サイズ: 27921
+    形式: html
+  - id: 北海道_屋外広告物_あらまし
+    url: https://www.pref.hokkaido.lg.jp/fs/1/1/7/4/0/5/6/3/_/%E5%8C%97%E6%B5%B7%E9%81%93%E5%B1%8B%E5%A4%96%E5%BA%83%E5%91%8A%E7%89%A9%E6%9D%A1%E4%BE%8B%E3%81%AE%E3%81%82%E3%82%89%E3%81%BE%E3%81%97(2025.6%E6%94%B9%E8%A8%82).pdf
+    最終更新: Fri, 13 Jun 2025 08:02:02 GMT
+    状態: 取得済み
+    ファイル: 北海道_屋外広告物_あらまし.pdf
+    取得日: 2026-11-17
+    sha256: 20704dfe5996689bea2e9bb08f05113e5cdd02e666125fa1709d41c8e007da71
+    サイズ: 908632
+    形式: pdf
+    ページ数: 22
+  - id: 北海道_屋外広告物_問い合わせ先
+    url: https://www.pref.hokkaido.lg.jp/kn/tki/mdr/koukoku/toiawase.html
+    最終更新: Tue, 17 Nov 2026 03:34:54 GMT
+    状態: 取得済み
+    ファイル: 北海道_屋外広告物_問い合わせ先.html
+    取得日: 2026-11-17
+    sha256: f5c0c621ef748a96cb0338271bcf56fbd75942ae1c3b76d5401c0f414e56f3e4
+    サイズ: 44683
+    形式: html
