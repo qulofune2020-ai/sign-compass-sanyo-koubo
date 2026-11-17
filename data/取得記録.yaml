@@ -1790,3 +1790,51 @@
     sha256: 265d4cf5d1e89c2cec9a0f10ffab6c1552971db996b1452f04824fde90e4b31f
     サイズ: 79374
     形式: html
+  - id: 沖縄県_屋外広告物_手続き
+    url: https://www.pref.okinawa.jp/machizukuri/keikan/1013286/1013289.html
+    最終更新: Tue, 17 Nov 2026 02:26:10 GMT
+    状態: 取得済み
+    ファイル: 沖縄県_屋外広告物_手続き.html
+    取得日: 2026-11-17
+    sha256: cb122fe3c2cd6f405bcf18ab86b792956d03d9bfe9135eb1365844f8d69c4099
+    サイズ: 47242
+    形式: html
+  - id: 沖縄県_屋外広告物_施行規則
+    url: https://www.pref.okinawa.jp/_res/projects/default_project/_page_/001/013/287/240329kisoku.pdf
+    最終更新: Mon, 01 Apr 2024 07:32:19 GMT
+    状態: 取得済み
+    ファイル: 沖縄県_屋外広告物_施行規則.pdf
+    取得日: 2026-11-17
+    sha256: fb4f38c97a0ce2a51159457fd5792a4bd11c52734ee56db3ef7f3406680ca2ef
+    サイズ: 336330
+    形式: pdf
+    ページ数: 17
+  - id: 沖縄県_屋外広告物_表示するには
+    url: https://www.pref.okinawa.jp/machizukuri/toshi/1017991/1017992.html
+    最終更新: Tue, 17 Nov 2026 02:26:10 GMT
+    状態: 取得済み
+    ファイル: 沖縄県_屋外広告物_表示するには.html
+    取得日: 2026-11-17
+    sha256: d648d0e39e0f97640a068fad88ec2dd4173483eb084600fbe7571c2f7d5d7bfc
+    サイズ: 31378
+    形式: html
+  - id: 沖縄県那覇市_屋外広告物_様式
+    url: https://www.city.naha.okinawa.jp/kurasitetuduki/collabo/tosi/dezain/okugai/okugaikoukokubutu2.html
+    行き着いたURL: https://www.city.naha.okinawa.jp/kurasitetuduki/matidukuri/1002523/1002539/1002541/1002544.html
+    最終更新: Tue, 17 Nov 2026 03:01:04 GMT
+    状態: 取得済み
+    ファイル: 沖縄県那覇市_屋外広告物_様式.html
+    取得日: 2026-11-17
+    sha256: 291435a3a7f8fd4a496c250e11b7df7aacfc7237142485f7ac805ca7eb21153b
+    サイズ: 89839
+    形式: html
+  - id: 沖縄県那覇市_屋外広告物_手続き編
+    url: https://www.city.naha.okinawa.jp/_res/projects/default_project/_page_/001/002/543/singaidoraintetudukihen.pdf
+    最終更新: Mon, 07 Jul 2025 08:36:31 GMT
+    状態: 取得済み
+    ファイル: 沖縄県那覇市_屋外広告物_手続き編.pdf
+    取得日: 2026-11-17
+    sha256: fcab4c27a0e79db14b44035784ba88f297e6094ced31339d3bbd113d21479daf
+    サイズ: 2170056
+    形式: pdf
+    ページ数: 14
