@@ -1668,3 +1668,78 @@
     sha256: 071cb3dc93481cfc3e2405a50f69da8f49c5574b5036b141a9fb90d47a9d0c80
     サイズ: 33913
     形式: html
+  - id: 福島県_屋外広告物_手引き
+    url: https://www.pref.fukushima.lg.jp/uploaded/attachment/734668.pdf
+    最終更新: Mon, 30 Mar 2026 00:00:10 GMT
+    状態: 取得済み
+    ファイル: 福島県_屋外広告物_手引き.pdf
+    取得日: 2026-11-17
+    sha256: 1e57702a409a499bc07002b425d3d5dd28c65b86353fe1f96c3af560457523d8
+    サイズ: 4482711
+    形式: pdf
+    ページ数: 78
+  - id: 福島県_屋外広告物_条例改正
+    url: https://www.pref.fukushima.lg.jp/uploaded/attachment/464818.pdf
+    最終更新: Thu, 05 Aug 2021 04:00:10 GMT
+    状態: 取得済み
+    ファイル: 福島県_屋外広告物_条例改正.pdf
+    取得日: 2026-11-17
+    sha256: 43860d0db738b256adaee46499b3ef95e39f3e230e65168add14701285b71981
+    サイズ: 628664
+    形式: pdf
+    ページ数: 2
+  - id: 福島県郡山市_屋外広告物_安全点検
+    url: https://www.city.koriyama.lg.jp/soshiki/133/2328.html
+    最終更新: Tue, 17 Nov 2026 01:02:37 GMT
+    状態: 取得済み
+    ファイル: 福島県郡山市_屋外広告物_安全点検.html
+    取得日: 2026-11-17
+    sha256: 19b1f0852da99ae8d6e198927460523f62ae0f78d49b532fd68bb34121d9e6dc
+    サイズ: 55694
+    形式: html
+  - id: 福島県郡山市_屋外広告物_について
+    url: https://www.city.koriyama.lg.jp/soshiki/133/2296.html
+    最終更新: Tue, 17 Nov 2026 01:04:57 GMT
+    状態: 取得済み
+    ファイル: 福島県郡山市_屋外広告物_について.html
+    取得日: 2026-11-17
+    sha256: 48286b59eb83d9c57f9517ccb5ec814d2ca4e0236bf1518b8c057a7f84155afa
+    サイズ: 82678
+    形式: html
+  - id: 福島県郡山市_屋外広告物_条例
+    url: https://www.city.koriyama.lg.jp/uploaded/attachment/5999.pdf
+    最終更新: Mon, 13 Jul 2026 07:16:00 GMT
+    状態: 取得済み
+    ファイル: 福島県郡山市_屋外広告物_条例.pdf
+    取得日: 2026-11-17
+    sha256: 9431ada0474820f8c031a674a2798bdd1785eb836336179444da447b04b12351
+    サイズ: 190857
+    形式: pdf
+    ページ数: 15
+  - id: 福島県いわき市_屋外広告物_申請等
+    url: https://www.city.iwaki.lg.jp/www/contents/1721176555713/index.html
+    最終更新: Tue, 27 Oct 2026 08:01:20 GMT
+    状態: 取得済み
+    ファイル: 福島県いわき市_屋外広告物_申請等.html
+    取得日: 2026-11-17
+    sha256: 5ad69efb5447053cb8eca0fa01c8f0c2df2527ce7a19174033273e17fdc16f07
+    サイズ: 48230
+    形式: html
+  - id: 福島県いわき市_屋外広告物_条例改正
+    url: https://www.city.iwaki.lg.jp/www/contents/1625121277273/index.html
+    最終更新: Tue, 27 Oct 2026 07:49:11 GMT
+    状態: 取得済み
+    ファイル: 福島県いわき市_屋外広告物_条例改正.html
+    取得日: 2026-11-17
+    sha256: 15c2385a1afde9c99517ef2ce3a6fd3050bac84748cc5c2193b2560338762000
+    サイズ: 36203
+    形式: html
+  - id: 福島県須賀川市_屋外広告物_ページ
+    url: https://www.city.sukagawa.fukushima.jp/kurashi/toshikeikaku/machi/1002281/4292.html
+    最終更新: Wed, 21 Oct 2026 06:26:46 GMT
+    状態: 取得済み
+    ファイル: 福島県須賀川市_屋外広告物_ページ.html
+    取得日: 2026-11-17
+    sha256: 53c9c174038afb477227e074f17814359b1a89228daa252f2188b7a93195f3dd
+    サイズ: 76226
+    形式: html

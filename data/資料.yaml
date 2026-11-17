@@ -239,3 +239,15 @@
   - {id: 愛媛県_屋外広告物_条例改正, 自治体: 愛媛県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.ehime.jp/h40800/2643/koukoku/kaisei.html", メモ: "条例及び施行規則の改正（平成28年10月1日施行・安全点検）"}
   # ---- 愛媛県大洲市 ----
   - {id: 愛媛県大洲市_屋外広告物_許可申請, 自治体: 愛媛県大洲市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.ozu.ehime.jp/soshiki/toshiseibi/0007.html", メモ: "屋外広告物の許可申請手続きについて"}
+  # ---- 福島県（福島県屋外広告物条例） ----
+  - {id: 福島県_屋外広告物_手引き, 自治体: 福島県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.fukushima.lg.jp/uploaded/attachment/734668.pdf", メモ: "屋外広告物の手引き（県）"}
+  - {id: 福島県_屋外広告物_条例改正, 自治体: 福島県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.fukushima.lg.jp/uploaded/attachment/464818.pdf", メモ: "条例等改正（点検義務の制度化）"}
+  # ---- 福島県郡山市 ----
+  - {id: 福島県郡山市_屋外広告物_安全点検, 自治体: 福島県郡山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.koriyama.lg.jp/soshiki/133/2328.html", メモ: "屋外広告物の安全点検義務について"}
+  - {id: 福島県郡山市_屋外広告物_について, 自治体: 福島県郡山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.koriyama.lg.jp/soshiki/133/2296.html", メモ: "屋外広告物について"}
+  - {id: 福島県郡山市_屋外広告物_条例, 自治体: 福島県郡山市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.koriyama.lg.jp/uploaded/attachment/5999.pdf", メモ: "郡山市屋外広告物条例（令和3年改正版）"}
+  # ---- 福島県いわき市 ----
+  - {id: 福島県いわき市_屋外広告物_申請等, 自治体: 福島県いわき市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.iwaki.lg.jp/www/contents/1721176555713/index.html", メモ: "屋外広告物の設置に必要となる申請等について"}
+  - {id: 福島県いわき市_屋外広告物_条例改正, 自治体: 福島県いわき市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.iwaki.lg.jp/www/contents/1625121277273/index.html", メモ: "屋外広告物条例の一部改正について（令和3年6月）"}
+  # ---- 福島県須賀川市（県条例） ----
+  - {id: 福島県須賀川市_屋外広告物_ページ, 自治体: 福島県須賀川市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.sukagawa.fukushima.jp/kurashi/toshikeikaku/machi/1002281/4292.html", メモ: "屋外広告物（市のページ）"}
