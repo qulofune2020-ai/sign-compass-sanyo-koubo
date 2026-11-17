@@ -1838,3 +1838,79 @@
     サイズ: 2170056
     形式: pdf
     ページ数: 14
+  - id: 滋賀県_屋外広告物_担当窓口
+    url: https://www.pref.shiga.lg.jp/ippan/kendoseibi/machizukuri/19776.html
+    行き着いたURL: https://www.pref.shiga.lg.jp/ra00/434.html
+    最終更新: Fri, 18 Sep 2026 05:45:06 GMT
+    状態: 取得済み
+    ファイル: 滋賀県_屋外広告物_担当窓口.html
+    取得日: 2026-11-17
+    sha256: d8c11e049c8f49e5c48548e4da5eecacc0ea0e453eabe24a5f0157422bb7c89e
+    サイズ: 22361
+    形式: html
+  - id: 滋賀県_屋外広告物_規制
+    url: https://www.pref.shiga.lg.jp/ippan/kendoseibi/machizukuri/19770.html
+    行き着いたURL: https://www.pref.shiga.lg.jp/ra00/436.html
+    最終更新: Thu, 03 Sep 2026 07:06:54 GMT
+    状態: 取得済み
+    ファイル: 滋賀県_屋外広告物_規制.html
+    取得日: 2026-11-17
+    sha256: 910e607dda978fd65aeeb89e7e069c82395877e536661f88d256427c998fd669
+    サイズ: 26555
+    形式: html
+  - id: 滋賀県東近江市_屋外広告物_概要
+    url: https://www.city.higashiomi.shiga.jp/machizukuri_kankyou/toshikeikaku/1003516/1003518.html
+    最終更新: Tue, 17 Nov 2026 03:07:19 GMT
+    状態: 取得済み
+    ファイル: 滋賀県東近江市_屋外広告物_概要.html
+    取得日: 2026-11-17
+    sha256: b6ee585c2d43973d73498a26a151129a32eff8f5316b2fecfe29194bc0115c8c
+    サイズ: 46278
+    形式: html
+  - id: 滋賀県栗東市_屋外広告物_ガイドライン
+    url: https://www.city.ritto.lg.jp/material/files/group/38/okugaikoukokubutsugaidorain.pdf
+    最終更新: Mon, 22 Aug 2022 02:39:03 GMT
+    状態: 取得済み
+    ファイル: 滋賀県栗東市_屋外広告物_ガイドライン.pdf
+    取得日: 2026-11-17
+    sha256: 72d383608cf1ffa4539558125551420db0d3413b704a1427b8cab9ad0faa7dbf
+    サイズ: 9842825
+    形式: pdf
+    ページ数: 42
+  - id: 滋賀県栗東市_屋外広告物_手数料
+    url: https://www.city.ritto.lg.jp/material/files/group/38/koukokubutsutesuuryou.pdf
+    最終更新: Fri, 29 Jul 2022 07:12:06 GMT
+    状態: 取得済み
+    ファイル: 滋賀県栗東市_屋外広告物_手数料.pdf
+    取得日: 2026-11-17
+    sha256: e743364101982438508ba41a6d9db6881a5699089e9194ff845602d4f965534f
+    サイズ: 164406
+    形式: pdf
+    ページ数: 1
+  - id: 滋賀県甲賀市_屋外広告物_手続き
+    url: https://www.city.koka.lg.jp/9911.htm
+    最終更新: Tue, 17 Nov 2026 03:20:59 GMT
+    状態: 取得済み
+    ファイル: 滋賀県甲賀市_屋外広告物_手続き.html
+    取得日: 2026-11-17
+    sha256: e0bed77aa888774c4c57af9f85bdd55ffbe29a8a1a836035875552e82cec3f65
+    サイズ: 120211
+    形式: html
+  - id: 滋賀県甲賀市_屋外広告物_安全性
+    url: https://www.city.koka.lg.jp/9001.htm
+    最終更新: Tue, 17 Nov 2026 03:21:01 GMT
+    状態: 取得済み
+    ファイル: 滋賀県甲賀市_屋外広告物_安全性.html
+    取得日: 2026-11-17
+    sha256: 57b0ee72cb85746c63a796dc22e962aed4301e1f6f0dbb08595733696e8d5f72
+    サイズ: 88230
+    形式: html
+  - id: 滋賀県甲賀市_屋外広告物_基準
+    url: https://www.city.koka.lg.jp/9912.htm
+    最終更新: Tue, 17 Nov 2026 03:21:03 GMT
+    状態: 取得済み
+    ファイル: 滋賀県甲賀市_屋外広告物_基準.html
+    取得日: 2026-11-17
+    sha256: cbee0dcf3b4a572b05f16f17a4ea4167443cb66a62e025499b8c9cb0818a6fd5
+    サイズ: 97643
+    形式: html
