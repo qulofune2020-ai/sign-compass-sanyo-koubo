@@ -1914,3 +1914,60 @@
     sha256: cbee0dcf3b4a572b05f16f17a4ea4167443cb66a62e025499b8c9cb0818a6fd5
     サイズ: 97643
     形式: html
+  - id: 東京都八王子市_屋外広告物_しおり
+    url: https://www.city.hachioji.tokyo.jp/jigyosha/005/10104/p003097_d/fil/shiori0210.pdf
+    最終更新: Fri, 13 Nov 2026 16:07:57 GMT
+    状態: 取得済み
+    ファイル: 東京都八王子市_屋外広告物_しおり.pdf
+    取得日: 2026-11-17
+    sha256: bea7d4a5a1e5ea93ae8da9c915d9b68112637c3b897b907d25e0fcad0c59d155
+    サイズ: 4528722
+    形式: pdf
+    ページ数: 86
+  - id: 東京都八王子市_屋外広告物_条例ページ
+    url: https://www.city.hachioji.tokyo.jp/jigyosha/005/10104/p003097.html
+    最終更新: Fri, 13 Nov 2026 16:07:57 GMT
+    状態: 取得済み
+    ファイル: 東京都八王子市_屋外広告物_条例ページ.html
+    取得日: 2026-11-17
+    sha256: 1eab45a545d0a4d8afb1ff7f6f06aba71ffe020c5d9d402fece652b1c721cc76
+    サイズ: 33707
+    形式: html
+  - id: 東京都八王子市_屋外広告物_安全管理
+    url: https://www.city.hachioji.tokyo.jp/shisei/001/006/001/004/p009478.html
+    最終更新: Fri, 13 Nov 2026 16:17:36 GMT
+    状態: 取得済み
+    ファイル: 東京都八王子市_屋外広告物_安全管理.html
+    取得日: 2026-11-17
+    sha256: bf7cc9ec09448e1a8dbbbf7f5e15ca1e4a884d03b35de9cb4630b15179e73859
+    サイズ: 22469
+    形式: html
+  - id: 東京都町田市_屋外広告物_許可申請
+    url: https://www.city.machida.tokyo.jp/kurashi/sumai/toshikei/keikan/koukokubutu/okugaikoukokukyokasinsei.html
+    最終更新: Tue, 17 Nov 2026 03:02:29 GMT
+    状態: 取得済み
+    ファイル: 東京都町田市_屋外広告物_許可申請.html
+    取得日: 2026-11-17
+    sha256: 3ac86249459ffbb9db316c802555b1725171845ac6b8c09103ecfe67a1a9da88
+    サイズ: 71604
+    形式: html
+  - id: 東京都町田市_屋外広告物_しおり
+    url: https://www.city.machida.tokyo.jp/kurashi/sumai/toshikei/keikan/koukokubutu/okugaikoukokukyokasinsei.files/shiori.pdf
+    最終更新: Wed, 02 Oct 2024 08:18:47 GMT
+    状態: 取得済み
+    ファイル: 東京都町田市_屋外広告物_しおり.pdf
+    取得日: 2026-11-17
+    sha256: 8ebba041e4550e0bda60384e85e4caf100dee1e7ce90e3c3e64fa4fb7dbd4d4e
+    サイズ: 2785665
+    形式: pdf
+    ページ数: 24
+  - id: 東京都町田市_屋外広告物_移行後の変更点
+    url: https://www.city.machida.tokyo.jp/kurashi/sumai/toshikei/keikan/koukokubutu/okugaikoukokukyokasinsei.files/202410ikounohennkouten.pdf
+    最終更新: Thu, 26 Sep 2024 04:52:02 GMT
+    状態: 取得済み
+    ファイル: 東京都町田市_屋外広告物_移行後の変更点.pdf
+    取得日: 2026-11-17
+    sha256: a564e0ea70463708ef5b47766ed0647eb1dd8caece788dacba27b4f7c360ccd1
+    サイズ: 474097
+    形式: pdf
+    ページ数: 2

@@ -278,3 +278,11 @@
   - {id: 滋賀県甲賀市_屋外広告物_手続き, 自治体: 滋賀県甲賀市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.koka.lg.jp/9911.htm", メモ: "屋外広告物を表示・設置する場合の手続き"}
   - {id: 滋賀県甲賀市_屋外広告物_安全性, 自治体: 滋賀県甲賀市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.koka.lg.jp/9001.htm", メモ: "屋外広告物の安全性の確保"}
   - {id: 滋賀県甲賀市_屋外広告物_基準, 自治体: 滋賀県甲賀市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.koka.lg.jp/9912.htm", メモ: "屋外広告物の許可基準等について"}
+  # ---- 東京都八王子市（八王子市屋外広告物条例） ----
+  - {id: 東京都八王子市_屋外広告物_しおり, 自治体: 東京都八王子市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.hachioji.tokyo.jp/jigyosha/005/10104/p003097_d/fil/shiori0210.pdf", メモ: "八王子市屋外広告物のしおり（令和7年8月）"}
+  - {id: 東京都八王子市_屋外広告物_条例ページ, 自治体: 東京都八王子市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hachioji.tokyo.jp/jigyosha/005/10104/p003097.html", メモ: "八王子市屋外広告物条例について"}
+  - {id: 東京都八王子市_屋外広告物_安全管理, 自治体: 東京都八王子市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.hachioji.tokyo.jp/shisei/001/006/001/004/p009478.html", メモ: "屋外広告物の安全管理について"}
+  # ---- 東京都町田市（町田市屋外広告物条例） ----
+  - {id: 東京都町田市_屋外広告物_許可申請, 自治体: 東京都町田市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.machida.tokyo.jp/kurashi/sumai/toshikei/keikan/koukokubutu/okugaikoukokukyokasinsei.html", メモ: "屋外広告物許可申請について"}
+  - {id: 東京都町田市_屋外広告物_しおり, 自治体: 東京都町田市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.machida.tokyo.jp/kurashi/sumai/toshikei/keikan/koukokubutu/okugaikoukokukyokasinsei.files/shiori.pdf", メモ: "町田市屋外広告物のしおり"}
+  - {id: 東京都町田市_屋外広告物_移行後の変更点, 自治体: 東京都町田市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.machida.tokyo.jp/kurashi/sumai/toshikei/keikan/koukokubutu/okugaikoukokukyokasinsei.files/202410ikounohennkouten.pdf", メモ: "2024年10月移行後の変更点"}
