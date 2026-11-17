@@ -2189,3 +2189,46 @@
     sha256: fac4b594023a9fa8d38a6c25ea8342469d57d2c45357322778bc4d0854d5f658
     サイズ: 32285
     形式: html
+  - id: 山梨県甲府市_屋外広告物_ページ
+    url: https://www.city.kofu.yamanashi.jp/toshikekaku/machi/kekaku/kekan/documents/okugai.html
+    行き着いたURL: https://www.city.kofu.lg.jp/k076/p003221.html
+    最終更新: Tue, 27 Oct 2026 00:30:51 GMT
+    状態: 取得済み
+    ファイル: 山梨県甲府市_屋外広告物_ページ.html
+    取得日: 2026-11-17
+    sha256: ac8eefe26c8c8032a03c86ff412bb1cef2dfeae0c19cf0eceedcc19c254e5d96
+    サイズ: 27898
+    形式: html
+  - id: 山梨県甲府市_屋外広告物_申請方法
+    url: https://www.city.kofu.yamanashi.jp/documents/24601/sinseihouhou.pdf
+    行き着いたURL: https://www.city.kofu.lg.jp/documents/24601/sinseihouhou.pdf
+    最終更新: Tue, 26 Oct 2021 21:00:05 GMT
+    状態: 取得済み
+    ファイル: 山梨県甲府市_屋外広告物_申請方法.pdf
+    取得日: 2026-11-17
+    sha256: 47c342ee542f19c5ae32d3fc832b2e5728a3885ead67beeff34fa1acd3db3c73
+    サイズ: 65736
+    形式: pdf
+    ページ数: 2
+  - id: 山梨県甲府市_屋外広告物_手数料期間
+    url: https://www.city.kofu.yamanashi.jp/documents/24601/tesuuryou.pdf
+    行き着いたURL: https://www.city.kofu.lg.jp/documents/24601/tesuuryou.pdf
+    最終更新: Tue, 26 Oct 2021 21:00:05 GMT
+    状態: 取得済み
+    ファイル: 山梨県甲府市_屋外広告物_手数料期間.pdf
+    取得日: 2026-11-17
+    sha256: ae16c2868e3f92a0baf23a47ab288de41c5b2c71da845eefb3da9751c78c9a82
+    サイズ: 26336
+    形式: pdf
+    ページ数: 1
+  - id: 山梨県甲府市_屋外広告物_手引き
+    url: https://www.city.kofu.yamanashi.jp/documents/24601/tebiki_20230401.pdf
+    行き着いたURL: https://www.city.kofu.lg.jp/documents/24601/tebiki_20230401.pdf
+    最終更新: Fri, 31 Mar 2023 21:00:22 GMT
+    状態: 取得済み
+    ファイル: 山梨県甲府市_屋外広告物_手引き.pdf
+    取得日: 2026-11-17
+    sha256: 1292755982cb4da59bc643feebf81a8a2fbb6e6a004960b99e3ff5f83752db14
+    サイズ: 517696
+    形式: pdf
+    ページ数: 20

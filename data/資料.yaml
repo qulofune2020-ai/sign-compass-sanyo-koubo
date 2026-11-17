@@ -318,3 +318,8 @@
   # ---- 山口県下関市 ----
   - {id: 山口県下関市_屋外広告物_許可申請, 自治体: 山口県下関市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.shimonoseki.lg.jp/soshiki/73/2653.html", メモ: "屋外広告物に関する許可申請"}
   - {id: 山口県下関市_屋外広告物_条例ページ, 自治体: 山口県下関市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.shimonoseki.lg.jp/soshiki/73/2652.html", メモ: "下関市屋外広告物条例"}
+  # ---- 山梨県甲府市（甲府市屋外広告物条例） ----
+  - {id: 山梨県甲府市_屋外広告物_ページ, 自治体: 山梨県甲府市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.kofu.yamanashi.jp/toshikekaku/machi/kekaku/kekan/documents/okugai.html", メモ: "屋外広告物について"}
+  - {id: 山梨県甲府市_屋外広告物_申請方法, 自治体: 山梨県甲府市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kofu.yamanashi.jp/documents/24601/sinseihouhou.pdf", メモ: "甲府市屋外広告物許可申請方法"}
+  - {id: 山梨県甲府市_屋外広告物_手数料期間, 自治体: 山梨県甲府市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kofu.yamanashi.jp/documents/24601/tesuuryou.pdf", メモ: "手数料と許可期間"}
+  - {id: 山梨県甲府市_屋外広告物_手引き, 自治体: 山梨県甲府市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kofu.yamanashi.jp/documents/24601/tebiki_20230401.pdf", メモ: "屋外広告物の手引き（令和5年4月1日）"}
