@@ -286,3 +286,11 @@
   - {id: 東京都町田市_屋外広告物_許可申請, 自治体: 東京都町田市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.machida.tokyo.jp/kurashi/sumai/toshikei/keikan/koukokubutu/okugaikoukokukyokasinsei.html", メモ: "屋外広告物許可申請について"}
   - {id: 東京都町田市_屋外広告物_しおり, 自治体: 東京都町田市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.machida.tokyo.jp/kurashi/sumai/toshikei/keikan/koukokubutu/okugaikoukokukyokasinsei.files/shiori.pdf", メモ: "町田市屋外広告物のしおり"}
   - {id: 東京都町田市_屋外広告物_移行後の変更点, 自治体: 東京都町田市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.machida.tokyo.jp/kurashi/sumai/toshikei/keikan/koukokubutu/okugaikoukokukyokasinsei.files/202410ikounohennkouten.pdf", メモ: "2024年10月移行後の変更点"}
+  # ---- 愛知県名古屋市 ----
+  - {id: 愛知県名古屋市_屋外広告物_許可期間手数料, 自治体: 愛知県名古屋市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.nagoya.jp/jigyou/toshikeikaku/1017988/1017996/1018006.html", メモ: "許可期間・許可手数料"}
+  - {id: 愛知県名古屋市_屋外広告物_継続と安全点検, 自治体: 愛知県名古屋市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/011/702/202408_keizokukyokashinsei-anzentenkennoonegai.pdf", メモ: "屋外広告物継続許可申請等・安全点検のお願い（2024年8月）"}
+  - {id: 愛知県名古屋市_屋外広告物_条例, 自治体: 愛知県名古屋市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.nagoya.jp/_res/projects/default_project/_page_/001/017/988/20241001_okugaikoukokubutsujourei.pdf", メモ: "名古屋市屋外広告物条例（2024年10月版）"}
+  # ---- 愛知県岡崎市 ----
+  - {id: 愛知県岡崎市_屋外広告物_条例, 自治体: 愛知県岡崎市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/002/939/20200701-jorei.pdf", メモ: "岡崎市屋外広告物条例（令和2年7月施行版）"}
+  - {id: 愛知県岡崎市_屋外広告物_改正趣旨, 自治体: 愛知県岡崎市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.okazaki.lg.jp/_res/projects/default_project/_page_/001/002/939/20200630_jorei_shuchi.pdf", メモ: "岡崎市屋外広告物条例の一部改正について"}
+  - {id: 愛知県岡崎市_屋外広告物_安全点検, 自治体: 愛知県岡崎市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.okazaki.lg.jp/1100/1184/1169/p026701.html", メモ: "屋外広告物安全点検報告書"}
