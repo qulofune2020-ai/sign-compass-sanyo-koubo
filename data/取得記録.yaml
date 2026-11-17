@@ -1743,3 +1743,50 @@
     sha256: 53c9c174038afb477227e074f17814359b1a89228daa252f2188b7a93195f3dd
     サイズ: 76226
     形式: html
+  - id: 鳥取県_屋外広告物_規制
+    url: https://www.pref.tottori.lg.jp/70123.htm
+    最終更新: Tue, 17 Nov 2026 01:57:32 GMT
+    状態: 取得済み
+    ファイル: 鳥取県_屋外広告物_規制.html
+    取得日: 2026-11-17
+    sha256: 1838a49ba7b3d44236a43aae1b001872e42a4ae05e383625c958b981c93bb367
+    サイズ: 56158
+    形式: html
+  - id: 鳥取県_屋外広告物_手引き
+    url: https://www.pref.tottori.lg.jp/secure/545955/R7.1tebiki.pdf
+    最終更新: Mon, 20 Jan 2025 09:20:55 GMT
+    状態: 取得済み
+    ファイル: 鳥取県_屋外広告物_手引き.pdf
+    取得日: 2026-11-17
+    sha256: 74fd296009bcd639d5070d49090b0010d0beb8ee1bfc7913e60885495d6894bb
+    サイズ: 2961213
+    形式: pdf
+    ページ数: 37
+  - id: 鳥取県_屋外広告物_安全点検
+    url: https://www.pref.tottori.lg.jp/292522.htm
+    最終更新: Tue, 17 Nov 2026 01:57:36 GMT
+    状態: 取得済み
+    ファイル: 鳥取県_屋外広告物_安全点検.html
+    取得日: 2026-11-17
+    sha256: d01656493dd926fcff227eaef02388d9b35ad426348b4fd11013aa2b9c794c40
+    サイズ: 48253
+    形式: html
+  - id: 鳥取県鳥取市_屋外広告物_安全点検
+    url: https://www.city.tottori.lg.jp/page/5556.html
+    最終更新: Tue, 17 Nov 2026 00:30:25 GMT
+    状態: 取得済み
+    ファイル: 鳥取県鳥取市_屋外広告物_安全点検.html
+    取得日: 2026-11-17
+    sha256: 4617ff463b3d2c6e380f0a0870c19d02145913226bce898170b9de7cfc9d28f1
+    サイズ: 41848
+    形式: html
+  - id: 鳥取県倉吉市_屋外広告物_ページ
+    url: https://www.city.kurayoshi.lg.jp/gyousei/div/kensetsu/kanri/42/11/
+    行き着いたURL: https://www.city.kurayoshi.lg.jp/4913.htm
+    最終更新: Tue, 17 Nov 2026 01:58:03 GMT
+    状態: 取得済み
+    ファイル: 鳥取県倉吉市_屋外広告物_ページ.html
+    取得日: 2026-11-17
+    sha256: 265d4cf5d1e89c2cec9a0f10ffab6c1552971db996b1452f04824fde90e4b31f
+    サイズ: 79374
+    形式: html
