@@ -1442,3 +1442,90 @@
     サイズ: 703062
     形式: pdf
     ページ数: 26
+  - id: 埼玉県_屋外広告物_ページ
+    url: https://www.pref.saitama.lg.jp/a1102/okugai-top/index.html
+    最終更新: Wed, 14 Oct 2026 00:45:04 GMT
+    状態: 取得済み
+    ファイル: 埼玉県_屋外広告物_ページ.html
+    取得日: 2026-11-17
+    sha256: 4bed3c4480667121e7c86be566e9e5bdae916266faca082677952250dc4362d4
+    サイズ: 28530
+    形式: html
+  - id: 埼玉県_屋外広告物_窓口一覧
+    url: https://www.pref.saitama.lg.jp/documents/5534/r80401okugaimadoguti.pdf
+    最終更新: Thu, 30 Apr 2026 02:00:53 GMT
+    状態: 取得済み
+    ファイル: 埼玉県_屋外広告物_窓口一覧.pdf
+    取得日: 2026-11-17
+    sha256: cef557da6555c0b2edda9e066c58fc5943ebca3e55cfa4076d9f7ae2b6984e12
+    サイズ: 54461
+    形式: pdf
+    ページ数: 1
+  - id: 埼玉県_屋外広告物_条例
+    url: https://www.pref.saitama.lg.jp/documents/5534/241224jourei.pdf
+    最終更新: Tue, 15 Apr 2025 07:45:15 GMT
+    状態: 取得済み
+    ファイル: 埼玉県_屋外広告物_条例.pdf
+    取得日: 2026-11-17
+    sha256: 53282afee61f10be33a996dd6788490150b3f5d03dd954ef3c5cacee405cf53a
+    サイズ: 396107
+    形式: pdf
+    ページ数: 16
+  - id: 埼玉県_屋外広告物_施行規則
+    url: https://www.pref.saitama.lg.jp/documents/5534/240927sekoukisoku.pdf
+    最終更新: Tue, 15 Apr 2025 07:45:15 GMT
+    状態: 取得済み
+    ファイル: 埼玉県_屋外広告物_施行規則.pdf
+    取得日: 2026-11-17
+    sha256: 99c6a4f6b24b8bfecf0493c9d2e59ffa9cbb4e7f2047aec06eee72d82160b9cb
+    サイズ: 392399
+    形式: pdf
+    ページ数: 18
+  - id: 埼玉県さいたま市_屋外広告物_ページ
+    url: http://www.city.saitama.jp/001/010/004/p030742.html
+    行き着いたURL: https://www.city.saitama.lg.jp/001/010/004/p030742.html
+    最終更新: Fri, 16 Oct 2026 05:35:18 GMT
+    状態: 取得済み
+    ファイル: 埼玉県さいたま市_屋外広告物_ページ.html
+    取得日: 2026-11-17
+    sha256: 3e2318ca2770c400b90258b6e6b6db69686869c08207b16eff318ab3350ae3bd
+    サイズ: 39183
+    形式: html
+  - id: 埼玉県さいたま市_屋外広告物_条例
+    url: https://www.city.saitama.lg.jp/001/010/004/p030742_d/fil/jorei.pdf
+    最終更新: Fri, 16 Oct 2026 05:35:18 GMT
+    状態: 取得済み
+    ファイル: 埼玉県さいたま市_屋外広告物_条例.pdf
+    取得日: 2026-11-17
+    sha256: 5e3c706da73cb4c320427f8b2d2353f3a55d2b08aa92768cefcc935d693214a3
+    サイズ: 474853
+    形式: pdf
+    ページ数: 20
+  - id: 埼玉県さいたま市_屋外広告物_施行規則
+    url: https://www.city.saitama.lg.jp/001/010/004/p030742_d/fil/sekoukisoku.pdf
+    最終更新: Fri, 16 Oct 2026 05:35:18 GMT
+    状態: 取得済み
+    ファイル: 埼玉県さいたま市_屋外広告物_施行規則.pdf
+    取得日: 2026-11-17
+    sha256: 811b5f13d1229a05cb1ba1b7f0e49b3765d0f267fbd8798e94bb22f9aacf2ef9
+    サイズ: 213897
+    形式: pdf
+    ページ数: 12
+  - id: 埼玉県さいたま市_屋外広告物_申請案内
+    url: https://www.city.saitama.lg.jp/005/003/005/p018265.html
+    最終更新: Fri, 16 Oct 2026 05:31:33 GMT
+    状態: 取得済み
+    ファイル: 埼玉県さいたま市_屋外広告物_申請案内.html
+    取得日: 2026-11-17
+    sha256: d9bb6899547c781940f5afcaaea6ea987e75e5f880dfe3037631417742bb0e25
+    サイズ: 55932
+    形式: html
+  - id: 埼玉県さいたま市_屋外広告物_処分一覧
+    url: https://www.city.saitama.lg.jp/006/008/004/004/011/p047545.html
+    最終更新: Fri, 10 Apr 2026 00:26:53 GMT
+    状態: 取得済み
+    ファイル: 埼玉県さいたま市_屋外広告物_処分一覧.html
+    取得日: 2026-11-17
+    sha256: d4ebcd090e0a0103076d11332b0456e6690a46f22f992d54feb1d574925d74ee
+    サイズ: 34741
+    形式: html

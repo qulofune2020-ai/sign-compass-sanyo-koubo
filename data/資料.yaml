@@ -208,3 +208,14 @@
   - {id: 香川県高松市_屋外広告物_条例ページ, 自治体: 香川県高松市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.takamatsu.kagawa.jp/jigyosha/toshikeikaku/okugai/koukoku/jorei.html", メモ: "屋外広告物条例について"}
   - {id: 香川県高松市_屋外広告物_手引き, 自治体: 香川県高松市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.takamatsu.kagawa.jp/jigyosha/toshikeikaku/okugai/koukoku/jorei.files/240401_tebiki_okugai.pdf", メモ: "高松市屋外広告物の手引き（令和元年7月改訂版）"}
   - {id: 香川県高松市_屋外広告物_施行規則, 自治体: 香川県高松市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.takamatsu.kagawa.jp/jigyosha/toshikeikaku/okugai/koukoku/jorei.files/newkisoku.pdf", メモ: "高松市屋外広告物条例施行規則"}
+  # ---- 埼玉県（埼玉県屋外広告物条例） ----
+  - {id: 埼玉県_屋外広告物_ページ, 自治体: 埼玉県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.saitama.lg.jp/a1102/okugai-top/index.html", メモ: "屋外広告物（県のページ）"}
+  - {id: 埼玉県_屋外広告物_窓口一覧, 自治体: 埼玉県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.saitama.lg.jp/documents/5534/r80401okugaimadoguti.pdf", メモ: "屋外広告物の許可窓口一覧（令和8年4月1日）"}
+  - {id: 埼玉県_屋外広告物_条例, 自治体: 埼玉県, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.pref.saitama.lg.jp/documents/5534/241224jourei.pdf", メモ: "埼玉県屋外広告物条例"}
+  - {id: 埼玉県_屋外広告物_施行規則, 自治体: 埼玉県, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.pref.saitama.lg.jp/documents/5534/240927sekoukisoku.pdf", メモ: "埼玉県屋外広告物条例施行規則"}
+  # ---- 埼玉県さいたま市 ----
+  - {id: 埼玉県さいたま市_屋外広告物_ページ, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "http://www.city.saitama.jp/001/010/004/p030742.html", メモ: "屋外広告物（市のページ）"}
+  - {id: 埼玉県さいたま市_屋外広告物_条例, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: 条例, 最初の版で読む: true, url: "https://www.city.saitama.lg.jp/001/010/004/p030742_d/fil/jorei.pdf", メモ: "さいたま市屋外広告物条例"}
+  - {id: 埼玉県さいたま市_屋外広告物_施行規則, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.saitama.lg.jp/001/010/004/p030742_d/fil/sekoukisoku.pdf", メモ: "さいたま市屋外広告物条例施行規則"}
+  - {id: 埼玉県さいたま市_屋外広告物_申請案内, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.saitama.lg.jp/005/003/005/p018265.html", メモ: "屋外広告物の許可申請をする方へ"}
+  - {id: 埼玉県さいたま市_屋外広告物_処分一覧, 自治体: 埼玉県さいたま市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.saitama.lg.jp/006/008/004/004/011/p047545.html", メモ: "申請に対する処分一覧（南部都市計画指導課）"}
