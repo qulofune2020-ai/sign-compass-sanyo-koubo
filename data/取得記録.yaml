@@ -1302,3 +1302,86 @@
     サイズ: 2345432
     形式: pdf
     ページ数: 36
+  - id: 岐阜県_屋外広告物_ページ
+    url: https://www.pref.gifu.lg.jp/page/4931.html
+    最終更新: Mon, 16 Nov 2026 21:06:59 GMT
+    状態: 取得済み
+    ファイル: 岐阜県_屋外広告物_ページ.html
+    取得日: 2026-11-16
+    sha256: 3919110fd6cf4a420b2727a742d178611089c8b3959c819d24eab8a63c43d104
+    サイズ: 27436
+    形式: html
+  - id: 岐阜県_屋外広告物_早わかり
+    url: https://www.pref.gifu.lg.jp/uploaded/attachment/486424.pdf
+    最終更新: Wed, 25 Feb 2026 02:50:03 GMT
+    状態: 取得済み
+    ファイル: 岐阜県_屋外広告物_早わかり.pdf
+    取得日: 2026-11-16
+    sha256: fcd1cde2098925ed2d99bd2e295aaae810e275b0dad005756ac90779d54bcab4
+    サイズ: 928692
+    形式: pdf
+    ページ数: 37
+  - id: 岐阜県_屋外広告物_条例改正
+    url: https://www.pref.gifu.lg.jp/page/403573.html
+    最終更新: Mon, 16 Nov 2026 21:04:10 GMT
+    状態: 取得済み
+    ファイル: 岐阜県_屋外広告物_条例改正.html
+    取得日: 2026-11-16
+    sha256: 5078bcb6a9fad326be6491b68aaff3decff9a59d1bf32c42b4d6db560cbb78bc
+    サイズ: 22501
+    形式: html
+  - id: 岐阜県岐阜市_屋外広告物_許可申請
+    url: https://www.city.gifu.lg.jp/kurashi/seikatukankyo/1002916/1002924/1002926.html
+    最終更新: Mon, 16 Nov 2026 15:07:47 GMT
+    状態: 取得済み
+    ファイル: 岐阜県岐阜市_屋外広告物_許可申請.html
+    取得日: 2026-11-16
+    sha256: 28719407fb013e16277fe84ae2236ff79fc60435e888b76c1afbbc3958971b25
+    サイズ: 75743
+    形式: html
+  - id: 岐阜県岐阜市_屋外広告物_ルール変更
+    url: https://www.city.gifu.lg.jp/kurashi/seikatukankyo/1002916/1002924/1031128.html
+    最終更新: Mon, 16 Nov 2026 15:07:43 GMT
+    状態: 取得済み
+    ファイル: 岐阜県岐阜市_屋外広告物_ルール変更.html
+    取得日: 2026-11-16
+    sha256: fec69ccf29ebf3044028a6690f250e2884e700d4b9a8dc81f9b534a2d0c3fa7f
+    サイズ: 73789
+    形式: html
+  - id: 岐阜県高山市_屋外広告物_条例
+    url: https://www.city.takayama.lg.jp/shisei/1000061/1005212/1003996.html
+    最終更新: Mon, 16 Nov 2026 15:08:10 GMT
+    状態: 取得済み
+    ファイル: 岐阜県高山市_屋外広告物_条例.html
+    取得日: 2026-11-16
+    sha256: 7aa9f2554676828069bf609ca42123822ad82c9db90394b8d4e0bb072465ba57
+    サイズ: 36038
+    形式: html
+  - id: 岐阜県高山市_屋外広告物_早わかり
+    url: https://www.city.takayama.lg.jp/_res/projects/default_project/_page_/001/003/996/r7hayawakari.pdf
+    最終更新: Wed, 04 Jun 2025 05:12:45 GMT
+    状態: 取得済み
+    ファイル: 岐阜県高山市_屋外広告物_早わかり.pdf
+    取得日: 2026-11-16
+    sha256: 5a9788895ab8a6bdbdc11a971ec487e891292f33759651b69ccdca0d8c948aa7
+    サイズ: 9745404
+    形式: pdf
+    ページ数: 51
+  - id: 岐阜県美濃加茂市_屋外広告物_ページ
+    url: https://www.city.minokamo.lg.jp/soshiki/18/20303.html
+    最終更新: Mon, 16 Nov 2026 23:00:22 GMT
+    状態: 取得済み
+    ファイル: 岐阜県美濃加茂市_屋外広告物_ページ.html
+    取得日: 2026-11-16
+    sha256: e5bb3acea585f726aef6be2961e8c08fa2242fab802fec4459ca8a1627d86125
+    サイズ: 30035
+    形式: html
+  - id: 岐阜県羽島市_屋外広告物_ページ
+    url: https://www.city.hashima.lg.jp/2255.html
+    最終更新: Mon, 16 Nov 2026 23:54:49 GMT
+    状態: 取得済み
+    ファイル: 岐阜県羽島市_屋外広告物_ページ.html
+    取得日: 2026-11-16
+    sha256: 96af98b901478650e9d2646ce69cd2b3eb09868fea7c33f2c4f1f5640fb90eea
+    サイズ: 90157
+    形式: html
