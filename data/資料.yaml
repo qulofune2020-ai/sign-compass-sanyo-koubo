@@ -346,3 +346,12 @@
   - {id: 長崎県大村市_屋外広告物_変更, 自治体: 長崎県大村市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.omura.nagasaki.jp/keikan/kurashi/shinsesho/machizukuri/o-henko.html", メモ: "屋外広告物変更許可申請書"}
   - {id: 長崎県大村市_屋外広告物_管理者, 自治体: 長崎県大村市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.omura.nagasaki.jp/keikan/kurashi/shinsesho/machizukuri/o-kanri.html", メモ: "屋外広告物管理者等設置・変更届"}
   - {id: 長崎県大村市_屋外広告物_しおり, 自治体: 長崎県大村市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.omura.nagasaki.jp/keikan/machi/toshi/okugai/documents/okugaikoukokubutujyourei_siori_8.pdf", メモ: "大村市屋外広告物条例のしおり"}
+  # ---- 秋田県（秋田県屋外広告物条例） ----
+  - {id: 秋田県_屋外広告物_制度概要, 自治体: 秋田県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.akita.lg.jp/uploads/public/archive_0000000365_00/gaiyou.pdf", メモ: "屋外広告物制度の概要"}
+  - {id: 秋田県_屋外広告物_ルール, 自治体: 秋田県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.akita.lg.jp/uploads/public/archive_0000020954_00/屋外広告物のルール（パンフレット）.pdf", メモ: "屋外広告物のルール（パンフレット）"}
+  - {id: 秋田県_屋外広告物_安全点検, 自治体: 秋田県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.akita.lg.jp/pages/archive/30861", メモ: "条例及び施行規則の一部改正について（安全点検義務化スタート）"}
+  - {id: 秋田県_屋外広告物_改正概要, 自治体: 秋田県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.akita.lg.jp/uploads/public/archive_0000030861_00/秋田県屋外広告物条例及び同施行規則改正の概要パンフレット.pdf", メモ: "条例及び施行規則改正の概要パンフレット"}
+  # ---- 秋田県横手市（横手市屋外広告物条例） ----
+  - {id: 秋田県横手市_屋外広告物_ページ, 自治体: 秋田県横手市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.yokote.lg.jp/shigoto/1001167/1001396/1001398/1003025.html", メモ: "屋外広告物"}
+  - {id: 秋田県横手市_屋外広告物_パンフレット, 自治体: 秋田県横手市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.yokote.lg.jp/_res/projects/default_project/_page_/001/003/025/01.pdf", メモ: "横手市屋外広告物パンフレット（第5版・令和2年4月）"}
+  - {id: 秋田県横手市_屋外広告物_手数料, 自治体: 秋田県横手市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.yokote.lg.jp/_res/projects/default_project/_page_/001/003/025/000058061.pdf", メモ: "横手市屋外広告物等許可申請等手数料"}
