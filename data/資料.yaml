@@ -323,3 +323,15 @@
   - {id: 山梨県甲府市_屋外広告物_申請方法, 自治体: 山梨県甲府市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kofu.yamanashi.jp/documents/24601/sinseihouhou.pdf", メモ: "甲府市屋外広告物許可申請方法"}
   - {id: 山梨県甲府市_屋外広告物_手数料期間, 自治体: 山梨県甲府市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kofu.yamanashi.jp/documents/24601/tesuuryou.pdf", メモ: "手数料と許可期間"}
   - {id: 山梨県甲府市_屋外広告物_手引き, 自治体: 山梨県甲府市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.kofu.yamanashi.jp/documents/24601/tebiki_20230401.pdf", メモ: "屋外広告物の手引き（令和5年4月1日）"}
+  # ---- 岡山県（岡山県屋外広告物条例）：市の窓口表 ----
+  - {id: 岡山県_屋外広告物_窓口, 自治体: 岡山県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.okayama.jp/page/detail-18525.html", メモ: "５　許可申請等の受付窓口"}
+  # ---- 岡山県岡山市（岡山市屋外広告物条例） ----
+  - {id: 岡山県岡山市_屋外広告物_許可手続き, 自治体: 岡山県岡山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.okayama.jp/jigyosha/0000009546.html", メモ: "屋外広告物の許可手続きについて"}
+  - {id: 岡山県岡山市_屋外広告物_条例改正, 自治体: 岡山県岡山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.okayama.jp/jigyosha/0000028823.html", メモ: "岡山市屋外広告物条例の一部改正について"}
+  - {id: 岡山県岡山市_屋外広告物_改正概要, 自治体: 岡山県岡山市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.okayama.jp/jigyosha/cmsfiles/contents/0000028/28823/sinngaiyou.pdf", メモ: "岡山市屋外広告物条例の一部改正の概要"}
+  - {id: 岡山県岡山市_屋外広告物_許可申請書, 自治体: 岡山県岡山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.okayama.jp/shisei/0000012590.html", メモ: "屋外広告物表示(掲出物件設置)許可申請書"}
+  - {id: 岡山県岡山市_屋外広告物_手数料表, 自治体: 岡山県岡山市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.okayama.jp/shisei/cmsfiles/contents/0000012/12590/000156520.pdf", メモ: "手数料表（許可手数料と許可期間）"}
+  - {id: 岡山県岡山市_屋外広告物_変更申請, 自治体: 岡山県岡山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.okayama.jp/shisei/0000012599.html", メモ: "屋外広告物(掲出物件)変更(改造)許可申請書"}
+  - {id: 岡山県岡山市_屋外広告物_変更届, 自治体: 岡山県岡山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.okayama.jp/shisei/0000012611.html", メモ: "屋外広告物設置者(管理者)変更届"}
+  - {id: 岡山県_屋外広告物_申請手続き, 自治体: 岡山県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.okayama.jp/uploaded/life/739940_6768021_misc.pdf", メモ: "屋外広告物の許可申請手続き等について（令和3年4月からの変更）"}
+  - {id: 岡山県_屋外広告物_改正概要, 自治体: 岡山県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.okayama.jp/uploaded/life/739940_6768014_misc.pdf", メモ: "岡山県屋外広告物条例一部改正の概要"}
