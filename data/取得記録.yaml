@@ -2469,3 +2469,96 @@
     サイズ: 35808
     形式: pdf
     ページ数: 1
+  - id: 長野県_屋外広告物_しおり
+    url: https://www.pref.nagano.lg.jp/toshikei/kurashi/sumai/kokoku/jore/documents/230701_okugaikoukokubutunoshiori.pdf
+    最終更新: Mon, 08 Jun 2026 01:00:30 GMT
+    状態: 取得済み
+    ファイル: 長野県_屋外広告物_しおり.pdf
+    取得日: 2026-11-18
+    sha256: 648f117391a27cf4d68b5472991d25b594b7241cd2c9948615febd1c49dbf090
+    サイズ: 1330765
+    形式: pdf
+    ページ数: 23
+  - id: 長野県_屋外広告物_安全点検
+    url: https://www.pref.nagano.lg.jp/toshikei/kurashi/sumai/kokoku/tenken.html
+    最終更新: Mon, 10 Aug 2026 05:00:54 GMT
+    状態: 取得済み
+    ファイル: 長野県_屋外広告物_安全点検.html
+    取得日: 2026-11-18
+    sha256: 4398778e60e92163801f65a02a959ec8c28e9d01295d6dcd44b5c516008af439
+    サイズ: 23331
+    形式: html
+  - id: 長野県上田市_屋外広告物_規制
+    url: https://www.city.ueda.nagano.jp/soshiki/tosikei/6102.html
+    最終更新: Tue, 17 Nov 2026 17:00:54 GMT
+    状態: 取得済み
+    ファイル: 長野県上田市_屋外広告物_規制.html
+    取得日: 2026-11-18
+    sha256: 8b00aef965cf66709637bc5a25bb0d6b5142b8ed095fb0dab3da225616dcdcd7
+    サイズ: 36347
+    形式: html
+  - id: 長野県上田市_屋外広告物_申請書
+    url: https://www.city.ueda.nagano.jp/soshiki/tosikei/6132.html
+    最終更新: Tue, 17 Nov 2026 17:01:31 GMT
+    状態: 取得済み
+    ファイル: 長野県上田市_屋外広告物_申請書.html
+    取得日: 2026-11-18
+    sha256: 997e313995c870bf2f13a0ef1087d73f17603964186ec6d41b8b17b9c034aa09
+    サイズ: 29144
+    形式: html
+  - id: 長野県上田市_屋外広告物_規則
+    url: https://www.city.ueda.nagano.jp/contents/reiki/reiki_int/reiki_honbun/r360RG00000598.html
+    最終更新: Wed, 11 Nov 2026 23:18:38 GMT
+    状態: 取得済み
+    ファイル: 長野県上田市_屋外広告物_規則.html
+    取得日: 2026-11-18
+    sha256: 5c71fa000908d8a687a0cb76eaa544530b927d688fcaca24884b931e42b9d1b7
+    サイズ: 34644
+    形式: html
+  - id: 長野県諏訪市_屋外広告物_申請
+    url: https://www.city.suwa.lg.jp/soshiki/21/1248.html
+    最終更新: Wed, 18 Nov 2026 00:00:50 GMT
+    状態: 取得済み
+    ファイル: 長野県諏訪市_屋外広告物_申請.html
+    取得日: 2026-11-18
+    sha256: 8dabd2a2b414388290764e9c1cf6aebb7a5110bd4c7070b8853d0d1e06e68041
+    サイズ: 29509
+    形式: html
+  - id: 長野県諏訪市_屋外広告物_条例ページ
+    url: https://www.city.suwa.lg.jp/soshiki/21/1243.html
+    最終更新: Wed, 18 Nov 2026 00:00:27 GMT
+    状態: 取得済み
+    ファイル: 長野県諏訪市_屋外広告物_条例ページ.html
+    取得日: 2026-11-18
+    sha256: 6f27650c8f12d99a857ca2473d52f008d11f9ed471823af9b7a3e79df2b7d8b6
+    サイズ: 29781
+    形式: html
+  - id: 長野県諏訪市_屋外広告物_点検
+    url: https://www.city.suwa.lg.jp/soshiki/21/1294.html
+    最終更新: Wed, 18 Nov 2026 00:00:12 GMT
+    状態: 取得済み
+    ファイル: 長野県諏訪市_屋外広告物_点検.html
+    取得日: 2026-11-18
+    sha256: 76df0d402b2aa22ae6881cd4794e485562b4a2dfedabfa9e23c6c44eb1b70acf
+    サイズ: 28163
+    形式: html
+  - id: 長野県諏訪市_屋外広告物_概要
+    url: https://www.city.suwa.lg.jp/uploaded/attachment/50651.pdf
+    最終更新: Tue, 31 Mar 2026 02:15:27 GMT
+    状態: 取得済み
+    ファイル: 長野県諏訪市_屋外広告物_概要.pdf
+    取得日: 2026-11-18
+    sha256: bfe87b7aadfae2632e9f59b7047359877dd0a8a8078478ef465b6a2836d4fa04
+    サイズ: 700424
+    形式: pdf
+    ページ数: 14
+  - id: 長野県諏訪市_屋外広告物_施行規則
+    url: https://www.city.suwa.lg.jp/uploaded/attachment/1713.pdf
+    最終更新: Thu, 07 Aug 2025 01:30:13 GMT
+    状態: 取得済み
+    ファイル: 長野県諏訪市_屋外広告物_施行規則.pdf
+    取得日: 2026-11-18
+    sha256: df60db11e7a1977907a8ac222104ded1c0293de9daa7e33ea8fb7252c844ed12
+    サイズ: 225647
+    形式: pdf
+    ページ数: 6

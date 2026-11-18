@@ -355,3 +355,16 @@
   - {id: 秋田県横手市_屋外広告物_ページ, 自治体: 秋田県横手市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.yokote.lg.jp/shigoto/1001167/1001396/1001398/1003025.html", メモ: "屋外広告物"}
   - {id: 秋田県横手市_屋外広告物_パンフレット, 自治体: 秋田県横手市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.yokote.lg.jp/_res/projects/default_project/_page_/001/003/025/01.pdf", メモ: "横手市屋外広告物パンフレット（第5版・令和2年4月）"}
   - {id: 秋田県横手市_屋外広告物_手数料, 自治体: 秋田県横手市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.yokote.lg.jp/_res/projects/default_project/_page_/001/003/025/000058061.pdf", メモ: "横手市屋外広告物等許可申請等手数料"}
+  # ---- 長野県（長野県屋外広告物条例） ----
+  - {id: 長野県_屋外広告物_しおり, 自治体: 長野県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.nagano.lg.jp/toshikei/kurashi/sumai/kokoku/jore/documents/230701_okugaikoukokubutunoshiori.pdf", メモ: "屋外広告物のしおり（令和5年7月）"}
+  - {id: 長野県_屋外広告物_安全点検, 自治体: 長野県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.nagano.lg.jp/toshikei/kurashi/sumai/kokoku/tenken.html", メモ: "屋外広告物の安全点検の義務化について"}
+  # ---- 長野県上田市（県条例・事務は市） ----
+  - {id: 長野県上田市_屋外広告物_規制, 自治体: 長野県上田市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.ueda.nagano.jp/soshiki/tosikei/6102.html", メモ: "屋外広告物の規制"}
+  - {id: 長野県上田市_屋外広告物_申請書, 自治体: 長野県上田市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.ueda.nagano.jp/soshiki/tosikei/6132.html", メモ: "長野県屋外広告物条例 許可申請書"}
+  - {id: 長野県上田市_屋外広告物_規則, 自治体: 長野県上田市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.ueda.nagano.jp/contents/reiki/reiki_int/reiki_honbun/r360RG00000598.html", メモ: "上田市屋外広告物に関する規則（例規集）"}
+  # ---- 長野県諏訪市（諏訪市屋外広告物条例） ----
+  - {id: 長野県諏訪市_屋外広告物_申請, 自治体: 長野県諏訪市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.suwa.lg.jp/soshiki/21/1248.html", メモ: "屋外広告物の表示申請など"}
+  - {id: 長野県諏訪市_屋外広告物_条例ページ, 自治体: 長野県諏訪市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.suwa.lg.jp/soshiki/21/1243.html", メモ: "諏訪市屋外広告物条例について"}
+  - {id: 長野県諏訪市_屋外広告物_点検, 自治体: 長野県諏訪市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.suwa.lg.jp/soshiki/21/1294.html", メモ: "屋外広告物の点検は資格が必要になります。"}
+  - {id: 長野県諏訪市_屋外広告物_概要, 自治体: 長野県諏訪市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.suwa.lg.jp/uploaded/attachment/50651.pdf", メモ: "諏訪市屋外広告物条例の概要"}
+  - {id: 長野県諏訪市_屋外広告物_施行規則, 自治体: 長野県諏訪市, 区分: 屋外広告物, 種別: 規則, 最初の版で読む: true, url: "https://www.city.suwa.lg.jp/uploaded/attachment/1713.pdf", メモ: "諏訪市屋外広告物条例施行規則"}
