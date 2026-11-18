@@ -335,3 +335,14 @@
   - {id: 岡山県岡山市_屋外広告物_変更届, 自治体: 岡山県岡山市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.okayama.jp/shisei/0000012611.html", メモ: "屋外広告物設置者(管理者)変更届"}
   - {id: 岡山県_屋外広告物_申請手続き, 自治体: 岡山県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.okayama.jp/uploaded/life/739940_6768021_misc.pdf", メモ: "屋外広告物の許可申請手続き等について（令和3年4月からの変更）"}
   - {id: 岡山県_屋外広告物_改正概要, 自治体: 岡山県, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.pref.okayama.jp/uploaded/life/739940_6768014_misc.pdf", メモ: "岡山県屋外広告物条例一部改正の概要"}
+  # ---- 長崎県（長崎県屋外広告物条例） ----
+  - {id: 長崎県_屋外広告物_許可手続き, 自治体: 長崎県, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.pref.nagasaki.jp/doc/page-712810.html", メモ: "屋外広告物の設置許可等の手続きについて"}
+  # ---- 長崎県諫早市（県条例・窓口は市） ----
+  - {id: 長崎県諫早市_屋外広告物_ページ, 自治体: 長崎県諫早市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.isahaya.nagasaki.jp/soshiki/61/1544.html", メモ: "屋外広告物の掲出には許可が必要です"}
+  # ---- 長崎県大村市（大村市屋外広告物条例） ----
+  - {id: 長崎県大村市_屋外広告物_許可, 自治体: 長崎県大村市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.omura.nagasaki.jp/keikan/machi/toshi/okugai/kyoka.html", メモ: "屋外広告物の許可について"}
+  - {id: 長崎県大村市_屋外広告物_更新, 自治体: 長崎県大村市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.omura.nagasaki.jp/keikan/kurashi/shinsesho/machizukuri/o-koshin.html", メモ: "屋外広告物更新許可申請について"}
+  - {id: 長崎県大村市_屋外広告物_手数料, 自治体: 長崎県大村市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.omura.nagasaki.jp/keikan/kurashi/shinsesho/machizukuri/o-tesuryo.html", メモ: "屋外広告物許可申請手数料"}
+  - {id: 長崎県大村市_屋外広告物_変更, 自治体: 長崎県大村市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.omura.nagasaki.jp/keikan/kurashi/shinsesho/machizukuri/o-henko.html", メモ: "屋外広告物変更許可申請書"}
+  - {id: 長崎県大村市_屋外広告物_管理者, 自治体: 長崎県大村市, 区分: 屋外広告物, 種別: ページ, 最初の版で読む: true, url: "https://www.city.omura.nagasaki.jp/keikan/kurashi/shinsesho/machizukuri/o-kanri.html", メモ: "屋外広告物管理者等設置・変更届"}
+  - {id: 長崎県大村市_屋外広告物_しおり, 自治体: 長崎県大村市, 区分: 屋外広告物, 種別: 手引き, 最初の版で読む: true, url: "https://www.city.omura.nagasaki.jp/keikan/machi/toshi/okugai/documents/okugaikoukokubutujyourei_siori_8.pdf", メモ: "大村市屋外広告物条例のしおり"}

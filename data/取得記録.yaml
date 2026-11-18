@@ -2329,3 +2329,76 @@
     サイズ: 352824
     形式: pdf
     ページ数: 2
+  - id: 長崎県_屋外広告物_許可手続き
+    url: https://www.pref.nagasaki.jp/doc/page-712810.html
+    最終更新: Thu, 30 Jul 2026 03:16:46 GMT
+    状態: 取得済み
+    ファイル: 長崎県_屋外広告物_許可手続き.html
+    取得日: 2026-11-18
+    sha256: 30684f4153c3e6dbe0be3819d1c7745061344d37b7e92de80e01308f68016482
+    サイズ: 71690
+    形式: html
+  - id: 長崎県諫早市_屋外広告物_ページ
+    url: https://www.city.isahaya.nagasaki.jp/soshiki/61/1544.html
+    最終更新: Wed, 18 Nov 2026 00:02:14 GMT
+    状態: 取得済み
+    ファイル: 長崎県諫早市_屋外広告物_ページ.html
+    取得日: 2026-11-18
+    sha256: 6f66cb95d7901b7f2ff3462f6efcf1b0061002e3267d79714345ab10275719c6
+    サイズ: 38329
+    形式: html
+  - id: 長崎県大村市_屋外広告物_許可
+    url: https://www.city.omura.nagasaki.jp/keikan/machi/toshi/okugai/kyoka.html
+    最終更新: Fri, 05 Dec 2025 10:34:51 GMT
+    状態: 取得済み
+    ファイル: 長崎県大村市_屋外広告物_許可.html
+    取得日: 2026-11-18
+    sha256: f546f84cfa8c6cde692b72408013793a9f80845480aa9cfa75e3d6f63a1147f4
+    サイズ: 21256
+    形式: html
+  - id: 長崎県大村市_屋外広告物_更新
+    url: https://www.city.omura.nagasaki.jp/keikan/kurashi/shinsesho/machizukuri/o-koshin.html
+    最終更新: Thu, 05 Nov 2026 04:06:15 GMT
+    状態: 取得済み
+    ファイル: 長崎県大村市_屋外広告物_更新.html
+    取得日: 2026-11-18
+    sha256: 98ce44fd19ccee1eb8f737ee7a4da2e193e76f300a3a16118360fa03fba356cb
+    サイズ: 20020
+    形式: html
+  - id: 長崎県大村市_屋外広告物_手数料
+    url: https://www.city.omura.nagasaki.jp/keikan/kurashi/shinsesho/machizukuri/o-tesuryo.html
+    最終更新: Thu, 05 Nov 2026 04:06:15 GMT
+    状態: 取得済み
+    ファイル: 長崎県大村市_屋外広告物_手数料.html
+    取得日: 2026-11-18
+    sha256: daf3c507240897795c681e8383fa524b4ce843d6fdd61362abfdbe003be83219
+    サイズ: 24493
+    形式: html
+  - id: 長崎県大村市_屋外広告物_変更
+    url: https://www.city.omura.nagasaki.jp/keikan/kurashi/shinsesho/machizukuri/o-henko.html
+    最終更新: Thu, 05 Nov 2026 04:06:16 GMT
+    状態: 取得済み
+    ファイル: 長崎県大村市_屋外広告物_変更.html
+    取得日: 2026-11-18
+    sha256: 0ebb07cbccdba49fff822f33520bcf4ac9d42219c55883c1707253513b7c5b92
+    サイズ: 20935
+    形式: html
+  - id: 長崎県大村市_屋外広告物_管理者
+    url: https://www.city.omura.nagasaki.jp/keikan/kurashi/shinsesho/machizukuri/o-kanri.html
+    最終更新: Thu, 05 Nov 2026 04:06:15 GMT
+    状態: 取得済み
+    ファイル: 長崎県大村市_屋外広告物_管理者.html
+    取得日: 2026-11-18
+    sha256: ca60aeead9c8b9ea97b7aa802a4afbcf8ea55fe1a25ba7dae03bf8e061037515
+    サイズ: 19732
+    形式: html
+  - id: 長崎県大村市_屋外広告物_しおり
+    url: https://www.city.omura.nagasaki.jp/keikan/machi/toshi/okugai/documents/okugaikoukokubutujyourei_siori_8.pdf
+    最終更新: Fri, 26 Jan 2024 01:00:19 GMT
+    状態: 取得済み
+    ファイル: 長崎県大村市_屋外広告物_しおり.pdf
+    取得日: 2026-11-18
+    sha256: d8bdf51eeef224ebb252ba571a1aa638336a1c5d6534dbd50c3ef34bf2f3b7d6
+    サイズ: 600760
+    形式: pdf
+    ページ数: 2
